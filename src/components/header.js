@@ -10,11 +10,15 @@ const Header = () => {
                 siteMetadata {
                     title
                     description
+                    flatNavItems {
+                        name
+                        link
+                    }
                 }
             }
         }
       `
-  )
+  );
   return (
       <header className={headerStyles.header}>
           <div className={headerStyles.overlay}></div>
@@ -28,18 +32,16 @@ const Header = () => {
           </div>
           <nav className={headerStyles.navContainer}>
               <ul className={headerStyles.navList}>
-                  <li>
-                    <Link to="/" activeClassName={headerStyles.activeMenuItem}>Home</Link>
-                  </li>
-                  <li>
-                      <Link to="/blog/" activeClassName={headerStyles.activeMenuItem}>Blog</Link>
-                  </li>
-                  <li>
-                      <Link to="/contact/" activeClassName={headerStyles.activeMenuItem}>Contact</Link>
-                  </li>
-                  <li>
-                      <Link to="/about/" activeClassName={headerStyles.activeMenuItem}>About</Link>
-                  </li>
+                  {
+                      data.site.siteMetadata.flatNavItems.map(link => (
+                          <li key={link.name}>
+                              <Link to={link.link} activeClassName={headerStyles.activeMenuItem}>
+                                  {link.name}
+                              </Link>
+                          </li>
+
+                      ))
+                  }
                   <li>
                       <a target="_blank" rel="noreferrer" href="https://instagram.com/spaqout" activeclassname={headerStyles.activeMenuItem} >Instagram</a>
                   </li>

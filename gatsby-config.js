@@ -9,8 +9,27 @@ module.exports = {
   siteMetadata: {
     title: "spaq.in",
     description: "professional programmer, amateur photographer, or the other way around",
-    author: "Spaqin"
+    author: "Spaqin",
+    flatNavItems: [
+      {
+        name: "Home",
+        link: "/",
+      },
+      {
+        name: "Blog",
+        link: "/blog/",
+      },
+      {
+        name: "Contact",
+        link: "/contact/",
+      },
+      {
+        name: "About",
+        link: "/about/",
+      },
+    ]
   },
+
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
