@@ -41,6 +41,7 @@ const Blog = () => {
   return (
     <Layout>
       <Metadata title="Blog" description="this is the part no one cares about" />
+      <h1>Blog</h1>
       <ul className={blogStyles.posts}>
         {data.allMarkdownRemark.edges.map(edge => {
           return (

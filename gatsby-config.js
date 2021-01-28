@@ -22,11 +22,6 @@ module.exports = {
         subItems: [],
       },
       {
-        name: "Contact",
-        link: "/contact/",
-        subItems: [],
-      },
-      {
         name: "About",
         link: "/about/",
         subItems: [],

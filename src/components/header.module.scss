@@ -90,7 +90,7 @@
         display: none;
         position: absolute;
         padding: 0.5rem;
-        width: 200px;
+        width: 150px;
         list-style: none;
   
         a {
@@ -98,6 +98,7 @@
         }
         li {
           color:rgb(0, 0, 0);
+          padding: 3px 2px 2px;
     
           &:hover {
             text-decoration: underline;
@@ -110,11 +111,9 @@
         .img-td {
           width: 20px;
           vertical-align: middle;
-          margin-right: 0px;
         }
 
         .link-td {
-          margin-left: 0px;
           vertical-align: middle;
           display: table-cell;
         }

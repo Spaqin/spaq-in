@@ -5,8 +5,9 @@ import headerStyles from "./header.module.scss"
 
 const NavSubItem = ({subItem, data}) => {
     return (
-        <li key={subItem.name}>
+        <li>
             <table>
+            <tbody>
             <tr>
                 <td className={headerStyles.imgTd}>
                 <a href={subItem.link} target="_blank" rel="noreferrer" activeclassname={headerStyles.activeMenuItem} >
@@ -18,7 +19,6 @@ const NavSubItem = ({subItem, data}) => {
                         else
                             return false}
                     )[0].node.childImageSharp.fluid}
-                    alt={subItem.name}
                 />
                 </a>
                 </td>
@@ -29,6 +29,7 @@ const NavSubItem = ({subItem, data}) => {
                 </td>
 
             </tr>
+            </tbody>
             </table>
         </li>
     )
@@ -95,7 +96,7 @@ const Header = () => {
                                 {(link.subItems.length > 0) && (
                                     <ul>
                                         {link.subItems.map((subItem) =>
-                                            <NavSubItem subItem={subItem} data={data}/>)}
+                                            <NavSubItem subItem={subItem} data={data} key={subItem.name}/>)}
                                     </ul>
                                 )}
                           </li>
