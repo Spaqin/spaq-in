@@ -14,20 +14,45 @@ module.exports = {
       {
         name: "Home",
         link: "/",
+        subItems: [],
       },
       {
         name: "Blog",
         link: "/blog/",
+        subItems: [],
       },
       {
         name: "Contact",
         link: "/contact/",
+        subItems: [],
       },
       {
         name: "About",
         link: "/about/",
+        subItems: [],
       },
-    ]
+      {
+        name: "Social",
+        link: "",
+        subItems: [
+          {
+            name: "GitHub",
+            link: "https://github.com/spaqin",
+            icon: "github.png"
+          },
+          {
+            name: "Instagram",
+            link: "https://instagram.com/spaqout",
+            icon: "insta.png"
+          },
+          {
+            name: "Flickr",
+            link: "https://flickr.com/people/142490931@N02/",
+            icon: "flickr.png"
+          },
+        ],
+      },
+    ],
   },
 
   plugins: [

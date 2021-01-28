@@ -1,6 +1,38 @@
 import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
+import Img from "gatsby-image"
 import headerStyles from "./header.module.scss"
+
+const NavSubItem = ({subItem, data}) => {
+    return (
+        <li key={subItem.name}>
+            <table>
+            <tr>
+                <td className={headerStyles.imgTd}>
+                <a href={subItem.link} target="_blank" rel="noreferrer" activeclassname={headerStyles.activeMenuItem} >
+                <Img 
+                    className={headerStyles.icon}
+                    fluid={data.allFile.edges.filter( edge => {
+                        if(edge.node.childImageSharp)
+                            return edge.node.childImageSharp.fluid.originalName === subItem.icon 
+                        else
+                            return false}
+                    )[0].node.childImageSharp.fluid}
+                    alt={subItem.name}
+                />
+                </a>
+                </td>
+                <td className={headerStyles.linkTd}>
+                    <a href={subItem.link} target="_blank" rel="noreferrer" activeclassname={headerStyles.activeMenuItem} >
+                        {subItem.name}            
+                    </a>
+                </td>
+
+            </tr>
+            </table>
+        </li>
+    )
+}
 
 const Header = () => {
   const data = useStaticQuery(
@@ -13,6 +45,23 @@ const Header = () => {
                     flatNavItems {
                         name
                         link
+                        subItems {
+                            name
+                            link
+                            icon
+                        }
+                    }
+                }
+            }
+            allFile(filter: {extension: {eq: "png"}}) {
+                edges {
+                    node {
+                        childImageSharp {
+                            fluid (maxWidth: 16) {
+                                ...GatsbyImageSharpFluid
+                                originalName
+                            }
+                        }
                     }
                 }
             }
@@ -35,16 +84,24 @@ const Header = () => {
                   {
                       data.site.siteMetadata.flatNavItems.map(link => (
                           <li key={link.name}>
-                              <Link to={link.link} activeClassName={headerStyles.activeMenuItem}>
-                                  {link.name}
-                              </Link>
+                              {link.link ? 
+                                (<Link to={link.link} activeClassName={headerStyles.activeMenuItem}>
+                                    {link.name}
+                                </Link>)
+                                  :
+                                <button type="button" >
+                                        {link.name}
+                                </button>}
+                                {(link.subItems.length > 0) && (
+                                    <ul>
+                                        {link.subItems.map((subItem) =>
+                                            <NavSubItem subItem={subItem} data={data}/>)}
+                                    </ul>
+                                )}
                           </li>
 
                       ))
                   }
-                  <li>
-                      <a target="_blank" rel="noreferrer" href="https://instagram.com/spaqout" activeclassname={headerStyles.activeMenuItem} >Instagram</a>
-                  </li>
               </ul>
           </nav>
       </header>
