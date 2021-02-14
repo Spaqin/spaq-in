@@ -45,6 +45,11 @@ module.exports = {
             link: "https://flickr.com/people/142490931@N02/",
             icon: "flickr.png"
           },
+          {
+            name: "Last.fm",
+            link: "https://www.last.fm/user/Spaqin/",
+            icon: "lastfm.png"
+          },
         ],
       },
     ],
