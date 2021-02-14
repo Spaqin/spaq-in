@@ -31,7 +31,7 @@ const Korea = () => {
     <Layout>
       <Metadata title={title} description={"pictures from " + title}/>
       <h1>{title}</h1>
-      <p>I have studied there back in 2015 and 2016. However, I wasn't good at taking pictures back then, so I had to go back and shoot some more.</p>
+      <p>I have studied there back in 2015 and 2016. However, I wasn't good at taking pictures back then, so I had to go back and shoot some more. And I did, in October 2019.</p>
       <p>Most of them were shot with a Canon 700D with a Sigma 18-200mm lens, some may have been taken with a Mamiya RB67 too.</p>
       <Gallery images={images}/>
     </Layout>

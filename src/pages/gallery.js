@@ -56,7 +56,7 @@ const Gallery = () => {
       <Metadata title="Gallery" description="the pretentious place"/>
       <h1>Gallery</h1>
       <p>Here you will find various pictures I have taken over the years. With different cameras, lenses, film, digital. Since I don't have a project per se yet, it's more of an assortment rather than something meaningful.</p>
-      <div>
+      <div className={galleryStyles.galleryDiv}>
           {Object.keys(thumb_arr).map( (link) => <GalleryLink thumbArr={thumb_arr} link={link} key={link}/>)}
       </div>    
 

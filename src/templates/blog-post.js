@@ -16,7 +16,7 @@ export const query = graphql`
         date(formatString: "DD MMMM, YYYY")
         featured {
             childImageSharp {
-                fluid(maxWidth: 750) {
+                fluid(maxWidth: 900) {
                     ...GatsbyImageSharpFluid
                 }
             }
