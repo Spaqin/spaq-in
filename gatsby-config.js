@@ -17,6 +17,11 @@ module.exports = {
         subItems: [],
       },
       {
+        name: "Gallery",
+        link: "/gallery/",
+        subItems: [],
+      },
+      {
         name: "Blog",
         link: "/blog/",
         subItems: [],
@@ -70,6 +75,7 @@ module.exports = {
     { 
       resolve: "gatsby-transformer-remark",
       options: {
+        icon: "src/images/gatsby-icon.png",
         plugins: [
           {
             resolve: "gatsby-remark-images",
