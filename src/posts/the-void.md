@@ -6,8 +6,8 @@ featured: "../images/thevoid.png"
 
 During my first steps in photography, it seemed to me like the gear used was super important. Lenses, bodies. I mean, I had a Zenit ET for my first few rolls, so that was valid in a way. Not that I could afford much (or frankly, I decided not to spend too much), really, so I went with cheap, albeit effective options.
 
-I went through some decent gear, some of which I still use. I also acquired some proper equipment, though - mainly, Mamiya RB67, and a Minolta XG-1 with really nice lenses. I had enough with the cheap stuff, so I decided to focus only on good stuff.
-I handled a Leica M7 with the 35mm f1.4 Summicron. I shot the fancy films like Portra 400 and Pro 400h. 
+I went through some decent gear, some of which I still use. I also acquired some proper equipment, even though it was bit more expensive for my tastes - mainly, Mamiya RB67 (got a good deal on it, and they were cheaper back then too), and a Minolta XG-1 with really nice lenses. I had enough with the cheap gear, so I decided to focus only on good stuff.
+I also had the opportunity to handle a Leica M7 with the 35mm f1.4 Summicron, and the M10 as well. I shot the fancy films like Portra 400 and Pro 400h. 
 
 They're good. Objectively good.
 
