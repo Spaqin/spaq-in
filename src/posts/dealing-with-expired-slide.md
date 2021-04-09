@@ -48,7 +48,7 @@ Pushing refers to exposing the film at half the light (if pushing by one stop), 
 
 The logic here is fuzzy and I was mostly going by what my heart told me. My thought process was, okay, red dye is the main dye left, with a small amount of blue and green left. If I give it less light, maybe the remaining dyes will pick up the slack, especially with longer development times?
 
-![Pushed before after](../images/expiredslide/push_before_after.jpg)
+![Pushed before after](../images/expiredslide/push_before_after.png)
 
 No.
 
