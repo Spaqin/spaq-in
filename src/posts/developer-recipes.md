@@ -11,6 +11,7 @@ Mostly, developers similar to D-76 and its variations will be included.
 # D76 (Kodak/Ilford ID-11)
 
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -20,11 +21,10 @@ Mostly, developers similar to D-76 and its variations will be included.
 |Borax |2g|
 |Water to| 1L |
 
-
-
 # D76 (Kodak Australia)
 
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -34,8 +34,6 @@ Mostly, developers similar to D-76 and its variations will be included.
 |Borax |4g|
 |Boric Acid| 2g|
 |Water to| 1L |
-
-
 
 # D76 R/ID-11 R (replenisher)
 
@@ -66,13 +64,12 @@ Replenisher for D76/ID-11.
 | Sodium tripolyphosphate| 3.5g|
 | Water to| 1L |
 
-
-
 Likely the commercial version of ID-11.
 
 # D76a
 
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -83,11 +80,10 @@ Likely the commercial version of ID-11.
 | Boric Acid| 14g|
 | Water to| 1L |
 
-
-
 # D76b
 
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -97,11 +93,10 @@ Likely the commercial version of ID-11.
 | Borax |2.5g|
 | Water to| 1L |
 
-
-
 # D76c
 
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -112,10 +107,9 @@ Likely the commercial version of ID-11.
 | KI (Potassium iodide) | 10mg |
 | Water to| 1L |
 
-
-
 # D76d/ID-166
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -126,13 +120,12 @@ Likely the commercial version of ID-11.
 | Boric Acid | 8g |
 | Water to| 1L |
 
-
-
 *Author's note*: I actually used this one a fair bit. In general, use D76 times plus 50% (yes, fifty percent longer development). 1L is good for 10 rolls without replenishing, but do increase dev time by 10% on 5th roll and 10% on next rolls.
 
 # D76d R (replenisher)
 
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -145,6 +138,7 @@ Likely the commercial version of ID-11.
 
 # D76F
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -154,10 +148,9 @@ Likely the commercial version of ID-11.
 | Borax | 20g |
 | Water to| 1L |
 
-
-
 # DK76
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -167,10 +160,9 @@ Likely the commercial version of ID-11.
 | Sodium Metaborate | 2g |
 | Water to | 1L |
 
-
-
 # DK76b
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -179,10 +171,9 @@ Likely the commercial version of ID-11.
 | Sodium Metaborate | 2g |
 | Water to | 1L |
 
-
-
 # DK76F
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -192,10 +183,9 @@ Likely the commercial version of ID-11.
 | Boric Acid| 2-20g |
 | Water to | 1L |
 
-
-
 # KD28 (Konica)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -206,8 +196,6 @@ Likely the commercial version of ID-11.
 | Borax | 8g |
 | Boric Acid | 8g |
 | Water to | 1L |
-
-
 
 # D76h
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
@@ -222,10 +210,9 @@ Likely the commercial version of ID-11.
 | Boric Acid | 15g |
 | Water to | 1L |
 
-
-
 # D76 (Windisch)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -235,10 +222,9 @@ Likely the commercial version of ID-11.
 | Borax | 8g |
 | Water to | 1L |
 
-
-
 # D76x 
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -250,8 +236,6 @@ Likely the commercial version of ID-11.
 | Boric Acid | 15g |
 | Water to | 1L |
 
-
-
 # D89 
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
 | Substance | Quantity|
@@ -262,8 +246,6 @@ Likely the commercial version of ID-11.
 | Hydroquinone| 5g|
 |Pinacryptol green| 1+500 5ml |
 | Water to | 1L |
-
-
 
 # D89 (Alternative)
 
@@ -280,7 +262,6 @@ Compared to D76, it should give less base fog (thanks to potassium bromide). Hyd
 | Borax | 5g |
 | Water to | 1L |
 
-
 # D103
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
 
@@ -295,10 +276,9 @@ Compared to D76, it should give less base fog (thanks to potassium bromide). Hyd
 | Boric Acid | 15g |
 | Water to | 1L |
 
-
-
 # EK Research FG
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -307,10 +287,9 @@ Compared to D76, it should give less base fog (thanks to potassium bromide). Hyd
 | Borax | 2g |
 | Water to | 1.6L |
 
-
-
 # FD22 (Fuji)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -321,10 +300,9 @@ Compared to D76, it should give less base fog (thanks to potassium bromide). Hyd
 | Sodium Metaborate| 2g |
 | Water to | 1L |
 
-
-
 # SD20 (Konica)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -335,10 +313,9 @@ Compared to D76, it should give less base fog (thanks to potassium bromide). Hyd
 | Sodium Metaborate| 2g |
 | Water to | 1L |
 
-
-
 # Agfa 44/Ansco 17
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -349,10 +326,9 @@ Compared to D76, it should give less base fog (thanks to potassium bromide). Hyd
 | Borax | 3g |
 | Water to | 1L |
 
-
-
 # Ansco 17M
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -363,10 +339,9 @@ Compared to D76, it should give less base fog (thanks to potassium bromide). Hyd
 | Sodium Metaborate| 2g|
 | Water to | 1L |
 
-
-
 # Gevaert 206
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -376,10 +351,9 @@ Compared to D76, it should give less base fog (thanks to potassium bromide). Hyd
 | Borax | 2g |
 | Water to | 1L |
 
-
-
 # Adox Borax MQ/FR 2
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm) ([also here](https://project-double-x.com/developer-formulas/))
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -390,14 +364,13 @@ Compared to D76, it should give less base fog (thanks to potassium bromide). Hyd
 | Borax | 4g |
 | Water to | 1L |
 
-
-
 Gives sharper results than D-76, with 10-20% longer development times. Full film speed.
 
 *Author's Note*: I am keeping an eye on this one, I may actually give it a try and post a review of sorts. Just need to get my hands on potassium bromide.
 
 # Adox Borax MQ/FR 2 R (replenisher)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm) ([also here](https://project-double-x.com/developer-formulas/))
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -411,6 +384,7 @@ Replenisher is used at rate of 20ml per roll.
 
 # FR 7
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -421,10 +395,9 @@ Replenisher is used at rate of 20ml per roll.
 | Benzotriazole soln (?)| 5ml 1%|
 | Water to | 1L |
 
-
-
 # Agfa 19
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -435,10 +408,9 @@ Replenisher is used at rate of 20ml per roll.
 | Borax | 2g |
 | Water to | 1L |
 
-
-
 # Agfa 19 R (replenisher)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -450,6 +422,7 @@ Replenisher is used at rate of 20ml per roll.
 
 # 4-D (Defender)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -463,6 +436,7 @@ Replenisher is used at rate of 20ml per roll.
 
 # 4a-D (replenisher)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -474,6 +448,7 @@ Replenisher is used at rate of 20ml per roll.
 
 # H76 ("D76H") (Haist)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 Different from D76h, as this does not use hydroquinone.
 
 | Substance | Quantity|
@@ -483,9 +458,6 @@ Different from D76h, as this does not use hydroquinone.
 | Sodium Sulphite| 100g |
 | Borax | 2g |
 | Water to | 1L |
-
-
-
 
 # D96 (Kodak)
 
@@ -502,8 +474,6 @@ Movie stock developer. Recommended for Double-X.
 | Potassium Bromide | 0.4g |
 | Borax | 4.5g |
 | Water to | 1L |
-
-
 
 *Author's Note*: I also have my sights on this one.
 
@@ -524,6 +494,7 @@ Replenisher is used at rate of 20mL per roll.
 
 # FG PQ 1 (Ilford)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 These developers are different in that they use phenidone instead of metol as their main developer.
 
 | Substance | Quantity|
@@ -539,6 +510,7 @@ These developers are different in that they use phenidone instead of metol as th
 
 # FG PQ 1 Ra (replenisher)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -553,6 +525,7 @@ No instructions attached, unfortunately.
 
 # FG PQ 1 Rb (replenisher)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -567,6 +540,7 @@ No instructions attached, unfortunately.
 
 # FG PQ 2 (Ilford)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -580,6 +554,7 @@ No instructions attached, unfortunately.
 
 # FG PQ 3 (Ilford)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -594,6 +569,7 @@ No instructions attached, unfortunately.
 
 # ID-68 (Ilford)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -607,6 +583,7 @@ No instructions attached, unfortunately.
 
 # ID-68 R (replenisher)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -618,6 +595,7 @@ No instructions attached, unfortunately.
 
 # FX-18 (Crawley)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -631,6 +609,7 @@ No instructions attached, unfortunately.
 
 # FX-3 (Crawley)
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -668,7 +647,6 @@ About 9 min at 20C as a start.
 
 Roughly equivilent to Microdol-X. You lose a stop in speed. Develop undiluted 10-15 minutes.
 
-
 | Substance | Quantity|
 |-----------|---------|
 | Water at 52°C | 750mL |
@@ -681,6 +659,7 @@ Roughly equivilent to Microdol-X. You lose a stop in speed. Develop undiluted 10
 
 # DK20
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -692,6 +671,7 @@ Roughly equivilent to Microdol-X. You lose a stop in speed. Develop undiluted 10
 
 # DK20 R
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
@@ -715,6 +695,7 @@ One of the simplest developers out there, possibly used by Ansel Adams.
 
 # D25
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
