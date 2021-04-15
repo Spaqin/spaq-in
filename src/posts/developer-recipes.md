@@ -238,6 +238,7 @@ Likely the commercial version of ID-11.
 
 # D89 
 [Source.](http://www.lostlabours.co.uk/photography/formulae/developers/devD76_variants.htm)
+
 | Substance | Quantity|
 |-----------|---------|
 | Water at 40°C | 750mL |
