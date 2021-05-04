@@ -716,3 +716,18 @@ Can be used a replenisher for both D23 and D25.
 | Sodium Sulphite | 100g |
 | Sodium Metaborate | 20g |
 | Water to | 1L |
+
+# D19
+[Source.](https://lostlightphotography.com/making-kodak-d19-from-scratch-with-original-recipe/)
+
+Contrasty developer, great for dry plates or BW slides (with 2g/l of Potassium thiocyanate for first bath, as mentioned [here](https://www.korex.net.pl/forum/czarno-biale-slajdy-problem-t8015-45.html)).
+
+| Substance | Quantity|
+|-----------|---------|
+| Hot water | 500mL |
+| Metol | 2.2g |
+| Sodium Sulphite | 96g |
+| Hydroquinone | 8.8g |
+| Sodium Carbonate | 48g |
+| Potassium Bromide | 5g |
+| Water to | 1L |
