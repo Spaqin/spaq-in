@@ -1,10 +1,10 @@
 ---
-title: "Salt Prints"
+title: "Salt Paper Prints"
 date: "2021-09-20"
 featured: "../images/saltprints/niceprints.jpg"
 ---
 
-Salt prints were discovered in 1830s, and were the method of making positive prints from negatives. The process has been widely abandoned in 1860s in favor of... well, I don't know - collodion? Ambrotypes? Later silver gelatin prints?
+Salt paper prints were discovered in 1830s, and were the method of making positive prints from negatives. The process has been widely abandoned in 1860s in favor of... well, I don't know - collodion? Ambrotypes? Later silver gelatin prints?
 
 Either way, I had the opportunity to attend a 1.5h workshop, so I'm an expert in the matter now. No, of course not. I'm just passing the knowledge I wrote down during the event, as I tried it myself recently and the results aren't as horrible as I thought they would be.
 
