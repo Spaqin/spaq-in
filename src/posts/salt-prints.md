@@ -221,7 +221,7 @@ That's the part I haven't figured out well yet. The workshop guy had beeswax mix
 
 I went with the method described in this video below:
 
-`youtube:https://www.youtube.com/watch?v=GFw7kYgSevg`
+`youtube: https://www.youtube.com/watch?v=GFw7kYgSevg`
 
 After putting the wax on, and letting it dry for few days, you can delicately polish the surface with a cosmetic pad, to give the print a bit of a shine.
 

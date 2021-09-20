@@ -78,6 +78,16 @@ module.exports = {
         icon: "src/images/gatsby-icon.png",
         plugins: [
           {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+                width: 800,
+                ratio: 1.77, 
+                height: 400, 
+                related: false,
+                noIframeBorder: true
+            },
+          },
+          {
             resolve: "gatsby-remark-images",
             options: {
               maxWidth: 900,
@@ -85,15 +95,13 @@ module.exports = {
             },
           },
           {
-            resolve: "gatsby-remark-embed-youtube",
+            resolve: `gatsby-remark-responsive-iframe`,
             options: {
-              width: 800,
-              height: 400
+              wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
         ],
       },
     },
-
   ],
 }
