@@ -70,7 +70,7 @@ Having experience with modern mirrorless AF, I was somewhat impressed. I relied 
 
 However, I'm still faster in manual focusing than any autofocus, considering that I may need to readjust the position to make sure AF is aiming where I want the focus. Focus and recompose seems like a daily occurence. Thankfully it's not a problem and it's intuitive.
 
-![Palm leaves](../images/samples/palm.jpg)
+![Palm leaves](../images/minolta505/samples/palm.jpg)
 _HP5+, 28-80mm kit zoom_
 
 It did get confused mostly with bright lights involved though. Manual focusing sucks on most SLRs - the focus ring is loose, small, and there's no focusing helps.
