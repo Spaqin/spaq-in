@@ -18,7 +18,7 @@ const Footer = () => {
       <footer className={footerStyles.siteFooter}>
         <div className={footerStyles.container}>
           <p>
-              &copy; 2021, <Link to="/about/">{data.site.siteMetadata.author}</Link>
+              &copy; 2022, <Link to="/about/">{data.site.siteMetadata.author}</Link>
           </p>
         </div>
       </footer>
