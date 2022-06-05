@@ -101,7 +101,7 @@ Really, read the manual. Probably will need more than once.
 
 # Conclusions
 
-Analog photography enthusiasts are quite privileged. Despite equipment prices still going up, the best of the best are still cheaper compared to their new prices. So, if you're into it, why not go for the top of the line? Well, that keeps prices of still good, but not as good equipment much more reasonable.
+Analog photography enthusiasts are quite privileged. Despite equipment prices still going up, the best of the best are still cheaper compared to their original, brand new prices. So, if you're into it, why not go for the top of the line? Well, that keeps prices of still good, but not as good equipment much more reasonable.
 
 And the 505si is reasonable, but it would be glossed over. You can upgrade from here, but not by much, and you will lose the lightness. If you're looking to change your style a bit, try the AF SLRs, why not give it a try for cheap, instead of jumping into a Dynax 7 or similar? It is limited, and it has its shortcomings, but they are not a big deal if you're just starting out.
 
