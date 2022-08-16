@@ -17,15 +17,13 @@ const Warsaw = () => {
       edges {
         node {
           childImageSharp {
-          thumb: gatsbyImageData(width: 270, height: 270, layout: CONSTRAINED)
-            full: fluid(maxWidth: 1440) {
-              ...GatsbyImageSharpFluid
-          }
-            }
+            thumb: gatsbyImageData(width: 270, height: 270, layout: CONSTRAINED)
+            full: gatsbyImageData(width: 1800, layout: CONSTRAINED)
           }
         }
       }
     }
+  }
 `)
   const images = query.allFile.edges.map(( {node} ) => node.childImageSharp)
   return (

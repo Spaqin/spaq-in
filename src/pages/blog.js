@@ -19,7 +19,7 @@ const Blog = () => {
           date(formatString: "DD MMMM, YYYY")
           featured {
             childImageSharp {
-              gatsbyImageData(width: 750, layout: CONSTRAINED)
+              gatsbyImageData(width: 900, layout: CONSTRAINED)
             }
           }
         }

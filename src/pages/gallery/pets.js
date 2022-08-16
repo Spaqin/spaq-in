@@ -18,9 +18,7 @@ const Pets = () => {
       node {
         childImageSharp {
           thumb: gatsbyImageData(width: 270, height: 270, layout: CONSTRAINED)
-          full: fluid(maxWidth: 1440) {
-            ...GatsbyImageSharpFluid
-          }
+          full: gatsbyImageData(width: 1800, layout: CONSTRAINED)
         }
       }
     }
