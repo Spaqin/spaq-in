@@ -6,7 +6,7 @@ featured: "../images/minolta505/side.jpg"
 
 I had an opportunity. Multiple opportunities, actually, and sometimes you just have to act on them, remembering about the risks. I've been using mostly manual, or with limtied automation, film cameras - and I could play around with a lightweight, plastic autofocus SLR. Would that change my view? Would I suddenly decide to sell all my previous gear? Is it even designed in a proper way?
 
-If you wish to jump into the review and skip all the bs, click [here](#Actual-review). 
+If you wish to jump into the review and skip all the bs, click [here](#actual-review). 
 
 # About "One roll with..."
 
