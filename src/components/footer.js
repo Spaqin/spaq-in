@@ -1,5 +1,5 @@
 import React from "react"
-import footerStyles from "./footer.module.scss"
+import * as footerStyles from "./footer.module.scss"
 import { useStaticQuery, graphql, Link } from "gatsby"
 
 const Footer = () => {

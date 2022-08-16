@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
-import Img from "gatsby-image"
-import headerStyles from "./header.module.scss"
+import { GatsbyImage } from "gatsby-plugin-image";
+import * as headerStyles from "./header.module.scss"
 
 const NavSubItem = ({subItem, data}) => {
     return (
@@ -11,15 +11,15 @@ const NavSubItem = ({subItem, data}) => {
             <tr>
                 <td className={headerStyles.imgTd}>
                 <a href={subItem.link} target="_blank" rel="noreferrer" activeclassname={headerStyles.activeMenuItem} >
-                <Img 
-                    className={headerStyles.icon}
-                    fluid={data.allFile.edges.filter( edge => {
+                <GatsbyImage
+                    image={data.allFile.edges.filter( edge => {
                         if(edge.node.childImageSharp)
-                            return edge.node.childImageSharp.fluid.originalName === subItem.icon 
+                            return edge.node.childImageSharp.gatsbyImageData.images.fallback.src.includes(subItem.icon); 
                         else
                             return false}
-                    )[0].node.childImageSharp.fluid}
-                />
+                    )[0].node.childImageSharp.gatsbyImageData}
+                    className={headerStyles.icon} 
+                    alt={subItem.icon}/>
                 </a>
                 </td>
                 <td className={headerStyles.linkTd}>
@@ -32,42 +32,38 @@ const NavSubItem = ({subItem, data}) => {
             </tbody>
             </table>
         </li>
-    )
+    );
 }
 
 const Header = () => {
   const data = useStaticQuery(
-      graphql`
-        query {
-            site {
-                siteMetadata {
-                    title
-                    description
-                    flatNavItems {
-                        name
-                        link
-                        subItems {
-                            name
-                            link
-                            icon
-                        }
-                    }
-                }
-            }
-            allFile(filter: {extension: {eq: "png"}}) {
-                edges {
-                    node {
-                        childImageSharp {
-                            fluid (maxWidth: 16) {
-                                ...GatsbyImageSharpFluid
-                                originalName
-                            }
-                        }
-                    }
-                }
-            }
+      graphql`{
+  site {
+    siteMetadata {
+      title
+      description
+      flatNavItems {
+        name
+        link
+        subItems {
+          name
+          link
+          icon
         }
-      `
+      }
+    }
+  }
+  allFile(filter: {extension: {eq: "png"}}) {
+    edges {
+      node {
+        childImageSharp {
+          gatsbyImageData(width: 16, layout: CONSTRAINED)
+        }
+      }
+    }
+  }
+}
+`
   );
   return (
       <header className={headerStyles.header}>

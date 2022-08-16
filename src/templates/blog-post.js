@@ -1,31 +1,29 @@
 import React from "react"
-import Img from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image";
 import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
-import postStyles from "./blogPost.module.scss"
+import * as postStyles from "./blogPost.module.scss"
 
 import Metadata from "../components/metadata"
 
 
-export const query = graphql`
-  query($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
-      frontmatter {
-        title
-        date(formatString: "DD MMMM, YYYY")
-        featured {
-            childImageSharp {
-                fluid(maxWidth: 900) {
-                    ...GatsbyImageSharpFluid
-                }
-            }
+export const query = graphql`query ($slug: String!) {
+  markdownRemark(fields: {slug: {eq: $slug}}) {
+    frontmatter {
+      title
+      date(formatString: "DD MMMM, YYYY")
+      featured {
+        childImageSharp {
+          gatsbyImageData(width: 900, layout: CONSTRAINED)
         }
-      }      
-      timeToRead      
-      html    
+      }
     }
-  }`
+    timeToRead
+    html
+  }
+}
+`
 
 const BlogPost = props => {
   return (
@@ -39,13 +37,10 @@ const BlogPost = props => {
         </span>
         {
             props.data.markdownRemark.frontmatter.featured && (
-                <Img
-                    className={postStyles.featured}
-                    fluid={
-                        props.data.markdownRemark.frontmatter.featured.childImageSharp.fluid
-                    }
-                alt={props.data.markdownRemark.frontmatter.title}
-                />
+                <GatsbyImage
+                  image={props.data.markdownRemark.frontmatter.featured.childImageSharp.gatsbyImageData}
+                  className={postStyles.featured}
+                  alt={props.data.markdownRemark.frontmatter.title} />
             )
         }
         <div 
@@ -53,7 +48,7 @@ const BlogPost = props => {
         />
       </div>
     </Layout>
-  )
+  );
 }
 
 export default BlogPost

@@ -62,6 +62,8 @@ module.exports = {
 
   plugins: [
     "gatsby-plugin-react-helmet",
+    `gatsby-plugin-image`,
+    "gatsby-plugin-postcss",
     "gatsby-plugin-sass",
     {
       resolve: "gatsby-source-filesystem",
@@ -75,7 +77,6 @@ module.exports = {
     { 
       resolve: "gatsby-transformer-remark",
       options: {
-        icon: "src/images/gatsby-icon.png",
         plugins: [
           {
             resolve: "gatsby-remark-embed-video",
@@ -100,6 +101,7 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
+          "gatsby-remark-autolink-headers",
         ],
       },
     },

@@ -3,7 +3,7 @@ import { graphql, useStaticQuery } from "gatsby"
 import Layout from "../components/layout"
 import Metadata from "../components/metadata"
 
-import aboutStyle from "./about.module.scss"
+import * as aboutStyle from "./about.module.scss"
 
 const About = () => {
   const gpgFile = useStaticQuery(graphql` {
@@ -31,3 +31,5 @@ const About = () => {
 }
 
 export default About
+
+export const Head = () => { return <Metadata title="About" description=""/>; };

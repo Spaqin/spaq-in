@@ -1,39 +1,32 @@
 import React from "react"
 import Layout from "../components/layout"
 import { useStaticQuery, Link, graphql } from "gatsby"
-import Img from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import Metadata from "../components/metadata"
 
-import galleryStyles from "./gallery.module.scss"
+import * as galleryStyles from "./gallery.module.scss"
 
 const GalleryLink = ({thumbArr, link}) => {
-    return (
-        <div className={galleryStyles.thumbDiv}>{thumbArr[link] && <Link to={"/"+link}><Img fixed={thumbArr[link].childImageSharp.fixed} /><h2>{link.split("/")[1]}</h2></Link>}</div>
-    )
+    return <div className={galleryStyles.thumbDiv}>{thumbArr[link] && <Link to={"/"+link}><GatsbyImage image={thumbArr[link].childImageSharp.gatsbyImageData} /><h2>{link.split("/")[1]}</h2></Link>}</div>;
 }
 
 const Gallery = () => {
-  const thumbnails = useStaticQuery(graphql`
-  query ImagesForGallery {
-    allFile(filter: {extension: {eq: "jpg"}, relativeDirectory: {glob: "gallery/*"}}) {
-      edges {
-        node {
-          childImageSharp {
-            fixed(width: 200, height: 200) {
-                base64
-                width
-                height
-                src
-                srcSet
-            }
-          }
-          relativeDirectory
+  const thumbnails = useStaticQuery(graphql`query ImagesForGallery {
+  allFile(
+    filter: {extension: {eq: "jpg"}, relativeDirectory: {glob: "gallery/*"}}
+  ) {
+    edges {
+      node {
+        childImageSharp {
+          gatsbyImageData(width: 200, height: 200, placeholder: BLURRED, layout: FIXED)
         }
+        relativeDirectory
       }
     }
   }
-  `)
+}
+`)
   var thumb_arr = {};
   
   thumbnails.allFile.edges.forEach(edge => {
@@ -65,3 +58,5 @@ const Gallery = () => {
 }
 
 export default Gallery
+
+export const Head = () => { return <Metadata title="Gallery" description="the pretentious place"/>; };

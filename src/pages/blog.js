@@ -1,46 +1,42 @@
 import React from "react"
-import Img from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image";
 import { useStaticQuery, graphql, Link } from "gatsby"
 
 import Metadata from "../components/metadata"
 import Layout from "../components/layout"
 
-import blogStyles from "./blog.module.scss"
+import * as blogStyles from "./blog.module.scss"
 
 
 const Blog = () => {
   const data = useStaticQuery(
-    graphql`
-      query {
-        allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC}) {
-          edges {
-            node {
-              frontmatter {
-                title
-                date(formatString: "DD MMMM, YYYY")
-                featured {
-                  childImageSharp {
-                    fluid(maxWidth: 750) {
-                      ...GatsbyImageSharpFluid
-                    }
-                  }
-                }
-              }
-              timeToRead
-              excerpt
-              id
-              fields {
-                slug
-              }
+    graphql`{
+  allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {
+    edges {
+      node {
+        frontmatter {
+          title
+          date(formatString: "DD MMMM, YYYY")
+          featured {
+            childImageSharp {
+              gatsbyImageData(width: 750, layout: CONSTRAINED)
             }
           }
         }
+        timeToRead
+        excerpt
+        id
+        fields {
+          slug
+        }
       }
-    `
+    }
+  }
+}
+`
   )
   return (
     <Layout>
-      <Metadata title="Blog" description="this is the part no one cares about" />
       <h1>Blog</h1>
       <ul className={blogStyles.posts}>
         {data.allMarkdownRemark.edges.map(edge => {
@@ -59,11 +55,10 @@ const Blog = () => {
               </div>
               {
                 edge.node.frontmatter.featured && (
-                  <Img
+                  <GatsbyImage
+                    image={edge.node.frontmatter.featured.childImageSharp.gatsbyImageData}
                     className={blogStyles.featured}
-                    fluid={edge.node.frontmatter.featured.childImageSharp.fluid}
-                    alt={edge.node.frontmatter.title}
-                  />
+                    alt={edge.node.frontmatter.title} />
                 )
               }
               <p className={blogStyles.excerpt}>{edge.node.excerpt}</p>
@@ -71,11 +66,13 @@ const Blog = () => {
                 <Link to={`/blog/${edge.node.fields.slug}/`}>Read More...</Link>
               </div>
             </li>
-          )
+          );
         })}
       </ul>
     </Layout>
-  )
+  );
 }
 
 export default Blog
+
+export const Head = () => { return <Metadata title="Blog" description="this is the part no one cares about" />; };
