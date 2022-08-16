@@ -13,7 +13,6 @@ const About = () => {
   }`)
   return (
     <Layout>
-      <Metadata title="About" description=""/>
       <h1>About Page</h1>
       <p>Hi. I'm the titular Spaqin.</p>
       <p>My real data probably isn't hard to find, but I prefer to keep it low. I grew up in the time where my parents told me to not say too much about myself online.</p>

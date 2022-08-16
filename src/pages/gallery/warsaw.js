@@ -28,7 +28,7 @@ const Warsaw = () => {
   const images = query.allFile.edges.map(( {node} ) => node.childImageSharp)
   return (
     <Layout>
-      <Metadata title={title} description={"pictures from " + title}/>
+      
       <h1>{title}</h1>
       <p>This huge city where you can subsist, but not really live. With some good points. Sometimes.
 
@@ -40,3 +40,5 @@ const Warsaw = () => {
 }
 
 export default Warsaw
+
+export const Head = () => { return <Metadata title={title} description={"pictures from " + title}/> }

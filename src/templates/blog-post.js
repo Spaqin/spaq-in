@@ -28,7 +28,6 @@ export const query = graphql`query ($slug: String!) {
 const BlogPost = props => {
   return (
     <Layout>
-      <Metadata title={props.data.markdownRemark.frontmatter.title} />
       <div className={postStyles.content}>
         <h1>{props.data.markdownRemark.frontmatter.title}</h1>
         <span className={postStyles.meta}>
@@ -52,3 +51,11 @@ const BlogPost = props => {
 }
 
 export default BlogPost
+
+export const Head = ({
+  data: {
+    markdownRemark: {
+      frontmatter: {title}
+    }
+  }
+}) => { return <Metadata title={title} /> }
