@@ -30,20 +30,35 @@ It's not a flagship camera, and yet it feels like one. Released in 2000, at the 
 
 Front of the camera reveals a front dial, shutter button, DoF preview button, lens release button and of course the lens mount, hungry for some thick glass. Someone more observant will also notice that there's also an on-camera flash, a light for red eye reduction, and an IR receiver, for the remote. So although the shutter button is flat and you won't be able to screw in your $1 cable, you can use the remote for your self pleasuring needs.
 
-I'm not gonna go through all the menus and screen
+I'm not gonna go through all the menus and screens - they're complicated.
 
-...
+The top gives you plenty of dials - the one on the left to control the mode, with a switch between single, continuous and self-timer modes; on the right you get Eye AF (I will talk about this later) switch, AF switch, two buttons, and the screen that tells you everything. Everything is a lot to take in, but the most important settings are visible easily.
 
-...
-...
+The rear gets you a data back - with an identical interface as in Minolta 505si - probably same off the shelf component there. There's also a directional pad, for choosing AF points, a rotary dial, and three buttons, for changing between less used functions, metering, <and something else I forgot>. There's also a rewind button.
 
-# Interface
+# Interface, or how it feels to use.
 
-Lots of buttons etc etc
+Let's focus on the left dial: Firstly, it controls the power. On the bottom half of it you have the "creative" modes (portrait, sports) - where the camera decides the settings for you, depending on the scene; on the upper half you get the "pro" - PASM. That itself is logical, but what is not logical for me is why the power control is on the left side of the camera! In many cases you can use the camera one-handed quite comfortably. I would carry it in my hand, and I have to use another hand to turn it on... Nikon has mastered the power switch (flick the ring around the shutter button), Minolta was close second (easily accessible with your right thumb), but this is just silly.
 
-power button on the left sucks
+It's a big gripe, but the fact that I wrote a paragraph about this, should be an indicator how I enjoy using the camera.
 
-rear dial seems counterintuitive a bit (sometimes it does things sometimes it doesn't)
+The rear dial is a bit weird too - the function changes depending on the mode you're in. In P/A/S, you control EV compensation with it. You do need to remember to set it back when you're done though. In M, it controls the shutter speed.
+
+Similarly, the front dial in P mode controls the setting, in A and M - the aperture, in S - the shutter speed. It's not difficult to change between them at all, and overall makes quite a lot of sense.
+
+The directional pad is however useless in Eye AF mode - I do wish it would allow me to change the focus point even in eye AF, for example after half-pressing the shutter button it turns out the point is wrong or the subject moved - I'd like to change it on the fly, rather than try again.
+
+Other settings you may need? Easily accessible, but the icons may be a bit confusing. Again, read the manual.
+
+And as most SLRs of that era, it allows you to wind the film back with leader sticking out. You can also control the strength of the on-body flash, override ISO, and few other features I don't even remember now. It's overwhelming at first, but once you set it all up, using the camera is very straightforward.
+
+# On the outside
+
+That is, outside of my place. I mentioned it's a bit heavy, but comfortable to hold. And once you set your mode, you can easily use it one-handed, especially with a smaller lens like the 50mm or 19-35 - the 70-200 is a beast and there are indeed limits of shake compensation. 
+
+And it looks like an old DSLR, which are plenty in the hands of tourists. It's huge, but unassuming in the way that people are indeed used to seeing them all the time, which will let you get away with more than you'd think.
+
+And frankly, since it's so comfortable to hold, I didn't really bother with a strap! I would put it in my backpack when unneeded, and take it out during the walk, ready to take the shot anytime.
 
 # Mind reading autofocus!
 
