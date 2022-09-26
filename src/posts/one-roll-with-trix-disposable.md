@@ -1,6 +1,6 @@
 ---
 title: "One roll with... Kodak Tri-X disposable"
-date: "2022-08-16"
+date: "2022-09-26"
 featured: "../images/trixdisposable/front.JPG"
 ---
 
