@@ -1,10 +1,12 @@
 ---
 title: "One roll with... Canon EOS 30"
-date: "2022-08-20"
+date: "2022-09-28"
 featured: "../images/eos30/logo.jpg"
 ---
 
 I mentioned something about the opportunities. Through an incredible stroke of bad and good luck, you may meet good people; and the good people may want to gift you a dry box, to storage your equipment in an unforgivingly humid climate. And that dry box, while used, may come with plethora of other equipment... including a mint Canon EOS 30.
+
+In the light of recent events, mind you, I do not condone the actions of Canon corporation blocking third party lens manufacturers from releasing their glass for RF system.
 
 If you'd like to skip the BS, click [here](#actual-review). 
 
@@ -34,13 +36,16 @@ I'm not gonna go through all the menus and screens - they're complicated.
 
 The top gives you plenty of dials - the one on the left to control the mode, with a switch between single, continuous and self-timer modes; on the right you get Eye AF (I will talk about this later) switch, AF switch, two buttons, and the screen that tells you everything. Everything is a lot to take in, but the most important settings are visible easily.
 
-The rear gets you a data back - with an identical interface as in Minolta 505si - probably same off the shelf component there. There's also a directional pad, for choosing AF points, a rotary dial, and three buttons, for changing between less used functions, metering, <and something else I forgot>. There's also a rewind button.
+The rear gets you a data back - with an identical interface as in Minolta 505si - probably same off the shelf component there. There's also a directional pad, for choosing AF points, a rotary dial, and three buttons, for changing between less used functions, metering, and a rewind button.
 
 # Interface, or how it feels to use.
 
 Let's focus on the left dial: Firstly, it controls the power. On the bottom half of it you have the "creative" modes (portrait, sports) - where the camera decides the settings for you, depending on the scene; on the upper half you get the "pro" - PASM. That itself is logical, but what is not logical for me is why the power control is on the left side of the camera! In many cases you can use the camera one-handed quite comfortably. I would carry it in my hand, and I have to use another hand to turn it on... Nikon has mastered the power switch (flick the ring around the shutter button), Minolta was close second (easily accessible with your right thumb), but this is just silly.
 
 It's a big gripe, but the fact that I wrote a paragraph about this, should be an indicator how I enjoy using the camera.
+
+![Simple Minds](../images/eos30/mindyourhead_chinastill.jpg)
+_Canon should have minded their heads when they designed the power button... 50mm f1.8 USM II, Chinastill 400D_
 
 The rear dial is a bit weird too - the function changes depending on the mode you're in. In P/A/S, you control EV compensation with it. You do need to remember to set it back when you're done though. In M, it controls the shutter speed.
 
@@ -52,32 +57,63 @@ Other settings you may need? Easily accessible, but the icons may be a bit confu
 
 And as most SLRs of that era, it allows you to wind the film back with leader sticking out. You can also control the strength of the on-body flash, override ISO, and few other features I don't even remember now. It's overwhelming at first, but once you set it all up, using the camera is very straightforward.
 
+![Crossings](../images/eos30/crossings_acros200.jpg)
+_And waiting for a subject to appear, or until they're all gone, may be the hardest part of using this device. Vivitar 19-35mm f3.5-5.6, Acros II @ 200_
+
 # On the outside
 
-That is, outside of my place. I mentioned it's a bit heavy, but comfortable to hold. And once you set your mode, you can easily use it one-handed, especially with a smaller lens like the 50mm or 19-35 - the 70-200 is a beast and there are indeed limits of shake compensation. 
+That is, outside of my place. I mentioned it's a bit heavy, but comfortable to hold. And once you set your mode, you can easily use it one-handed, especially with a smaller lens like the 50mm or 19-35 - the 70-300 is a beast and there are indeed limits of shake compensation. 
 
-And it looks like an old DSLR, which are plenty in the hands of tourists. It's huge, but unassuming in the way that people are indeed used to seeing them all the time, which will let you get away with more than you'd think.
+And it looks like an old DSLR, which you can see in hands of tourists or amateurs of all ages. It's huge, but unassuming in the way that people are indeed used to seeing them all the time, which will let you get away with more than you'd think.
 
-And frankly, since it's so comfortable to hold, I didn't really bother with a strap! I would put it in my backpack when unneeded, and take it out during the walk, ready to take the shot anytime.
+And frankly, since it's so comfortable to hold, I didn't really bother with a strap! I would put it in my backpack when unneeded, and take it out during the walk, ready to take the shot anytime. With a bit of a setup.
 
 # Mind reading autofocus!
 
-Eye AF is based af
+Eye AF is great. If it works. But it does work, 75% of the time. Make sure that in your chosen point there's a contrasting edge, otherwise it will hunt. In low light conditions the eye detection may pick you up, but autofocus itself may struggle. 
+
+![Arcade Fire](../images/eos30/arcade_ilfopan800.jpg)
+_Subject off to the side? Not a problem, no need to fiddle either! 50mm f1.8 USM II, Ilford PAN 400 @ 800_
+
+It may sound flawed, but it's certainly a gamechanger in some ways. In most cameras you'd put your subject in the center and recompose, which may gather attention, may look off, or you may end up with /r/analog's special - young white girl portrait with too much headspace.
+
+And autofocus is absolutely crucial - manual focusing is a pain on this focusing screen, you're never really sure if you got it or not. Thankfully autofocus here is quick and mostly accurate - maybe had one really badly missed shot, but still not sure if that was my fault or not. The worst is only when it doesn't catch your intentions fully and chooses the wrong point and you don't have the time to readjust. Argh!
 
 # No one cares!
 
+About these reviews, or that it's a film camera (as if it changes anything... well, still a photography tool). But if you want to make a point that YES I'M SHOOTING FILM, you have to tell the other person.
 
+That's how you can know that someone has a plastic film SLR and they shoot film.
+
+They tell you. 
 
 # Glass and image quality
 
-The 50mm f1.8 is cheap and light. It doesn't leave the best impression, but... I can't complain about the images at all. I don't have an adapter to Fuji (probably would get Viltrox EF-FX MK1 without the speedbooster - contact me if you wanna sponsor it :)) to check the sharpness with other 50s I have, but it's really not bad at all. It's a simple construction, but it works well. Autofocus is a bit
+The 50mm f1.8 USM II is cheap and light. It doesn't leave the best impression, but... I can't complain about the images at all. to check the sharpness with other 50s I have, but it's really not bad at all. It's a simple construction, but it works well. Autofocus is a bit slow. And it breaks rather easily - after a fall the front fell off.
+
+![Construction Time Again](../images/eos30/construction_acros100.jpg)
+_Bamboo scaffoldings are everywhere. But can you catch someone building it? 50mm f1.8 STM, Acros II_
+
+I replaced it with a 50mm f1.8 STM version. The autofocus is faster and quieter, although still noisy compared to Fuji lenses. The image quality of that one is even better. Sharp wide open, tested on APS-C digital with adapter - especially when compared to 70s constructions. I mean, that's a relatively new design for high res digital, so I'm not exactly surprised. The fact that it works with film cameras? Great, I would probably use it a lot if I ever shot microfilm (...which I do have in my fridge still, but ISO of 6 is daunting).
 
 I also bought two more lenses. Investing into a system that I was intending to flip...? Hmmmmm...
 
 One is a Vivitar Series 1 18-35mm f3.5-4.5, new old stock, with the box. An older ultrawide to wide zoom can't be good, but on film it's not bad at all. I'm sure if I tried it on digital, I'd see how bad it is. Too bad it's champagne color, rather than black, but eh. It's dark, sure, but it's quite light.
 
-The second is a 70-210mm f4-5.6 USM IS II. I really wanted image stabilization. It's great on my digital Fuji, and I had plenty of blurry photos with a telephoto (but then also I had some surprisingly sharp ones!) to know it's better to have it. It's not that expensive, although I ordered it from Japan - around 1100HKD. And yes, the image stabilization works! I was considering a cheaper Tamron, but because the Canon lens protocols are not open, it's got issues with older, film bodies. Annoying. Either way, I was very happy with the quality of the images from that lens, and with the image stabilization I can get down to 1/10. It's a big piece of black tube, it's bigger than anything I currently have, and the only lens that doesn't fit vertically in my dry box.
+![Crazy Train](../images/eos30/tuenmuntram_acros200.jpg)
+_I love compression. Thankfully Gatsby does it for me, for the images here. 70-300mm IS 4-5.6, Acros II @ 200_
 
-# Conclusions
+The second, or third, is a 70-210mm f4-5.6 USM IS II. I really wanted image stabilization. It's great on my digital Fuji, and I had plenty of blurry photos with a telephoto (but then also I had some surprisingly sharp ones!) to know it's better to have it. It's not that expensive, although I ordered it from Japan - around 1100HKD. And yes, the image stabilization works! I was considering a cheaper Tamron, but because the Canon lens protocols are not open, it's got issues with older, film bodies. Annoying. Either way, I was very happy with the quality of the images from that lens, and with the image stabilization I can get down to 1/10. It's a big piece of black tube, it's bigger than anything I currently have, and the only lens that doesn't fit vertically in my dry box.
 
-is good
+# Last remarks
+
+It's good. For a free camera, I am very happy with it. Although I do get lost at times in its settings - sometimes when I go back to Canon P or Minolta XD, I appreciate the simplicity - but I also know I can rely on it even more, and even pass it to someone and always get decent results. 
+
+I just don't like how it wastes frames at the beginning of the roll, insisting on 36 images per roll rather than usual 38-39.
+
+I'll be keeping it. And I will become what I hate.
+
+A Canon shooter.
+
+![Fish Emade Tworzywo](../images/eos30/fishemade_provia100.jpg)
+_It's gonna be looking deep into your soul... and judging you for the brand of camera you use. 50mm f1.8 USM II, Provia 100F_
