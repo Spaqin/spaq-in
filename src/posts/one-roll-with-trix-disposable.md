@@ -4,7 +4,7 @@ date: "2022-09-26"
 featured: "../images/trixdisposable/front.JPG"
 ---
 
-Reduce, reuse, recycle. All of that in a capitalist society, where you're constantly bombarded with advertisements; where companies with massive marketing budgets try to nudge your perception to consume product and get excited for new product. While also trying to convince that the company is commited to ecology, everything is recyclable, and besides that you should bear the responsibility.
+Reduce, reuse, recycle. All of that in a capitalist society, where you're constantly bombarded with advertisements; where companies with massive marketing budgets try to nudge your perception to consume product and get excited for new product. While also trying to convince that the company is commited to ecology, everything is recyclable, and besides, you should bear the responsibility for the planet.
 
 Again, if you'd like to jump to the actual review, click [here](#actual-review). 
 
@@ -18,13 +18,13 @@ I got it because I wanted to do some film street photography - as I had two Fuji
 
 The disposable fits in my back pocket and it's super light. Or maybe it's all buyer's remorse and the original reason of "didn't want to leave B&H Photo empty handed" is true...
 
-![Dispo rear](../images/trixdisposable/back.JPG)
+![rear](../images/trixdisposable/back.JPG)
 
 # Actual review
 
 You deposit your money and you're free to go. The deplorably disposable nature of the product begins immediately - you need to dispose of the cardboard box and the foil it was wrapped in. On top of the camera you have your flash ready LED, shutter button, and frame counter window reminding you that the end is near. For someone used to shooting rather expensive medium format slides, 27 pictures can go quickly; but I'll do my best to ration them out.
 
-The front of the camera has the lens and a button to enable the flash. I haven't used the flash during my roll as it was a lovely, sunny week in New York, but I tried it after I took the film out - it seemed to be enabled for few photos. Not wanting to waste the battery I didn't try again - I thought it would be just one image, after all. Turns out the flash is available for a while - sounds like the button charges the flash capacitor, and it over time just discharges itself if you don't use it.
+The front of the camera has the lens and a button to enable the flash. I haven't used the flash during my roll as it was a lovely, sunny week in New York, but I tried it after I took the film out - it seemed to stay enabled for few shots. And once in a subsequent roll, back home. Turns out the flash is available for a while - sounds like the button charges the flash capacitor, and it over time just discharges itself if you don't use it. Super simple, but means you cannot switch between flash pic and non-flash in a jiffy without covering it with your hand, maybe.
 
 ![trix1](../images/trixdisposable/broadway-trix.jpg)
 _Surprisingly sharp candid portrait of a man leaving a Broadway show; Tri-X_
@@ -43,21 +43,21 @@ The only loud part is the advance wheel, but you can shoot and wait with advanci
 
 # After the shoot
 
-I took two days to go through it - just because I didn't want to shoot everything in one location. 27 shots later... you're done. That's it. With the disposal you have to wait a bit though, you still need to get the film out. The good thing it's black and white film so you can easily do the development yourself; the bad part is that you can't reload it easily. 
+I took two days to go through the initial roll - just because I didn't want to shoot everything in one location. 27 shots later... you're done. That's it. With the disposal you have to wait a bit though, you still need to get the film out. The good thing it's black and white film so you can easily do the development yourself; the bad part is that you can't reload it as easily as you would any other camera. 
 
 ![trix3](../images/trixdisposable/kids-trix.jpg)
 _On the side... maybe, still don't want to risk upfront shooting. Tri-X_
 
-But you can open it easily. Remove the yellow stickers, put a credit card below the tabs on the side, pull apart, done. And putting it back together also seems like an easy task, so I'll surely try it again with a normal film, such as Ilford PAN 400 or HP5.
+Opening it is simple enough, but you won't be doing it in the field. Remove the yellow stickers, put a credit card below the tabs on the side, pull apart, done. And putting it back together looked simple, so I thought that I would surely try it again with a normal film, such as Ilford PAN 400 or HP5. Maybe I'd be concerned about light leaking, but I would just see how it goes.
 
 # Post development
 
 ![ilfopan1](../images/trixdisposable/windowguy-ilfopan.jpg)
 _I wouldn't have taken this shot with any other camera - this one I just had in my pocket, ready to go anytime. Ilford PAN 400_
 
-Well - I did (the paragraph above was written a while ago) - with Ilfopan 400. Results with Ilford? Probably better than Kodak. The loading process was easy, and the only problem is by not doing it in a dark bag, you lose... a bit of the leader, I suppose. And need to mark the frame counter at 7 (yes) so it rolls back and ends in zero. Pro-tip - before loading, cock the shutter for an additional pic.
+Well - I did come back to the camera few days later - with Ilfopan 400. Results with Ilford? Probably better than Kodak. The loading process was easy, and the only problem is by not doing it in a dark bag, you lose... a bit of the leader, I suppose. And need to mark the frame counter at 7 (yes) so it rolls back and ends in zero. Pro-tip - before loading, cock the shutter for an additional pic.
 
-Speaking of leader - surprisingly, the loaded Tri-X also had fogged leader, which makes you wonder about their manufacturing process.
+Speaking of leader - surprisingly, the loaded Tri-X also had fogged leader, which makes you wonder about their manufacturing process. The film must be rolled into cassettes with leader sticking out, them transported in daylight, and then getting loaded in the dark again.
 
 # Image quality
 
@@ -72,11 +72,11 @@ Of course, I cannot say anything about the quality of bokeh - as it's not a thin
 
 # Conclusion
 
-Simple to use, wide angle, seems alright for street photography. Moody shots, not too muddy.
+Simple to use, relatively wide angle, seems alright for street photography. Moody shots, not too muddy.
 
 ![ilfopan3](../images/trixdisposable/dog-ilfopan.jpg)
 
-Makes you more courageous with street photography. And you can throw it in anywhere, it's pretty discreet. Very specific usecases - yes, but on the other hand, you can put it in your bag and essentially forget - until the moment comes, when you just grab it and press. 
+Makes you more courageous with street photography. And you can throw it in anywhere, it's pretty discreet. Very specific usecases - yes, but on the other hand, you can put it in your bag and essentially forget - until the moment comes, when you just grab it and press. Less is more. Disposable nature of the device also makes for disposable shots, but may let you get away with things you wouldn't try with your other equipment.  
 
 And you know what they say.
 
