@@ -1,7 +1,7 @@
 ---
 title: "One roll with... Canon EOS 30"
 date: "2022-09-28"
-featured: "../images/eos30/logo.jpg"
+featured: "../images/eos30/front.jpg"
 ---
 
 I mentioned something about the opportunities. Through an incredible stroke of bad and good luck, you may meet good people; and the good people may want to gift you a dry box, to storage your equipment in an unforgivingly humid climate. And that dry box, while used, may come with plethora of other equipment... including a mint Canon EOS 30.
@@ -27,6 +27,12 @@ The reality was dawning on me. If you could see the horror on my face, when I ha
 Although big and black, it's sleek. You put your hand around the grip, and it feels like it always belonged there. You move it up and down, left and right, and despite its weight, you control it with ease. You gasp while switching the dials and pressing buttons, as they also give a nice sound.
 
 It's not a flagship camera, and yet it feels like one. Released in 2000, at the end of the film era, it's packed with features you didn't know you needed. It runs on two CR123A batteries - or with the vertical grip, on 4 AAs. It adds to the heft, but also to the convenience - CR123As aren't *that* easy to find and they're quite pricy. I'd rather load it up with 4 LADDAs from IKEA and recharge when necessary.
+
+But it never lets you forget you're shooting a CANON.
+CANON CANON CANON. Four times on the front. That's how you build brand awareness. By being annoying. At least the rear is clean of it.
+
+![All ears](../images/eos30/rear.jpg)
+_Disregard the massive eyecup - it was the only one I could find fitting this model. And had to order it from Japan. At least it rotates..._
 
 # All around, it's pretty complicated.
 
