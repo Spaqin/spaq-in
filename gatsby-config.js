@@ -55,6 +55,11 @@ module.exports = {
             link: "https://www.last.fm/user/Spaqin/",
             icon: "lastfm.png"
           },
+          {
+            name: "Pixelfed",
+            link: "https://pixelfed.social/i/web/profile/469890269962984040",
+            icon: "pixelfed.png"
+          }
         ],
       },
     ],
