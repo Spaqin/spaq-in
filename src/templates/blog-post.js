@@ -1,6 +1,7 @@
 import React from "react"
 import { GatsbyImage } from "gatsby-plugin-image";
 import { graphql } from "gatsby"
+import { Disqus } from 'gatsby-plugin-disqus';
 
 import Layout from "../components/layout"
 import * as postStyles from "./blogPost.module.scss"
@@ -22,10 +23,18 @@ export const query = graphql`query ($slug: String!) {
     timeToRead
     html
   }
+  sitePage {
+    path
+  }
 }
 `
 
 const BlogPost = props => {
+  const disqusConfig = {
+      identifier: props.data.markdownRemark.id, // you can define anything as "identifier" for each blog post
+      title: props.data.markdownRemark.frontmatter.title,
+      url: 'https://spaq.in' + props.data.sitePage.path, 
+  }
   return (
     <Layout>
       <div className={postStyles.content}>
@@ -45,6 +54,9 @@ const BlogPost = props => {
         <div 
           dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
         />
+      </div>
+      <div>
+                <Disqus config={disqusConfig} />
       </div>
     </Layout>
   );
