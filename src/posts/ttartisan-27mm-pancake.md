@@ -6,7 +6,7 @@ featured: "../images/tta27/onxpro.jpg"
 
 I'm cheap. I'll get it out of the way first. I'm not loyal to anyone, except for low taxes, low prices. TTArtisan did a quick release - preview on one day, release the next - a 27mm pancake that could be easily mistaken with the Fuji one. A knockoff, you may think. I was interested, having received an X-Pro1 a while back, this could be a nice alternative to a rather expensive, even on second hand market, official Fuji lens. I thought to myself - if it's less than 200USD, I'll get it - worst case I'll sell it. The announced price - 160USD was definitely below that, so I was getting ready... but a quick look on Taobao revealed an even nicer surprise.
 
-690CNY! With a coupon, 660! That's around 95, and 91 USD respectively. Nobrainer! Living in China is great! Human rights? Normal government? Who needs that?! Gimme cheap stuff!
+690CNY! With a coupon, 660! That's around 95, and 91 USD respectively. Nobrainer! Living in China is great! Human rights? Reasonable government? Who needs that?! Gimme cheap stuff!
 
 ![On X-S10](../images/tta27/onxs10.jpg)
 
@@ -16,19 +16,19 @@ On a side note - I don't have, nor have I used the Fuji 27mm pancake - so don't 
 
 # Looks and ergonomics
 
-You can get it in either black or titanium colors - the difference on photos wasn't particularly visible, so I went with titanium. In reality, the difference is quite obvious - I think, I haven't seen the black one. Titanium is certainly a better match with silver Fuji cameras, but it still works very well on black ones.
+You can get it in either black or titanium colors - the difference on photos wasn't particularly visible, so I went with titanium. In reality, the difference is quite obvious - I think, I haven't seen the black one. Titanium, or I'd rather call it graphite, is certainly a better match with silver Fuji cameras, but it still works very well on black ones.
 
-I've heard it's thicker than the Fuji 27 - and it does stick out from X-S10's grip, but not much. I'd still call it "coat-pocketable", with the size of the camera being the biggest issue.
+I've heard it's thicker than the Fuji 27 - and it does stick out from X-S10's grip, but not much. I'd still call it "coat-pocketable", with the size of the camera body being the biggest issue.
 
-Certainly a handsome lens otherwise. The included hood presents nicely, and it's all metail build. Light, but solid. No weather resistance seal, but none of my cameras do, and neither do I really care.
+Certainly a handsome lens otherwise. The included hood presents nicely, and it's all metal build. Light, but solid. No weather resistance gasket, but none of my cameras have WR anyway, and neither do I really care.
 
-The aperture ring has clicks every third of a stop, from f2.8 to f16. I love clicks, but what I don't love about it is how narrow it is. The grippy part also takes a really small portion of the lens, and moving it outside the grippy parts is rather difficult! I'm really tempted to get a focusing tab, and put it on the bottom.
+The aperture ring has clicks every third of a stop, from f2.8 to f16. I love clicks, but what I don't love about it is how narrow it is. The grippy part also takes a really small portion of the ring, maybe a fifth in total, and moving it outside the grippy parts is rather difficult! I'm really tempted to get a focusing tab, and put it on the bottom, so I could set the aperture more easily.
 
 A workaround would be putting it into A mode - and on X-S10, that means with "A" on the PASM dial, that I can control the aperture with the front command dial. Better than getting my hands around it, if the camera is by my eye.
 
 The focusing ring, on the other hand, is much wider. Of course, with the lens being autofocus, it does not make much sense. It does turn smoothly and in manual focus mode allows to set focus precisely. 
 
-The lens cap is small - and along with the similarly small 39mm hood, fell from my hands onto the asphalt few times - but they're sturdy enough, I can't see any marks. The lens cap is smartly designed, so you can use it both without the hood (39mm), or with it installed (where the entrance hole is smaller).
+The lens cap is small - and along with the similarly small 39mm hood, fell from my hands onto the asphalt few times already - but they're sturdy enough, I can't see any marks. The lens cap is smartly designed, so you can use it both without the hood (39mm), or with it installed (where the entrance hole is smaller).
 
 # Image quality
 
@@ -59,7 +59,7 @@ As for flaring... well, I have never had a *vintage* lens that was worse at this
 ![stoppeddown](../images/tta27/flare_stopped.jpg)
 _Thanks to IBIS on X-S10, I could take the latter image at 1/4s..._
 
-There's some barrely distortion as well as I've seen on RAWs, but nothing really annoying - for proper measurements, don't ask me, I don't have a proper chart and brick walls are a rarity.
+There's some barrel distortion as well as I've seen on RAWs, but nothing really annoying - for proper measurements, don't ask me, I don't have a proper chart and brick walls are a rarity.
 
 The lens focuses down to 35cm - not too close, I think, I'd like a bit closer - but quite alright to be used for portraits or in general to get slightly closer to your subject. The good news is that the image quality holds close up as well.
 
@@ -122,4 +122,4 @@ In the middle, similar. Could be copium, but the TTA seems a hair sharper.
 
 ![Corner](../images/tta27/Comparison_corner.jpg)
 
-In the corner though, absolutely destroyed. Very surprising - that with this levels of vignette, the image sharpness itself isn't worsened at the edge of the frame!
+In the corner though, absolutely destroyed. Very surprising - that with this level of vignette, the image sharpness itself isn't worsened at the edge of the frame!
