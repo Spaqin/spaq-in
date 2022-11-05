@@ -18,7 +18,7 @@ I got it because I wanted to do some film street photography - as I had two Fuji
 
 The disposable fits in my back pocket and it's super light. Or maybe it's all buyer's remorse and the original reason of "didn't want to leave B&H Photo empty handed" is true...
 
-![rear](../images/trixdisposable/back.JPG)
+![rear](../images/trixdisposable/back.jpg)
 
 # Actual review
 

@@ -1,14 +1,14 @@
 ---
 title: "TTArtisan 27mm f2.8 Fuji X pancake review"
 date: "2022-11-05"
-featured: "../images/tta27/onxpro.JPG"
+featured: "../images/tta27/onxpro.jpg"
 ---
 
 I'm cheap. I'll get it out of the way first. I'm not loyal to anyone, except for low taxes, low prices. TTArtisan did a quick release - preview on one day, release the next - a 27mm pancake that could be easily mistaken with the Fuji one. A knockoff, you may think. I was interested, having received an X-Pro1 a while back, this could be a nice alternative to a rather expensive, even on second hand market, official Fuji lens. I thought to myself - if it's less than 200USD, I'll get it - worst case I'll sell it. The announced price - 160USD was definitely below that, so I was getting ready... but a quick look on Taobao revealed an even nicer surprise.
 
 690CNY! With a coupon, 660! That's around 95, and 91 USD respectively. Nobrainer! Living in China is great! Human rights? Normal government? Who needs that?! Gimme cheap stuff!
 
-![On X-S10](../images/tta27/onxs10.JPG)
+![On X-S10](../images/tta27/onxs10.jpg)
 
 I'll write few of my thoughts about it after few days of using it - I won't go _too_ deep into it as I'd better leave systematic tests for Chris Frost, which I hope will review it at some point.
 
@@ -34,14 +34,14 @@ The lens cap is small - and along with the similarly small 39mm hood, fell from 
 
 Fuji's optical scheme for the 27mm lens is superb from what I've heard and seen; the TTA's design is a simpler - 6 elements in 5 groups. Still a lot for a small package, but more elements must mean the Fuji is better?
 
-![TST](../images/tta27/neon.JPG)
+![TST](../images/tta27/neon.jpg)
 _X-S10_
 
 Surprisingly, it's decent. Pretty good. If you wanna see a comparison of image by aperture, go to the [Nerdy part](#nerdy-part) section of the article.
 
 As for sharpness or contrast, I don't have a 40MP fudge (yet?), but on 26MP it made a really good impression. On 16MP X-Pro1 essentially flawless.
 
-![Truck](../images/tta27/truck.JPG)
+![Truck](../images/tta27/truck.jpg)
 _X-Pro1_
 
 During the day, in daylight, no problems at all. The bokeh can get a bit busy, but at f2.8 it's not really a bokeh monster.
@@ -54,23 +54,23 @@ Additionally, the seller included a 39mm UV filter, which I decided to put on in
 
 As for flaring... well, I have never had a *vintage* lens that was worse at this! Absolutely awful, gutter oil coatings - if you have a strong light in the scene, either get rid of it, or stop down significantly. See the examples below - one at f2.8, the other at f7.1:
 
-![wideopen](../images/tta27/flare_wideopen.JPG)
+![wideopen](../images/tta27/flare_wideopen.jpg)
 
-![stoppeddown](../images/tta27/flare_stopped.JPG)
+![stoppeddown](../images/tta27/flare_stopped.jpg)
 _Thanks to IBIS on X-S10, I could take the latter image at 1/4s..._
 
 There's some barrely distortion as well as I've seen on RAWs, but nothing really annoying - for proper measurements, don't ask me, I don't have a proper chart and brick walls are a rarity.
 
 The lens focuses down to 35cm - not too close, I think, I'd like a bit closer - but quite alright to be used for portraits or in general to get slightly closer to your subject. The good news is that the image quality holds close up as well.
 
-![closeup](../images/tta27/gauge.JPG)
+![closeup](../images/tta27/gauge.jpg)
 _X-Pro1_
 
 # Autofocus
 
 STM motor, really quick and quiet, that's for sure. On X-S10, at least. On par with other lenses I have - whether Fuji zooms, or Viltrox primes.
 
-![Portrait](../images/tta27/portrait.JPG)
+![Portrait](../images/tta27/portrait.jpg)
 _X-S10_
 
 In low light? No problems. Focuses on the eye with grace; no back or front focusing.
@@ -93,11 +93,11 @@ It's not perfect, for sure. It's fun to use, though, and the images make me happ
 
 I think it will stay on the X-Pro1 most of the time, for daytime walks.
 
-![cartonlady](../images/tta27/cartonlady.JPG)
+![cartonlady](../images/tta27/cartonlady.jpg)
 _X-Pro1_
-![scooter](../images/tta27/scooter.JPG)
+![scooter](../images/tta27/scooter.jpg)
 _X-Pro1_
-![clothes](../images/tta27/clothes.JPG)
+![clothes](../images/tta27/clothes.jpg)
 _X-Pro1_
 
 # Nerdy part
@@ -106,20 +106,20 @@ So I have a ``lenscomparator`` python script that I use for testing lenses perfo
 
 Got the X-S10 out, with this scene:
 
-![marked](../images/tta27/Marked.JPG)
+![marked](../images/tta27/Marked.jpg)
 
 And I also brought my Fuji 18-55mm 2.8-4, for laughs - it's a great zoom that often beats old vintage primes. But would it be better than the TTA?
 
 (yes I forgot to shoot the Fuji at F11)
 
-![Center](../images/tta27/Comparison_center.JPG)
+![Center](../images/tta27/Comparison_center.jpg)
 
 In the center, they're similar. I'd say more contrast for the Fudge.
 
-![Mid](../images/tta27/Comparison_mid.JPG)
+![Mid](../images/tta27/Comparison_mid.jpg)
 
 In the middle, similar. Could be copium, but the TTA seems a hair sharper.
 
-![Corner](../images/tta27/Comparison_corner.JPG)
+![Corner](../images/tta27/Comparison_corner.jpg)
 
 In the corner though, absolutely destroyed. Very surprising - that with this levels of vignette, the image sharpness itself isn't worsened at the edge of the frame!
