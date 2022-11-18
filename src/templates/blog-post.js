@@ -31,9 +31,9 @@ export const query = graphql`query ($slug: String!) {
 
 const BlogPost = props => {
   const disqusConfig = {
-      identifier: props.data.markdownRemark.id, // you can define anything as "identifier" for each blog post
+      identifier: props.pageContext.slug,
       title: props.data.markdownRemark.frontmatter.title,
-      url: 'https://spaq.in' + props.data.sitePage.path, 
+      url: 'https://spaq.in' + props.path, 
   }
   return (
     <Layout>
