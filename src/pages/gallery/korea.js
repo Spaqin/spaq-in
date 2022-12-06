@@ -5,7 +5,6 @@ import Metadata from "../../components/metadata"
 
 import { graphql, useStaticQuery } from "gatsby"
 import Gallery from '@browniebroke/gatsby-image-gallery'
-//import '@browniebroke/gatsby-image-gallery/dist/style.css'
 
 const title = "Korea"
 
