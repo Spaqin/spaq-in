@@ -20,7 +20,7 @@ Anyway. It's been a lot, so I need to give this a structure. Here's an index:
 2. [Canon EOS 30 // EF](#2-canon-eos-30--ef)
   * [Canon 50mm f1.8 STM](#canon-50mm-f18-stm)
   * [Canon 70-300mm f4-5.6 IS](#canon-70-300mm-f4-56-is)
-  * [Vivitar 17-35mm f4.5-5.6](#vivitar-17-35mm-f45-56)
+  * [Vivitar 19-35mm f3.5-4.5](#vivitar-19-35mm-f35-45)
 3. [Fujifilm X-S10 // FX](#3-fujifilm-x-s10--fx)
   * [Fujifilm X-Pro1](#fujifilm-x-pro1)
   * [Viltrox 13mm f1.4](#viltrox-13mm-f14)
@@ -100,7 +100,7 @@ They're also not that expensive on used market either. The AF may be noisy, and 
 
 👍 IS is goat.
 
-## Vivitar 17-35mm f4.5-5.6
+## Vivitar 19-35mm f3.5-4.5
 
 Series 1, so Vivitar was proud of it. I got it as New Old Stock, never used. It's a very light lens, mostly because it's so dark. The image is sharp enough, but doesn't make me amazed. It does what it's supposed to do, but I can't fall in love with it.
 
