@@ -17,7 +17,7 @@ const Metadata = ({ title, description, imageUrl, imageAlt }) => {
   )
   const metaTitle = title || data.site.siteMetadata.title
   const metaDescription = description || data.site.siteMetadata.description
-  const defaultImageUrl = constructUrl("https://spaq.in/images/header-image.jpg")
+  const defaultImageUrl = "https://spaq.in/images/header-image.jpg"
   const ogImageUrl = imageUrl || defaultImageUrl;
   return (
     <Helmet
