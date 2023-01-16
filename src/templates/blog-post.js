@@ -22,7 +22,6 @@ export const query = graphql`query ($slug: String!) {
     }
     timeToRead
     excerpt
-    description
     html
   }
   sitePage {
@@ -74,8 +73,8 @@ export const Head = ({
     }
   }
 }) => { return <Metadata 
-                  title={frontmatter.title} 
-                  description={frontmatter.description || excerpt}
+                  title={frontmatter.title + " | spaq.in"} 
+                  description={excerpt}
                   imageUrl={"https://spaq.in/" + frontmatter.featured?.childImageSharp?.fixed?.src}
                   imageAlt={frontmatter.title}
                 /> 

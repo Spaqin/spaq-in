@@ -2,9 +2,6 @@ import React from "react"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-const constructUrl = (baseUrl, path) =>
-  (!baseUrl || !path) ? null : `${baseUrl}${path}`;
-
 const Metadata = ({ title, description, imageUrl, imageAlt }) => {
   const data = useStaticQuery(
     graphql`
@@ -20,7 +17,7 @@ const Metadata = ({ title, description, imageUrl, imageAlt }) => {
   )
   const metaTitle = title || data.site.siteMetadata.title
   const metaDescription = description || data.site.siteMetadata.description
-  const defaultImageUrl = constructUrl(siteMetadata.siteUrl, "images/header-image.jpg")
+  const defaultImageUrl = constructUrl("https://spaq.in/images/header-image.jpg")
   const ogImageUrl = imageUrl || defaultImageUrl;
   return (
     <Helmet
@@ -50,7 +47,7 @@ const Metadata = ({ title, description, imageUrl, imageAlt }) => {
           property: "twitter:image:alt",
           content: imageAlt || "spaq.in",
         },
-      ].concat(meta)}
+      ]}
     />
   )
 }
