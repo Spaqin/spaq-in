@@ -78,7 +78,7 @@ Over there however I learned that there's a special, China-only holder, the one 
 
 ## The equipment!
 
-![The gang](../images/scanningfilm/gang.jpg)
+![The gang](../images/scanningfilm/setup.jpg)
 
 What you'll need is:
 - a digital camera with a macro lens (here: Fujifilm X-S10 + 7artisan 60mm f2.8),
@@ -96,6 +96,8 @@ Start with putting the center column upside-down. Extend maybe one section of th
 
 On the camera itself, set lowest ISO, electronic shutter (why bother wasting the mechanical one?), manual focus, aperture priority, and set the lens to the biggest aperture (2.8 in my case).
 
+![Bubble level](../images/scanningfilm/bubblelevel.jpg)
+
 I usually start with making sure the camera is level with the aforementioned bubble level.
 There's however another trick you can use - with a mirror. A tiny mirror that you would put in the spot where the film is. It's a simple task - make sure the lens sees itself, and it's perfectly centered as well.
 
@@ -106,6 +108,8 @@ It's a very important step for a simple reason - at macro distances, the depth o
 Now, I would put the holder below the camera, with some film in it. With some image on it, right side up, hopefully sharp. We'll be setting up focus.
 
 Anyone who's used an enlarger before knows the little dance well - you need to set both the height, and the focus; and if you change one, the other must change as well. Anyway, your job is to get as much of the negative on the camera's screen as you can, with as little of the holder itself, and all in focus. The holder may have to be moved as well.
+
+![Camera view](../images/scanningfilm/camview.jpg)
 
 As a little cheat, remember that APS-C crop factor is 1.5x? So on the Fuji camera, if I set the lens to about 1:1.5 (in practice a bit less, for some leeway), then I can move the column until focus peaking shows me perfect focus.
 
@@ -119,11 +123,15 @@ If you have any lights or bright windows in the room you're doing the scans in, 
 
 The setup is the hardest and most time-consuming part in my experience. The actual scanning part is a breeze in comparison. So if it's dark because you turned off all the lights, don't be afraid, it will be done soon.
 
+![At f8](../images/scanningfilm/atf8.jpg)
+
 Now you can switch to your working aperture - something smaller maximum sharpness, but not too small to avoid diffraction. You don't need much DoF at all, assuming the film is flat. I used F5.6 on X-T20, F8 on X-S10 - the corners are slightly sharper at F8, but dust embedded inside X-T20's sensor stack started to show.
 
 Wait until vibrations are gone, make sure the picture is in the holder, wholly visible on the screen, and press the \[remote] shutter button. If you don't have a remote, use a self-timer.
 
 After first exposure is done, if you're using a tethering cable, you may want to go and check the sharpness on PC. If not, do it on the camera, zoom in all the way, and judge for yourself. Also check if maybe too much of the holder is visible in the shot, also happens. Make any adjustments necessary.
+
+![Moving film](../images/scanningfilm/moving.jpg)
 
 If you're sure it's all good, shoot; advance the film to the next frame, shoot again. Another strip. If the holder moves, just put it back in place. Repeat until you're done.
 
@@ -147,6 +155,8 @@ Stitching is simple enough (use *perspective* stitching in Lightroom, and some o
 So instead of advancing the whole frame, I advance it a fair bit, so there's overlap between the images for the panorama algorithm to find. The sensor is filled with image, on 120 from "top" to "bottom". 6x4.5 and 6x6 require two images for a full stitch; for 4x5 I use 6. I usually also stitch them straight in Capture One before processing.
 
 # Software side of things
+
+![Capture One](../images/scanningfilm/captureone.jpg)
 
 Scanning is done, time for processing.
 
