@@ -75,7 +75,7 @@ export const Head = ({
 }) => { return <Metadata 
                   title={frontmatter.title + " | spaq.in"} 
                   description={excerpt}
-                  imageUrl={"https://spaq.in/" + frontmatter.featured?.childImageSharp?.fixed?.src}
+                  imageUrl={"https://spaq.in/" + frontmatter.featured.childImageSharp.gatsbyImageData.src}
                   imageAlt={frontmatter.title}
                 /> 
       }
