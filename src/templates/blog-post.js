@@ -21,6 +21,8 @@ export const query = graphql`query ($slug: String!) {
       }
     }
     timeToRead
+    excerpt
+    description
     html
   }
   sitePage {
@@ -56,7 +58,7 @@ const BlogPost = props => {
         />
       </div>
       <div>
-                <Disqus config={disqusConfig} />
+        <Disqus config={disqusConfig} />
       </div>
     </Layout>
   );
@@ -67,7 +69,14 @@ export default BlogPost
 export const Head = ({
   data: {
     markdownRemark: {
-      frontmatter: {title}
+      frontmatter,
+      excerpt
     }
   }
-}) => { return <Metadata title={title} /> }
+}) => { return <Metadata 
+                  title={frontmatter.title} 
+                  description={frontmatter.description || excerpt}
+                  imageUrl={"https://spaq.in/" + frontmatter.featured?.childImageSharp?.fixed?.src}
+                  imageAlt={frontmatter.title}
+                /> 
+      }
