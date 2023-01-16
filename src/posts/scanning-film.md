@@ -8,7 +8,7 @@ Nobody asked, but I'll say it anyway. And everyone has their own method, too, an
 
 Although for everyone who starts dabbling in scanning film - it's a journey. Consider this a documentation of it, to what conclusions, tools, equipment I have come to.
 
-_\* With some exceptions :flatbeds and that particular kind of cheap scanners are bad, period._
+_\* With some exceptions: flatbeds and that particular kind of cheap scanners are bad, period._
 
 # My requirements
 
