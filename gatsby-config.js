@@ -107,6 +107,7 @@ module.exports = {
             },
           },
           "gatsby-remark-autolink-headers",
+          "gatsby-remark-image-attributes"
         ],
       },
     },
@@ -115,6 +116,6 @@ module.exports = {
       options: {
           shortname: `spaqin`
       }
-    },
+    }
   ],
 }
