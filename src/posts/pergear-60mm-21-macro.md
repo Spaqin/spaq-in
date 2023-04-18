@@ -38,8 +38,14 @@ Like here. It's incredibly obvious that Pergear was misfocused while trying to t
 
 I played with it a bit instead, and got some OK results out of it. Nothing really exciting again - I could've gotten similar results from 7artisans, but handling it wasn't really that bad at all, to be honest. For pure macro purposes, it's servicable, even wide open - if thin DoF isn't a problem for you.
 
-![Pergear macro](../images/pergear/pergearmacro.jpg)
-![Pergear kot](../images/pergear/pgkot.jpg)
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
+          <img src="../images/pergear/pergearmacro.jpg" width="50%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/pergear/pgkot.jpg" width="50%"/>
+     </div>
+</div>  
 
 # Film scanning performance
 

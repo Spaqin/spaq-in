@@ -54,9 +54,15 @@ Additionally, the seller included a 39mm UV filter, which I decided to put on in
 
 As for flaring... well, I have never had a *vintage* lens that was worse at this! Absolutely awful, gutter oil coatings - if you have a strong light in the scene, either get rid of it, or stop down significantly. See the examples below - one at f2.8, the other at f7.1:
 
-![wideopen](../images/tta27/flare_wideopen.jpg)
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
+          <img src="../images/tta27/flare_wideopen.jpg" width="50%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/tta27/flare_stopped.jpg" width="50%"/>
+     </div>
+</div>  
 
-![stoppeddown](../images/tta27/flare_stopped.jpg)
 _Thanks to IBIS on X-S10, I could take the latter image at 1/4s..._
 
 There's some barrel distortion as well as I've seen on RAWs, but nothing really annoying - for proper measurements, don't ask me, I don't have a proper chart and brick walls are a rarity.
@@ -93,11 +99,17 @@ It's not perfect, for sure. It's fun to use, though, and the images make me happ
 
 I think it will stay on the X-Pro1 most of the time, for daytime walks.
 
-![cartonlady](../images/tta27/cartonlady.jpg)
-_X-Pro1_
-![scooter](../images/tta27/scooter.jpg)
-_X-Pro1_
-![clothes](../images/tta27/clothes.jpg)
+![Carton lady](../images/tta27/cartonlady.jpg)
+
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
+          <img src="../images/tta27/scooter.jpg" width="45%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/tta27/clothes.jpg" width="55%"/>
+     </div>
+</div>
+
 _X-Pro1_
 
 # Nerdy part

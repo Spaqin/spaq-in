@@ -11,8 +11,14 @@ The XG series was aimed at beginners in the realm of SLRs, and yet it almost fee
 
 I got mine for free from a friend, in unknown state, body only - besides the fact that LEDs in the viewfinder showed something. I cleaned it up, bought a Rokkor 50mm f1.4, and shot my first two rolls of color negative film. To my surprise, it worked almost flawlessly...
 
-![Leaky cat](../images/xg1/leakycat.jpg)
-![Leaky tonez](../images/xg1/leakytonez.jpg)
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
+          <img src="../images/xg1/leakycat.jpg" width="50%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/xg1/leakytonez.jpg" width="50%"/>
+     </div>
+</div>
 
 Just had to replace the light seals, easy job.
 
