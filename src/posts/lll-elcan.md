@@ -1,6 +1,6 @@
 ---
 title: "Focus On The Negative: LightLensLabs Elcan 50mm f/2 LTM"
-date: "2023-04-25"
+date: "2023-04-22"
 featured: "../images/elelelcan/finger.jpg"
 ---
 
