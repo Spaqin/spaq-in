@@ -1,12 +1,19 @@
 ---
 title: "Loose notes from Fuji GS645S repair"
-date: "2023-04-25"
-featured: "../images/gs645s/frontshot.jpg"
+date: "2023-04-22"
+featured: "../images/gs645s/done.jpg"
 ---
 
 As much as you say you care about your equipment, accidents may still happen. So yeah, I dropped my beloved GS645S, from about half a meter onto gravel. Great travel camera, but really fragile. Does not help that I was a scatterbrain that forgot to attach the PD strap.
 
-![Aftermath](../images/gs645s/aftermath.jpg)
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
+          <img src="../images/gs645s/aftermath2.jpg"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/gs645s/aftermath0.jpg"/>
+     </div>
+</div>  
 
 Aftermath:
 - rangefinder was slightly off,
@@ -34,22 +41,33 @@ That's all you need to take the top off. After opening it up, there's the flash 
 
 The red cable you can free - by unscrewing the terminal on the cover itself. Ground (black cable) I think has to stay, but it's longer and you have a bit more manouvering. If you do unscrew it, be careful - there are two transparent plastic washers. There's no direct connection between the red cable and the middle of the hotshoe, actually - I'm not sure how it works...
 
-If you snap either, it's not very difficult to solder it back. The two points on the board are rather obvious, but here are they marked:
+If you snap either, it's not very difficult to solder it back. The two points on the board are rather obvious, but here are they marked (red for the center contact, black for ground):
 
-![Marked](../images/gs645s/cables.jpg)
+![Marked](../images/gs645s/marked.jpg)
 
 # Viewfinder window glass
 
 It's a bit tricky. It's one piece of glass that's matte in the middle. The exact dimensions are (...more or less, I didn't have calipers): 57x22x1 (mm).
 It further breaks into 17mm of clear (viewfinder), 20mm matte (light meter, frames), 20mm clear (rangefinder, glue).
 
-![dimensions](../images/gs645s/glass.jpg)
+![dimensions](../images/gs645s/dimensions.png)
 
-Since it's one part, it is slightly more difficult to achieve. On Taobao I found sellers that sell either clear or matte acrylic cut to size. Acrylic instead of glass is alright, it will make it more durable too. Only problem is that most of the shops will deny being able to have both clear and matte on one cut. I found one that has actually agreed to do it, albeit at a significantly higher price.
+Since it's both clear and matte in one part, it is slightly more difficult to achieve. On Taobao I found sellers that sell either clear or matte acrylic cut to size. Acrylic instead of glass is alright, it will make it more durable too. Only problem is that most of the shops will deny being able to have both clear and matte on one cut. I found one that has actually agreed to do it, albeit at a significantly higher price.
 
 I mean, it's rather simple: take normal acrylic, mask off clear parts and sandblast the middle. It's just that it's a manual job. I ordered a bunch. The effect is not perfect but for me it's convincing enough and functional.
 
 If you wish a replacement as well (glass broken or missing), I can sell the ones I got. Contact me for details.
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/gs645s/brokenglass.jpg"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/gs645s/newglass.jpg"/>
+     </div>
+</div> 
+
+![Newly glued](../images/gs645s/newlyglued.jpg)
 
 I removed the remaining glass with some isopropanol soaking and pressure (chopstick through the RF window) and glued the acrylic replacement with superglue, at the rf window frame, like the original. That holds well.
 
@@ -80,6 +98,8 @@ The whole lens cover on front of the camera - the frame, with the bullbar, also 
 If you removed more than the advance lever - there's the hook for the lever to rotate the pin, it has to be in a specific way. Basically before assembling the camera back make sure you can press the shutter button; if not, you need to move things around.
 
 There was a bit of glue residue left on the camera body - I polished it with IPA-soaked microfiber cloth. Same applied to the scuffs on the corner, that buffed them out and they're not as visible.
+
+Sure, under a finger you can still feel it. But... it's just another mark of shame.
 
 # Conclusions
 
