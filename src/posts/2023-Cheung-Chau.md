@@ -1,6 +1,6 @@
 ---
 title: "Cheung Chau Bun Festival: a delayed writeup"
-date: "2023-06-04"
+date: "2023-06-05"
 featured: "../images/cheungchau/main.jpg"
 ---
 
