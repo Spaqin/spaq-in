@@ -1,5 +1,5 @@
 ---
-title: "Cheung Chau Bun Festival: a delayed gweilo's perspective"
+title: "A delayed gweilo's perspective: Cheung Chau Bun Festival"
 date: "2023-06-05"
 featured: "../images/cheungchau/main.jpg"
 ---
