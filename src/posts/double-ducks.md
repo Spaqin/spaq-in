@@ -1,7 +1,7 @@
 ---
 title: "A delayed gweilo's perspective: Double Ducks"
-date: "2023-06-19"
-featured: "../images/doubleducks/closeup.jpg"
+date: "2023-06-22"
+featured: "../images/ducks/closeup.jpg"
 ---
 
 Front page news: two massive inflated ducks, docked in front of Admiralty, for people to see. They're indeed massive - easily visible from the other side of the harbor, and they have been proved popular among the local population. On a weekday afternoon, viewing platforms required queueing before you could come close and take a picture of it. The view is quite nice and it's no surprise that on a somewhat clear day, there would be a lot of people at sunset times. Even in the middle of the night, with the lights off, people would still hang around. Or during heavy rain on a Saturday. 
