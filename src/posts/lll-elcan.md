@@ -1,5 +1,5 @@
 ---
-title: "Focus On The Negative: LightLensLabs Elcan 50mm f/2 LTM"
+title: "Focus On The Negative: Light Lens Lab Elcan 50mm f/2 LTM"
 date: "2023-04-22"
 featured: "../images/elelelcan/finger.jpg"
 ---
@@ -110,7 +110,7 @@ At the end of the day, you're not shooting the same scene perfectly the same wit
 
 The Elelelcan is definitely in the last category. Remarkably excellent. Small, great image quality in the middle. Great job, I gotta admit. I'm just a bit worried taking it out - but I would take it out over other 50mms for LTM anytime if I wanted to be sure to get great images on Canon P. Or bring it with me as a tiny addition for a portrait lens on digital, over the superior EF 50mm 1.8 STM.
 
-It's also interesting to see the lens... through another lens. To Light Lens Labs, it's a product of love to ReddotCamera; for me, it seems like a middle finger - you didn't want to release that, so we make it ourselves, and sell it cheaper than any of your products, while also matching or exceeding the quality.
+It's also interesting to see the lens... through another lens. To Light Lens Lab, it's a product of love to ReddotCamera; for me, it seems like a middle finger - you didn't want to release that, so we make it ourselves, and sell it cheaper than any of your products, while also matching or exceeding the quality.
 
 # The autismo corner
 
