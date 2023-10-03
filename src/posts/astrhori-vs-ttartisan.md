@@ -104,3 +104,16 @@ Both are using essentially the same rotary encoder. The TTArtisan is using an ST
 
 To be honest, I can't easily recommend either of them. I mean, they both do their jobs fine; TTA is slower to use but looks more vintagey; AstrHori has rather strong flaws with 1/3 stop step and ugly-ass communist red star logo with the website on the dial. So awful. I will keep using it however, as the measurements seem fine, and it still is faster to use in street photography scenarios.
 
+# Addendum as of October 2023 on AstrHori reliability and repairability.
+
+I have given away my TTArtisan meter as 'inferior'. I have enjoyed the AstrHori quite a bit, but one day the button stopped working.
+
+I asked their support for a part number or anything that could help me replace it. Really. I will do it myself, even though I have no SMD experience. It's a simple button that is pressed on the side, after all. No answer, and I gave them the simplest possible solution. Not even a warranty repair. Fuck off.
+
+I just used calipers - the button is about 3.6x4.7x1mm (6.4mm wide with 4 legs included). There are two pegs on the bottom that go into the PCB. Got 10 of them from Taobao for few yuan, and good because I did screw up the first repair - it didn't go all the way and wouldn't press well.
+
+After the initial repair, also the rotary encoder failed - it would move on its own, or overshoot, or go back when I was rotating the other way. I assume I used too much hot air the first time around and melted something in there, although I've had this behavior briefly before - maybe it finally failed all the way.
+
+The part number for that is ALPS RDC503013A - SMD, 4 pegs on the bottom. In order not to break anything more (there's few tiny capacitors and resistors around it), I opted for using the soldering iron and lifting the legs. Well, out of 4 legs, I lifted 4 legs and one pad, on 'top' of the part. I checked the datasheet for that encoder and thankfully it was a redundant pin, there probably for mechanical resistance, and the board had both of them connected too. Probably I could've epoxied it down, but for now I left it as-is. The damned meter works again anyway. Next time I'm buying a camera with a meter built-in.
+
+As a sidenote, as AstrWhorey does not deserve to be advertised due to their inability to respond to the simplest request, their logo and website go off easily with a bit of sandpaper. May need extra polishing.
