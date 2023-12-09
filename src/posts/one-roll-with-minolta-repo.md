@@ -113,12 +113,12 @@ _Like in this shot of a freshly caught massive fish - just passing by with camer
 Which means that every zone focus camera should have that feature. Especially since if you do get your subject perfectly in focus, it's sharp. The 30mm f/2.8 Rokkor is a simple triplet, I think - I couldn't figure out if there's a group with glued elements, but it didn't seem like it. And yet it produces great results.
 
 ![Bike](../images/repo/samples/bike.jpg)
-_a boring bike shot, but quite amazed by the details_
+_A boring bike shot, but it has plenty of sharp details._
 
 Remembering the camera came before 1965, of course the lenses are single coated. There's not much for flare resistance, and highlights can give a bit of a soft, dreamy look (although that could be because I accidentally left a fingerprint on an inside lens element, that I cleaned after the roll). That can be good if that's what you're aiming for. I'd have to shoot some color portraits to make good use of it, though.
 
 ![Market](../images/repo/samples/market.jpg)
-_Even at night it's not that bad for an inexpensive camera with a single coating_
+_Even at night, with strong lights, it's not that bad for an inexpensive camera with a single coated lens._
 
 # Metering
 
