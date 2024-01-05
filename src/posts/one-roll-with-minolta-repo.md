@@ -99,6 +99,9 @@ I was also amazed by the "programming ring" - a flat piece of steel that guides 
 
 Knowing the exact position of the programming ring, I also adjusted the position of the exposure setting ring. B was finally B, not something around.
 
+![Programming ring](../images/repo/programmingring.jpg)
+_the ring rotates, and moves the pegs (or disallows movement for the B mode ring), changing the settings fluidly._
+
 The front element does all the focusing. The focus ring basically screws in and unscrews the element, setting the focus. Unlike most lenses I've opened and cleaned, there was no indication where infinity lies. I had to use a spare ground glass and a loupe in B mode to find the right position, and then install the focus ring. I was really surprised to see rather sharp images on the ground glass, despite a simple triplet lens, wide open - meaning that half frame image quality is most probably limited by film, rather than lenses.
 
 # Now that it's working, let's shoot!
