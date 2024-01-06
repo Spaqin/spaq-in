@@ -25,7 +25,7 @@ Seems like it, true. I really cannot argue with that - hobbyists do tend to go f
 * Focusing: Rangefinder
 * Viewfinder: 0.63x magnification, 28-90, 35-135, 50-75 framelines
 * Metering: TTL
-* ISO range: 12-6400, DX
+* ISO range: 6-6400, DX
 * Hot shoe: Yes, with additional pin for when the flash is ready - just like Minolta X series (post SRT, pre autofocus)
 * Automatic wind, rewind
 * Batteries: 2x CR2
