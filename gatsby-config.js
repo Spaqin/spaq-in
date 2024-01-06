@@ -5,7 +5,6 @@
  */
 
 module.exports = {
-  /* Your site config here */
   siteMetadata: {
     title: "spaq.in",
     description: "professional programmer, amateur photographer, or the other way around",
@@ -100,6 +99,7 @@ module.exports = {
               linkImagesToOriginal: true,
             },
           },
+          "gatsby-remark-gifs",
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
