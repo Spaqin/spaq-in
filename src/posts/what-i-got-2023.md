@@ -128,7 +128,7 @@ Got two of them with the Hexar RF in October and it was quite obvious that we're
 
 ## AstrHori Light Meter
 
-I wrote a fair bit about [it earlier this year](../blog/ttartisan-vs-astrhori/). It will stay on the Canon P but it's no joy compared to having automatic exposure.
+I wrote a fair bit about [it earlier this year](../blog/astrhori-vs-ttartisan/). It will stay on the Canon P but it's no joy compared to having automatic exposure.
 
 ## Minolta Auto Meter III
 
