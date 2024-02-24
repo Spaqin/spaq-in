@@ -80,7 +80,7 @@ First five minute test was a success, accounting for strong winds in that locati
 
 Didn't fail even once. I moved to another rock to get a better view and immediately tried again. Then I went to grab a sip of water and in that very moment, the motors were overloaded, camera moved down, and lost balance. Being at basically the edge of the cliff in the blink of an eye I threw myself to save the equipment. Unfortunately, I hit the camera by the rock, giving it a slight scratch on the lens housing.
 
-Undeterred though I gave the motors a bit of a break, and set it up again. This time my hands would be around the setup at all times, and I even opted for a 10 minute timelapse. That too was a success. A very boring (and tense) one, but a success nevertheless.
+Undeterred though I gave the motors a bit of a break, and set it up again. This time my hands would be around the setup at all times, and I even opted for a 10 minute timelapse, with four points, so it goes up in the middle a bit. That too was a success. A very boring (and tense) one, but a success nevertheless.
 
 `youtube: https://youtu.be/rLCi6ozlm9o`
 
