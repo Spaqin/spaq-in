@@ -57,3 +57,33 @@ Oh and the camera is not balanced perfectly in the vid. Looks fine when it's ins
 Betteridge's law of headlines says it straight - no. In reality though, that depends on your expectations. You can make something, it just won't work.
 
 But you know what? With that universal mounting solution, I could easily put an e.g. Canon S110, with CHDK installed and run a timelapse for however long I want on that. RX100 is just too pigfat for this application.
+
+# Flawed, but in practice
+
+On RX100V, I used the free (FOSS) [Timelapse](https://github.com/jonasjuffinger/TimeLapse) app. Connecting an external intervalometer wouldn't work well - extra tug, extra weight, I'd rather avoid it. The app seems fairly wonky - I feel like it doesn't take the image every 1s. However, the official app is not only 10USD, which I could afford, but also PlayMemories store had disabled purchasing last September, and is about to be shut down. Travesty.
+
+On the gimbal side, I need to use the DJI Mimo app. This kind of sucks for few reasons:
+- it's a huge app on its own. It is powerful and decent, but in this use case I would make do with much more barebones solution.
+- it assumes that the phone is the recording device, and will keep the screen on at all times, draining battery.
+- You cannot even lose focus on the app, otherwise gimbal will return to default position. 
+
+Still, it works. I would set the timelapse points and duration on my phone, then set up the Timelapse app, to have slightly higher duration. That way I could start the process on RX100, then press record on the phone.
+
+Keeping in mind the remark about tilting the gimbal, I grabbed an Ulanzi ball head, and this was the sketchiest setup on the edge of a cliff:
+
+![sus cliff](../images/rx100vom6/suscliff.jpg)
+
+I used the timelapse function in DJI Mimo app with waypoints. I set one point, looking at the screen of RX100, confirmed on phone, then used the joystick on gimbal and set the other. Later when assembling the timelapse I would just discard the unnecessary images.
+
+First five minute test was a success, accounting for strong winds in that location:
+`youtube: https://youtu.be/vlTa7xB6FKY`
+
+Didn't fail even once. I moved to another rock to get a better view and immediately tried again. Then I went to grab a sip of water and in that very moment, the motors were overloaded, camera moved down, and lost balance. Being at basically the edge of the cliff in the blink of an eye I threw myself to save the equipment. Unfortunately, I hit the camera by the rock, giving it a slight scratch on the lens housing.
+
+Undeterred though I gave the motors a bit of a break, and set it up again. This time my hands would be around the setup at all times, and I even opted for a 10 minute timelapse. That too was a success. A very boring (and tense) one, but a success nevertheless.
+
+`youtube: https://youtu.be/rLCi6ozlm9o`
+
+Was it worth it for these results? Probably not. Was it a learning experience? For sure. On the other hand, the potential is still there - for special times, or with longer focal length, which phones cannot provide.
+
+
