@@ -95,9 +95,11 @@ But my Windows 10 laptop would not see the device at all. Another laptop with Wi
 
 # Conclusion
 
-It's not perfect, for sure. It's fun to use, though, and the images make me happy. But would I recommend it? Below 100USD, the price compensates the shortcomings greatly; at 150 or more, I would rather recommend looking for the first generation Fuji 27mm - I assume vignette and flaring performance will be better on that. It's not the end of the world if you do get one though - I will be keeping mine, it's a solid walkaround lens with a lovely focal length.
+It's not perfect, for sure. It's fun to use, though, and the images make me happy. But would I recommend it? Below 100USD, the price compensates the shortcomings greatly; at 150 or more, I would rather recommend looking for the first generation Fuji 27mm - I assume vignette and flaring performance will be better on that. ~~It's not the end of the world if you do get one though - I will be keeping mine, it's a solid walkaround lens with a lovely focal length.~~
 
 I think it will stay on the X-Pro1 most of the time, for daytime walks.
+
+(edit: I sold the lens in mid 2023, haven't used it much and got an offer higher than what I paid for it.)
 
 ![Carton lady](../images/tta27/cartonlady.jpg)
 
