@@ -155,6 +155,8 @@ Full face snorkeling masks were a failure though. I mean, they kind of worked, b
 
 Don't need to take so much to enjoy a trip. Choosing better companions for traveling will give you more pleasure than gear.
 
+Hong Kong is choking. It's awful. I'd rather spend more time in poverty of Phillippines than go back, but then I had to. Gotta do more trips, reserve a weekend every month or two for a city break, and actually use its location to my advantage.
+
 Another camera experience helped me put into words...
 
 ## My rules of traveling with a fun camera
