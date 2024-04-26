@@ -36,6 +36,8 @@ Trusty old X-S10, with trusty old setup. A must in every trip for guaranteed dec
 * Viltrox 13mm f1.4,
 * M to X close focus adapter.
 
+Why not RX100V? It didn't make sense to me to duplicate - it would be used in the same situations as X-S10. I would see it be more useful in more street context (more discreet), or if more hiking was involved (lighter).
+
 ## Film
 
 I went against my own advice and mixed cameras of the same format. I just really wanted to bring the Hexar RF with me... so I did. The whole kit.
