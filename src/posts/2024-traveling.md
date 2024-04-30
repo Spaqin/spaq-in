@@ -107,7 +107,7 @@ Was everything used? Almost. And sometimes I had to force myself.
 
 ## Drone
 
-Did a lot of flying when island hopping, beaches. Learning how to start and land on your hand is a necessity - sometimes you may be flying from a swaying boat. Be mindful of your fingers, accidents may happen... but the Mini series propellers won't chop off your finger. And skin will heal, few hundred USD spent on the drone will not.
+Did a lot of flying when island hopping, beaches. Learning how to start and land on your hand is a necessity - sometimes you may be flying from a swaying boat. Be mindful of your fingers, accidents may happen... but the Mini series propellers won't cut through the bone. And skin will heal, few hundred USD spent on the drone will not. One slightly annoying thing is related to starting and landing from a boat - you may need to override the vision sensors as the drone will refuse to move closer where you need it, and to do that you switch to sports mode, where it moves much faster, making it actually harder to control. Urgh.
 
 ND32-128 was a must for most of the daylight flights. I took it off only to take sunrise or sunsets. The sun is really bright (duh), the sand and water are very reflective (duh), and if you want to have reasonable shutter speeds for filming natural water (1/30-1/125), you need to have the ND.
 
