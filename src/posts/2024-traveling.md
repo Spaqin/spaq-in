@@ -1,14 +1,14 @@
 ---
 title: "Traveling to Phillippines"
-date: "2024-04-2X"
-featured: "../images/travel/title.jpg"
+date: "2024-05-01"
+featured: "../images/2024phillippines/title.jpg"
 ---
 
 At the end of March I have gone on a small trip to Palawan, Phillippines - a place of beautiful water, beaches, landscapes. Although it was not a photography focused trip - these are different than family or friend outings - I tried to pack whatever I could in.
 
 # What did I take?
 
-![pic of the backpack](../images/travel/backpack.jpg)
+![pic of the backpack](../images/2024phillippines/equipment.jpg)
 
 That's not including clothes or snorkeling masks.
 
@@ -107,9 +107,23 @@ Was everything used? Almost. And sometimes I had to force myself.
 
 ## Drone
 
+![Banana beach](../images/2024phillippines/drone/banana_beach.jpg)
+
 Did a lot of flying when island hopping, beaches. Learning how to start and land on your hand is a necessity - sometimes you may be flying from a swaying boat. Be mindful of your fingers, accidents may happen... but the Mini series propellers won't cut through the bone. And skin will heal, few hundred USD spent on the drone will not. One slightly annoying thing is related to starting and landing from a boat - you may need to override the vision sensors as the drone will refuse to move closer where you need it, and to do that you switch to sports mode, where it moves much faster, making it actually harder to control. Urgh.
 
 ND32-128 was a must for most of the daylight flights. I took it off only to take sunrise or sunsets. The sun is really bright (duh), the sand and water are very reflective (duh), and if you want to have reasonable shutter speeds for filming natural water (1/30-1/125), you need to have the ND.
+
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
+          <img src="../images/2024phillippines/drone/green_lagoon.jpg" width="33%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2024phillippines/drone/helicopter_island.jpg" width="33%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2024phillippines/drone/hidden_lagoon.jpg" width="33%"/>
+     </div>
+</div>
 
 I ended up not using the wide angle and the CPL filter. Wide angle distorts too much and the space isn't really limited - if you want something to fit in a picture, you can either use panoramic mode or just go further.
 
@@ -121,17 +135,87 @@ Tried and tested system, did everything well. Of course be careful when handling
 
 CPL was a must.
 
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
+          <img src="../images/2024phillippines/xs10/boat_sunset.jpg" width="25%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2024phillippines/xs10/sunrise_cat.jpg" width="25%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2024phillippines/xs10/trike_break.jpg" width="25%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2024phillippines/xs10/peaceful_boat.jpg" width="25%"/>
+     </div>
+</div>
+
 I did not use it that much though. As I mentioned, I went against my own advice and mixed formats. Rangefinder and mirrorless are different in usage yes, but they have similar limitations in my own shooting, cover similar focal lengths, especially since I took almost my whole M mount collection.
 
 I did not use extra batteries or SD card much either - changed them once basically, but that's also due to taking the Hexar.
 
-That helped me rephrase advice for traveling.
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
+          <img src="../images/2024phillippines/xs10/big_lagoon.jpg" width="50%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2024phillippines/xs10/traffic_controller.jpg" width="50%"/>
+     </div>
+</div>
+
+![swing](../images/2024phillippines/xs10/swing.jpg)
+
+That helped me rephrase advice for traveling - check out the last section.
 
 ## Film
 
 Used it all, but one roll of Ektachrome. One word of note? Don't bring untested expired film - that should be obvious, but I made the decision to use it in the Agfa. There were results, that's all I can say.
 
+![Puerto Princesa Underground River](../images/2024phillippines/reala_underground_river.jpg)
+
 Hexar is lovely. And I did pick it with either Elelelcan or CoLLLapsicron + 15 + 90 over X-S10 on some days - shoulder bag + drybag space is limited, and even then you don't really want to juggle and make the decision to use which on the spot.
+
+![Beach 7-11](../images/2024phillippines/hexar/beach_store.jpg)
+
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
+          <img src="../images/2024phillippines/hexar/puerto_princesa.jpg" width="33%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2024phillippines/hexar/el_nido.jpg" width="33%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2024phillippines/hexar/coron.jpg" width="33%"/>
+     </div>
+</div>
+
+---
+
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
+          <img src="../images/2024phillippines/hexar/trike_break.jpg" width="33%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2024phillippines/hexar/trike_driver_eyes.jpg" width="33%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2024phillippines/hexar/trikes.jpg" width="33%"/>
+     </div>
+</div>
+
+_I do love their tricycles._
+
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
+          <img src="../images/2024phillippines/hexar/log.jpg" width="33%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2024phillippines/hexar/volleyball.jpg" width="33%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2024phillippines/hexar/hoop_dreams.jpg" width="33%"/>
+     </div>
+</div>
 
 Resulting slides from Ektachrome (repackaged E100D) were absolutely splendid. It did get dinged here and there, keep that in mind of course.
 
