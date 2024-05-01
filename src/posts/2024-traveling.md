@@ -217,7 +217,7 @@ _I do love their tricycles._
      </div>
 </div>
 
-Resulting slides from Ektachrome (repackaged E100D) were absolutely splendid. It did get dinged here and there, keep that in mind of course.
+Resulting slides from Ektachrome (repackaged E100D) were absolutely splendid. The camera itself did get dinged here and there, keep that in mind of course if you take something worth a bit more than usual.
 
 ## Misc
 
@@ -253,7 +253,7 @@ Bring one trusted shooter - whether digital or 35mm, if you're going for film on
 
 Now, the fun camera must be fun to use. That's subjective, of course, so for example from my own collection I would not be tempted to bring Canon EOS 30, Minolta XD or Bronica S2A. They're great shooters, get out of your way, but they're not thrilling, or they're too unwieldy like Bronica.
 
-The fun camera should be rewarding. Slide film is one very rewarding aspect of shooting, but the image quality should blow you away. Either in Holga aesthetic, or super sharp.
+The fun camera should be rewarding. Slide film is one very rewarding aspect of shooting that can help, but overall the image quality from the film and camera/lens should blow you away. Either in Holga aesthetic, or super sharp.
 
 But the fun camera must have its own time and space. It shouldn't be interchangeable with your main shooter, so you don't have to make the decision in the morning which one to bring. You should be able to bring both, if you can, but not regret not taking the fun camera if you cannot.
 
