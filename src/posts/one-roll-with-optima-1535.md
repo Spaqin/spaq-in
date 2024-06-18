@@ -56,18 +56,17 @@ In hand though it feels solid - the plastic doesn't bend, but it doesn't boast c
 
 <div style="display:flex">
     <div style="flex:1;padding-left;">
-        <img src="../images/agfaoptima1535/pics/meat.jpg" width="25%"/>
+        <img src="../images/agfaoptima1535/pics/meat.jpg" width="33%"/>
     </div>
     <div style="flex:1;padding-left:10px;">
-        <img src="../images/agfaoptima1535/pics/alley.jpg" width="25%"/>
+        <img src="../images/agfaoptima1535/pics/alley.jpg" width="33%"/>
     </div>
     <div style="flex:1;padding-left:10px;">
-        <img src="../images/agfaoptima1535/pics/bowls.jpg" width="25%"/>
-    </div>
-    <div style="flex:1;padding-left:10px;">
-        <img src="../images/agfaoptima1535/pics/sleeping.jpg" width="25%"/>
+        <img src="../images/agfaoptima1535/pics/bowls.jpg" width="33%"/>
     </div>
 </div>
+
+![sleeping](../images/agfaoptima1535/pics/sleeping.jpg)
 
 _Feel free to click on the images to get the full res version._
 
