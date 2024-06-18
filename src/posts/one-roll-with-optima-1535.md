@@ -1,6 +1,6 @@
 ---
 title: "One roll with... Agfa Optima 1535"
-date: "2024-05-05"
+date: "2024-06-18"
 featured: "../images/agfaoptima1535/front.jpg"
 ---
 
