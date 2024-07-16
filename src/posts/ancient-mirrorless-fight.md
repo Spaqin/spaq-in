@@ -8,6 +8,8 @@ Mirrorful cameras were unquestionable kings until mid 2010s. Mirrorless designs 
 
 Now I have two of these early mirrorless cameras - the Fuji X-Pro1 and Oly PEN E-PL2. One represents the high end, the other - mid-low. How do they compare? Are they still usable in $current_year?
 
+Of course it doesn't make sense, they're differently priced, but who cares?
+
 # Fujifilm X-Noob1
 
 By a stroke of luck, I got my hands on an X-Pro1 a while ago. I used it as a secondary camera to my X-S10, thanks to the same lens mount, for gigs, or when I felt like using it, for a different experience.
@@ -20,7 +22,7 @@ Third was the screens - the main screen has terrible angles, slow refresh rate, 
 
 But again. I get the charm. It's neat to hold. Dials are satisfying. It's just not very pleasant to use after the initial enchantment.
 
-# Olympus PENcil E-PL2
+# Olympus PEN E-PL2
 
 And by another stroke of luck I got my hands of a long unused E-PL2. There's no viewfinder to speak of, so there's less to complain about. It also employs a contrast-detect based autofocus system, but unlike X-Pro1, it has 4-EV IBIS, supposedly.
 
@@ -30,11 +32,21 @@ The problems? Well, it's a M43 sensor with 12MP resolution. It's not as suitable
 
 And birding is the photographic equivalent of fishing. You stand still for hours, supposedly waiting for the perfect moment, but in reality just to get away from the wife.
 
-It's lighter and smaller than the X-Pro, and it still feels relatively good to hold. There's not many dials to play with here - there's the mode dial and everything else is controlled by the dials and buttons in the back. Certainly not as easy to control for an advanced photographer as the other, but will still get the job done. Most of the time you only need to change the aperture, and that's easy.
+# Ergonomics
+
+Both are slabs. Bricks. E-PL2 is far lighter though and is more... tossable. It still feels good in the hand, even with the slippery fake leather I glued in the front, maybe in part due to its lightness.
+
+I like X-Pro1's buttons, dials, clicks. E-PL2 has a boring button on the top for power, that kind of sucks - it's not very tactile. Low end really shows - it works, but without anything fancy.
+
+That does mean that you will have to reach into the menu on the E-PL2 more. Thankfully, the quick menu is quite simple and easy to navigate. Fuji's menus aren't great in general, and X-Pro1's in particular feel even worse, but that may be also cause it has more options that need to be put in all the different places.
 
 # Image quality
 
-I am testing it with the kit lens, at f8, at wide (28mm equivalent), medium (50mm), and long distances, at lowest ISO, with the view from my window. I also include X-S10 for reference, to see how far have we gone.
+In general, I found X-Pro's images to be average, with more contrast. With some tweaking, and shooting side-to-side with the X-S10, I can't tell the difference between the two. That's actually something I want from a secondary camera. Of course, if you look closer, it's a bit softer, lower resolution, lower dynamic range, but it passes the test most of the time.
+
+Meanwhile, with the dark kit lens of E-PL2... it's not much different from a modern phone camera. Of course that's a problem in part due to the lens. We do need more bokeh sometimes.
+
+I am testing it with the kit lens, at f8, at wide (28mm equivalent), medium (50mm), and long distances, at lowest ISO, with the view from my window. I also include X-S10 for reference, to see how far we have gone in 8 years.
 
 // insert images, conclusions
 
@@ -46,12 +58,14 @@ Here's a contrasty scene. These were shot in RAW, and in Lightroom shadows were 
 
 # Autofocus speed
 
-I did mention X-Pro1 was terrible at it earlier. But how does it compare?
+I did mention X-Pro1 was terrible at it earlier. But how does it compare? Both cameras have contrast detect autofocus systems, known for not being particularly fast. I'm sure that at least on the Fuji side, the lens itself is not the limit of the AF system either, having used it with X-S10.
 
-In practice, X-Pro1 was almost unusable in any fast-changing environment, including street photography. The shot would be already long done by the time the shutter did its job. E-PL2 is... // test, insert conclusions
+In practice, X-Pro1 was almost unusable in any fast-changing environment, including street photography. The shot would be already long done by the time the shutter did its job. E-PL2 is a bit faster. // test, insert conclusions
 
 // insert videos
 
 # Still worth picking up?
 
-No.
+I'm thinking of picking up the Panasonic 20mm f1.7 for the E-PL2 and making it a street machine.
+
+Besides that, not really.
