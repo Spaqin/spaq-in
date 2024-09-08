@@ -1,6 +1,6 @@
 ---
-title: "One box of Instax square with... Mamiya RB67i"
-date: "2024-08-29"
+title: "One box of Instax square with... Mamiya RB67"
+date: "2024-09-08"
 featured: "../images/instax/arbee.jpg"
 ---
 
