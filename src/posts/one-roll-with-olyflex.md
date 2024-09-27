@@ -35,7 +35,7 @@ Generally TLRs are similar to each other from afar, but with small differences h
 
 # Brief overview of Olympusflex models
 
-There's a [site](..link/to/it) that has all the models listed, that's how I know mine is the type A. Basically they came in two types, A and B, with 2.8 and 3.5 lenses. "A" was the cheaper one, didn't have a crank but still with automatic film winder (none of that red window bullshit); the settings are changeable with wheels rather than levers. Additionally, and maybe more importantly from modern perspective, the 2.8 lens on the A type is supposed to be a 4-element rather 6, however I haven't seen a side by side comparison to tell if it's any better. 
+There's a [site](http://www.biofos.com/coll/subcoll/tlr.html) (or [two](http://www.tlr-cameras.com/Japanese/Olympus.html)) that has all the models listed, that's how I know mine is the type A. Basically they came in two types, A and B, with 2.8 and 3.5 lenses. "A" was the cheaper one, didn't have a crank but still with automatic film winder (none of that red window bullshit); the settings are changeable with wheels rather than levers. Additionally, and maybe more importantly from modern perspective, the 2.8 lens on the A type is supposed to be a 4-element rather 6, however I haven't seen a side by side comparison to tell if it's any better. 
 
 From my experience, the A is solidly built - on my copy everything works fine; glass is clear, okay, knobs are a little dirty and leatherette is cracking, but in this state I'm sure it will work for another 70 years.
 
