@@ -18,6 +18,8 @@ So yes, it is more expensive. You can explain it with the hardware differences, 
 
 Oh my, the viewfinder. Looking through X-S10's again feels like a keyhole. Somehow, on the Zf's viewfinder and screen, any picture looks great (even if it's boring as hell), while on the X-S10 it's kind of dull. It does get the job done, but it doesn't seem fun.
 
+But from the first time you pick it up, you can feel it. Things make more sense. It's a joy to use. I'm not saying it feels more solid, both cameras do, and the ergonomics are better on the X-S10, but I'm more eager to pick up the Zf. Maybe it's just due to the novelty, for now...
+
 # But it's not the hardware only.
 
 Bigger bokeh is a factor for sure, better perceived sharpness (far less demanding sensor in terms of pixel density), are just surface level things.
@@ -66,9 +68,13 @@ The potential is there, it just had to be refined. But instead, Fuji is focusing
 
 Or that vertically mounted 1" sensor camera that's rumoured. Obviously following the Pentax 17 hype. And we do need more compact cameras, but it feels off. Will it turn out to be a fashion statement?
 
-It's a bit weird, since Fuji is trying to capture the pro market with X-H and X-Ty series, and fashion statements with film sim dials and X100. As a pro, I'd recommend Sony or Nikon immediately, since the latter has finally caught up in the mirrorless market. For photography amateurs that just enjoy taking photos, they also have little choice. They could make a small, capable camera with stills as main priority, but choose not to. The first party lenses are generally expensive for what they offer, and when adapting you have to deal with the crop. Viltrox does save the day, not gonna lie.
+Fuji seems to be trying to capture the pro market with X-H and X-Ty series, and fashion statements with film sim dials and X100. As a pro, I'd rather recommend Sony or Nikon immediately, since the latter has finally caught up in the mirrorless market. For photography amateurs that just enjoy taking photos, they also have little choice. They could make a small, capable camera with stills as main priority, but choose not to. 
 
-The competition could be used A7 series, or the Zf in similar price range, I think. And then you get the full frame. Or a6400 in APS-C range, or Zfc, although APS-C lens lineup on Nikon is pitiful. It's getting harder and harder to recommend Fujifilm to anyone, when better or cheaper options are available.
+The first party lenses are generally expensive for what they offer, and when adapting you have to deal with the crop. Viltrox does save the day, and it's probably the only way a savvy enthusiast can enjoy the system. I don't think I would've bought any first-party lenses if they didn't come out to the rescue. The 27 and 75 1.2 are amazing, and the 13mm f1.4 will stay in my kit until I get rid of the whole system.
+
+The competition? It's really tough - there's used A7 series, or the Zf in similar price range, I think. And with these, you get the full frame. Or a6400 in APS-C range, or Z50/Zfc, although APS-C lens lineup on Nikon is pitiful; Sony should also update the bodies at some point - but they're no less capable than Fuji offerings. Still, it's getting harder and harder to recommend Fujifilm to anyone, when better or cheaper options are available. Someone looking for a lighter kit would probably be better off with M43 too.
+
+Given no X-Pro4, I have a feeling like that part of the market will be abandoned in favor of cameras that look good and hip. Pro market may still get some support from existing consumer base, but that may also lose focus, with more resources in the GFX segment. So that will leave two parts of the market - complete amateurs (volume) and hardcore pros (high margins) for Fuji. That's just my guess.
 
 # Quo vadis, me?
 
