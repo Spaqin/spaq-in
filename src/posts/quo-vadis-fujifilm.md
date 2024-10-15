@@ -64,7 +64,7 @@ Fujifilm has certainly made a name for themselves in the early days, with X-T2, 
 
 It's especially sad since X-S10 represents a niche that I'm surprised Fuji has overlooked - a smaller camera without weather sealing, but with IBIS. Great for travel, hiking. X-T4/5 are too fat, considering they're APS-C. I ended up with the X-S10 only because I wanted X-T40 that never came, and had to learn to love the substitute, despite its flaws.
 
-The potential is there, it just had to be refined. But instead, Fuji is focusing on releasing viewfinderless, IBIS-less camera for the same price I paid for my X-S10 (X-M5). And I have a feeling it will be abandoned within a year too.
+The potential is there, it just had to be refined. But instead, Fuji is focusing on releasing viewfinderless, IBIS-less camera for the same price I paid for my X-S10 (X-M5), with features that could be retrofitted into the older bodies. And I have a feeling it will be abandoned within a year too.
 
 Or that vertically mounted 1" sensor camera that's rumoured. Obviously following the Pentax 17 hype. And we do need more compact cameras, but it feels off. Will it turn out to be a fashion statement?
 
