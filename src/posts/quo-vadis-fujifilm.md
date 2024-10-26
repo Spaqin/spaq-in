@@ -1,7 +1,7 @@
 ---
 title: "Quo vadis, Fujifilm? One month with Nikon Zf"
-date: "2024-10-15"
-featured: "../images/fujicucked/title.jpg"
+date: "2024-10-26"
+featured: "../images/fujicucked/big_black_lens.jpg"
 ---
 
 I went to North America again. To escape work, to escape myself, my circumstances. Well, for work-related reasons first and foremost, but I wouldn't have agreed if that was everything it was to it.
@@ -16,9 +16,33 @@ X-S10 body only was 8000 HKD. Zf set me back, with the lens, 12600, so it is rou
 
 So yes, it is more expensive. You can explain it with the hardware differences, for starters. Full frame sensor. Far better viewfinder. And that's about it, for main differences.
 
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/fujicucked/techart.jpg"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/fujicucked/40mm.jpg"/>
+     </div>
+</div>
+
+_Besides, it's just sexier, even with the fake 40mm._
+
 Oh my, the viewfinder. Looking through X-S10's again feels like a keyhole. Somehow, on the Zf's viewfinder and screen, any picture looks great (even if it's boring as hell), while on the X-S10 it's kind of dull. It does get the job done, but it doesn't seem fun.
 
 But from the first time you pick it up, you can feel it. Things make more sense. It's a joy to use. I'm not saying it feels more solid, both cameras do, and the ergonomics are better on the X-S10, but I'm more eager to pick up the Zf. Maybe it's just due to the novelty, for now...
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/fujicucked/zf_samples/biere.jpg"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/fujicucked/zf_samples/bonjour.jpg"/>
+     </div>
+</div>
+
+_That sign must be very encouraging for marathon runners._
+
+![old school car](../images/fujicucked/zf_samples/car.jpg)
 
 # But it's not the hardware only.
 
@@ -28,11 +52,40 @@ It's the user interface. It's how the camera treats you. It's how in Fuji, you c
 
 It's the little features. Zf has the Pixel Shift mode - the hardware is already there after all. My favorite is probably the timelapse video feature - instead of having to do interval shooting and then stitching it on PC, the camera will make automatically. Ready to share. Cameras are just small computers with plenty of power; that should be utilized - maybe not to the extent of computational photography, but still. I still want to see in-camera focus stacking for easy product shots, and Pixel Shift mode that doesn't require external software.
 
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/fujicucked/zf_samples/ferris_wheel.jpg"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/fujicucked/zf_samples/reflection.jpg"/>
+     </div>
+</div>
+
+_These were shot at 2s, without tripod._
+
 It's the fact that image stabilization actually works. With X-S10 I thought it's pretty neat I can get a sharp image handheld with the 13mm at 1/4s. With the Zf, I have reached two seconds with 40mm. At least one second with the 105mm VR. On the Fuji, with 50-230 OIS, I struggled beyond 1/6s.
 
 Weirdly enough, with the Techart adapter I can only do 1/2s with 35mm 1.7, but... It's still far better.
 
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/fujicucked/zf_samples/nightview.jpg"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/fujicucked/zf_samples/long_exp.jpg"/>
+     </div>
+</div>
+
 It's also autofocus that's working. On the Zf, I can freely change the AF detection settings in the quick menu with a flick of a dial, and it does make a difference (although it does miss sometimes still). I think on Fuji it also would have, but I just cannot be arsed to trawl through the menus to get to it, so it's running full auto.
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/fujicucked/zf_samples/chinese_garden.jpg"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/fujicucked/zf_samples/cityscape.jpg"/>
+     </div>
+</div>
 
 # Few gripes - no grip.
 
@@ -42,17 +95,46 @@ ISO dial behavior is a bit weird too. If you choose C (only in that mode), you c
 
 In this case though I end up flipping into M mode, and setting the shutter speed to a value low enough that I still feel like I can take a decently sharp image with.
 
+Besides that, I've had trouble using Capture One 23 with wireless tethering, and grain2pixel doesn't seem to work with raw NEF files from the Zf either.
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/fujicucked/zf_samples/side_squirrel.jpg"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/fujicucked/zf_samples/front_squirrel.jpg"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/fujicucked/zf_samples/goose.jpg"/>
+     </div>
+</div>
+
+_With Voigtlander 90mm 2.8 APO-Skopar._
+
+I found that animal detection frustratingly wouldn't want to focus on the squirrel when it was looking down on me. It would've been such a great shot otherwise. Given that Fuji would focus on the leaves behind, I can kind of forgive that.
+
 # Communication and trust are most important.
 
 Honesty too, but honestly both companies are here to take your money.
 
-Not gonna lie, the Fuji app is pretty solid. It connects quickly and isn't too bad to use. Using it for remote control is also pretty convenient. I can get JPEG photos off my camera pretty quickly, but if I shot RAW only, I need to convert it first.
+Not gonna lie, the Fuji app is pretty solid. It connects quickly and isn't too bad to use. Using it for remote control is also pretty convenient. I can get JPEG photos off my camera pretty quickly, but if I shot RAW only, I need to convert it first; although it is the case on both cameras.
 
 And Nikon's is a bit rough around the edges, connecting to the camera's WiFi takes a long time and sometimes fails.
 
 But it has so much more. It can automatically send lower resolution pictures for you to enjoy, without doing anything. Amazing, even if it doesn't work all the time, and your phone ends up bloated with hundreds of the same pictures.
 
-It lets you send videos over WiFi, unlike Fuji. That means I can record a short vid for social media with a better image quality I'd get from a phone and have it ready immediately. That's opening up for new workflow possibilities.
+It lets you send videos over WiFi; Fuji's can too, but it's horrendously slow. That means I can record a short vid for social media with a better image quality I'd get from a phone and have it ready immediately. That's maybe not entirely opening up for new workflow possibilities, but it surprises my friends how quickly I can send them the images.
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/fujicucked/zf_samples/temple_altar.jpg"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/fujicucked/zf_samples/wooden_construct.jpg"/>
+     </div>
+</div>
+
+![.](../images/fujicucked/zf_samples/temple_organs.jpg)
 
 And another thing? You can connect even if the camera is switched off. I don't have to take off my backpack to reach the power button to download pics coming down from a hike. And even if the camera is still on, downloading pics is done in the background, and the camera is still usable - with few limitations, like I couldn't send videos while making a timelapse, but that's reasonable. Not like Fuji that becomes completely unresponsive in phone connection mode.
 
@@ -68,15 +150,17 @@ The potential is there, it just had to be refined. But instead, Fuji is focusing
 
 Or that vertically mounted 1" sensor camera that's rumoured. Obviously following the Pentax 17 hype. And we do need more compact cameras, but it feels off. Will it turn out to be a fashion statement?
 
-Fuji seems to be trying to capture the pro market with X-H and X-Ty series, and fashion statements with film sim dials and X100. As a pro, I'd rather recommend Sony or Nikon immediately, since the latter has finally caught up in the mirrorless market. For photography amateurs that just enjoy taking photos, they also have little choice. They could make a small, capable camera with stills as main priority, but choose not to. 
+Fuji seems to be trying to capture the pro market with X-H and X-Ty series, and fashion statements with film sim dials and X100. As a pro, I'd rather recommend Sony or Nikon immediately, since the latter has finally caught up in the mirrorless market. For photography amateurs that just enjoy taking photos and want to get a decent camera that is more than a trendy accessory, they also have little choice. Fuji could make a small, capable camera with stills as main priority, but choose not to. 
 
 The first party lenses are generally expensive for what they offer, and when adapting you have to deal with the crop. Viltrox does save the day, and it's probably the only way a savvy enthusiast can enjoy the system. I don't think I would've bought any first-party lenses if they didn't come out to the rescue. The 27 and 75 1.2 are amazing, and the 13mm f1.4 will stay in my kit until I get rid of the whole system.
 
-The competition? It's really tough - there's used A7 series, or the Zf in similar price range, I think. And with these, you get the full frame. Or a6400 in APS-C range, or Z50/Zfc, although APS-C lens lineup on Nikon is pitiful; Sony should also update the bodies at some point - but they're no less capable than Fuji offerings. Still, it's getting harder and harder to recommend Fujifilm to anyone, when better or cheaper options are available. Someone looking for a lighter kit would probably be better off with M43 too.
+The competition? It's really tough - there's used A7 series, Z6/Z6ii or the Zf in similar price range, I think. And with these, you get the full frame. Or a6400 in APS-C range, or Z50/Zfc, although APS-C lens lineup on Nikon is pitiful; Sony should also update the bodies at some point - but they're no less capable than Fuji offerings. Still, it's getting harder and harder to recommend Fujifilm to anyone, when better or cheaper options are available. Someone looking for a lighter kit would probably be better off with M43 too.
 
 Given no X-Pro4, I have a feeling like that part of the market will be abandoned in favor of cameras that look good and hip. Pro market may still get some support from existing consumer base, but that may also lose focus, with more resources in the GFX segment. So that will leave two parts of the market - complete amateurs (volume) and hardcore pros (high margins) for Fuji. That's just my guess.
 
 # Quo vadis, me?
+
+The seed for the whole article here was sown long time ago, with being salty that X-T40 did not come out.
 
 I'll be keeping the X-S10 probably for a bit - with the zoom lenses the Fuji still makes a decent, convenient kit, but if I get my hands on few Z zooms, I will probably get rid of it. I do enjoy its lightness and I would prefer to take it on hikes, so I can feel I would still have some use of it. It's still capable of taking great images, and with zoom versatility it would be better for landscapes.
 
