@@ -31,4 +31,4 @@ const About = () => {
 
 export default About
 
-export const Head = () => { return <Metadata title="About" description=""/>; };
+export const Head = () => { return <Metadata title="About" description="" />; };

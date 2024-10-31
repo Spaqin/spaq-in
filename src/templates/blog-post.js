@@ -12,6 +12,7 @@ import Metadata from "../components/metadata"
 export const query = graphql`query ($slug: String!) {
   markdownRemark(fields: {slug: {eq: $slug}}) {
     frontmatter {
+      keywords
       title
       date(formatString: "DD MMMM, YYYY")
       featured {
@@ -77,5 +78,6 @@ export const Head = ({
                   description={excerpt}
                   imageUrl={"https://spaq.in/" + frontmatter.featured.childImageSharp.gatsbyImageData.images.fallback.src}
                   imageAlt={frontmatter.title}
+                  keywords={frontmatter.keywords}
                 /> 
       }

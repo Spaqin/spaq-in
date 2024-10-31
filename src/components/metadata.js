@@ -2,7 +2,7 @@ import React from "react"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-const Metadata = ({ title, description, imageUrl, imageAlt }) => {
+const Metadata = ({ title, description, imageUrl, imageAlt, keywords }) => {
   const data = useStaticQuery(
     graphql`
       query {
@@ -10,6 +10,7 @@ const Metadata = ({ title, description, imageUrl, imageAlt }) => {
           siteMetadata {
             title
             description
+            keywords
           }
         }
       }
@@ -47,6 +48,10 @@ const Metadata = ({ title, description, imageUrl, imageAlt }) => {
           property: "twitter:image:alt",
           content: imageAlt || "spaq.in",
         },
+        {
+          property: "keywords",
+          content: keywords || site.siteMetadata.keywords
+        }
       ]}
     />
   )

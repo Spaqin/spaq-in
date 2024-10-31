@@ -9,6 +9,7 @@ module.exports = {
     title: "spaq.in",
     description: "professional programmer, amateur photographer, or the other way around",
     author: "Spaqin",
+    keywords: ["photography", "services", "review", "spaqin", "Hong Kong"],
     flatNavItems: [
       {
         name: "Home",
