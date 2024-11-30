@@ -1,0 +1,34 @@
+* {
+    h1 {
+      font-size: 35px;
+      margin: 0 0 10px;
+      text-align: center;
+      font-weight: bold;
+    }
+
+    h2 {
+        text-align: center;
+        font-weight: bold;
+    }
+
+  }
+
+.mainimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.maindiv {
+    display: flex;
+}
+
+.firstimg {
+    flex: 1;
+}
+
+.subsequentimg {
+    flex: 1;
+    padding-left:10px;
+}
