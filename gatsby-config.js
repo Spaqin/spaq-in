@@ -31,6 +31,11 @@ module.exports = {
         subItems: [],
       },
       {
+        name: "Services",
+        link: "/services/",
+        subItems: [],
+      },
+      {
         name: "Social",
         link: "",
         subItems: [
