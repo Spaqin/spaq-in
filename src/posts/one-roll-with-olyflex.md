@@ -39,7 +39,7 @@ There's a [site](http://www.biofos.com/coll/subcoll/tlr.html) (or [two](http://w
 
 From my experience, the A is solidly built - on my copy everything works fine; glass is clear, okay, knobs are a little dirty and leatherette is cracking, but in this state I'm sure it will work for another 70 years.
 
-<img src="../images/olyflex/seikosha.jpg" width="25%">
+![seikosha](../images/olyflex/seikosha.jpg)
 
 Despite it being a "cheaper" model, it wasn't completely skimped on either. There's a Seikosha logo on the shutter speed lever inside - that's a neat little touch. What's even neater is that the film type and ISO reminder dials have clicks. ISO every third of a stop.
 
