@@ -131,7 +131,7 @@ I didn't let it go as it is my favorite film travel camera, but there was no har
 
 Around the lake there's few cafes, so if you're caffeine starved, you won't be for long. Coffee is good, plentiful, and cheap; they're definitely proud of it. There's also a Mixue if you want cheap ice cream. Uniqlo in a stylized colonial building, main police station and old Ha Noi Moi newspaper building.
 
-// on the last day, hidden cafe
+On my last day in Hanoi I went there again, as weather seemed to get better. Looking for an egg coffee place to enjoy, I found a tiny hidden cafe, [Dinh Cafe](https://maps.app.goo.gl/5KRJwoDcYyM93bK87) - the place was absolutely crowded despite being well hidden. The coffee was cheap and very good; and inside while it looks rather unmaintained, keeps a comfy atmosphere.
 
 ## Ngoc Son temple and interlude on traffic
 
@@ -175,21 +175,59 @@ A historical relic, to point out the 1000+ year old history of Vietnam. One of t
 
 ## Hoa Lo prison
 
+An interesting museum for sure. Probably the first time when I realized the reverse propaganda - how terrible the French were (frankly, it does look like the conditions in the prison were indeed bad), and how nice Vietnamese were to American soldiers they imprisoned there. I'm not the one to judge, but I did enjoy seeing the exhibitions. Oh and multiple mentions of future Communist party members who have been conspiring in there.
+
 From the English-curious students from the first day, I learned that they have a special show at night there. I went there the first day in the evening, after finding vague information that it's on weekends after 19:00. However, I was met with a closed gate, and few posters; I could not find any detailed information online on ticketing, in English especially. The QR code on the posters led me to a Vietnamese [Facebook page](https://www.facebook.com/hoaloprisonrelic/), seemed like it was a "DM me for details" thing in Vietnamese only. The shows are only on Friday and Saturday, so I haven't missed any, and the tickets were quite pricy.
 
 ## Ho Chi Minh mausoleum
 
-// mention dress code, long queue, short visit, weird feeling, chat with a random Vietnamese couple
+Having heard stories of the Lenin mausoleum which I will probably not have a chance to ever visit, I definitely took my chance to see at least one dead communist. Should I even call this place an "attraction"?
+
+It's open early in the morning, and closes quite early too. The entrance is at the corner of Ngoc Ha and Le Hong Phong. Definitely aimed at locals - I was the only foreigner in a very long queue, and the staff spoke almost no English. There's a dress code, like to temples - for men, need long pants. You can't bring big backpacks - you leave them at the deposit - and cameras are also forbidden, but they're taken later, near the mausoleum entrance, and returned after you exit from the mausoleum.
+
+After a long queue you finally get to go into this massive building. Through few corridors, your group has to keep walking. No talking, no photos, pay your respects and leave. A Vietnamese couple in front of me made some small talk - it didn't seem to be a very serious place for them. Plenty of school excursions too.
+
+After you exit and retrieve your camera, you can enjoy a little area with Ho Chi Minh's house on stilts where he supposedly lived and his garage with Soviet limousines, for a small fee. That's actually quite nice, albeit small. And there's a museum dedicated to HCM that I have skipped. I've seen the man himself. That's more than enough.
+
+## Tran Quac pagoda and interlude about transportation around Hanoi
+
+Nothing really to write home about, but I also haven't been lucky with the weather. Theoretically, it faces west and it could possibly be either a good sunset point, and the pagoda itself would look good.
+
+To get around Hanoi you can just walk - it's not a big area with the main attractions. Alternatively you can use Grab, the app. Drivers will ask you if you want to go anywhere; seeing a white face their eyes become big VND symbols. Grab is just cheaper and more honest. And you can take a taxi car, or a motorbike. Motorbikes are cheaper and more efficient; probably faster than cars too considering the traffic. Taking the bike is quite fun and I'd recommend it, and works great if you're a solo traveler carrying just a backpack. If you consider the traffic as chaotic from a pedestrian perspective, try it out from the rider's.
 
 ## Ha Long Bay daytrip
 
-// not worth comparing to Philippines
+In Old Quarters you can find plenty of travel agencies, or you can book a daytrip online. They all offer basically the same itineraries. I've heard that Ha Long Bay is beautiful, so decided to go on a daytrip - they pick you up from the hotel, drive you there (about 2 hours), bring you on a boat, serve lunch, sail to few places.
+
+It was fairly crowded and again, probably a weather issue. The cliffs were nice, but the water seemed quite dirty and generally speaking, Coron and El Nido in the Phillippines were better - cleaner, cheaper, more beautiful. I can tell that people could get excited about it though, but I got spoiled :)
+
+## Ninh Binh daytrip
+
+Another day, another trip, this time to the old capital. Includes a temple (_yawn_), a cruise along Tam Coc (three caves, actually nice), a bike ride in the countryside before lunch and Hang Mua. Again unlucky with the weather, it was raining for most of the day.
+
+It was actually quite nice, the caves and temples around it seemed quite scenic. You gotta help the oarswoman/driver row at times, which I didn't mind. Make some small talk to fellow travelers on the way. The bike ride in the rain on a barely maintained bike? Also exciting, especially when you notice the brakes aren't fully working. I can assume it's really nice on a good day, especially in spring, with flora blossoming.
+
+The last part, Hang Mua, is a small cave and two hills. And a whole commercial complex. Just ignore all that crap and get to the top, for a really nice view of Tam Coc. 
+
+From all the places around Hanoi, this is one I'd like to try again with better weather.
 
 ## Beer street/Ma May street and other things to mention
 
-// too old for this shit, scams
+There's a whole street of restaurants with beer. All the same crap with loud music. I'm too old for that I guess.
 
-// museum of history, cathedral
+Some places on Ma May street were weirdly empty despite late hour and it all seemed quite seedy. If you go there by yourself, take care of your belongings, looks like you could get drugged in there. Even then, looking on Google Maps, the whole place had high ratings.
+
+I have a feeling that Americans going first time to Asia, to Vietnam, would rate anything highly. _"It was a scam, but at least it was a really cheap scam.5 stars"_
+
+I did find a lovely place that served quite good spring rolls and another that served chè (dessert, not very different from Taiwanese/HK style, but still very nice).
+
+For a beer place I liked [Bross Craft Beer](https://maps.app.goo.gl/cj4AM5LPTic3oWKF6) slightly away from the centre. Went in on a slow night, had a lovely chat with the bartender, and they serve locally made beer by that microbrewery. Ok, it's not the best beer, but beats the mass produced piss that you'd get on the beer street. And by talking to locals you can actually learn how much they make, how they manage their daily lives, and how racist Koreans are towards South East Asians.
+
+For souvenirs, I liked t-shirts from Tired City. There are plenty of their shops around. The t-shirts are quite pricy, but quality is really good, and the designs are cute.
+
+There's also St Joseph's Cathedral. Outside looks like another Notre Dame knock-off, but the altar inside has an interesting design that mixed western sacral art with Vietnamese patterns. Worth a quick look if you're nearby.
+
+That's about it from places worth visiting here. I wouldn't spend too much time in Hanoi itself, but rather focus on daytrips around; but a day or two won't hurt.
 
 # Saigon
 
@@ -199,18 +237,42 @@ _The people from there, they try so hard to be American!_
 
 From a conversation with someone definitely pro-Communist while waiting at the mausoleum.
 
-## Plane to
+## Getting there
 
-// lax security on domestic, VietJet delayed, Grab scam on landing
+There were two options I considered: the train, and the plane. The train takes 36 hours, is more expensive than the plane, but it seemed like great fun.
 
-## War museum
+The plane is cheaper, and takes two hours. I only had a week, so I went with the plane. If I had more time, and decided to visit the middle part of Vietnam (which I'd like to at some point, at least to see [Hue City](https://willbullen.artstation.com/projects/ARe0X)).
 
-// harrowing
+I took a domestic plane. VietJet Air seems to suffer from delays often though, so my departure was moved by half an hour. No big deal, just slightly annoying. First time I was allowed to keep my 500mL bottle of water that I completely forgot about. Getting the staff at the Hanoi airport to not scan my film was a bit of a pain though, but I managed. "Hand check" consisted of putting the film next to the metal detector. Wish all security looked like that, wasting less of travelers' time.
+
+After landing quite late, I went to the Grab pickup point. There were many motorbike drivers waiting, and they all asked me where I'm going. Out of curiosity, I talked with one; going to District 1, 150k. Uh.
+
+The app got me a ride for 44k.
 
 ## Independence Palace
 
-// very interesting actually
+The first place I have visited, that wasn't too far from my (shit) hotel. You'd see it on magnets, postcards. No wonder - it's a beautiful building, although in some ways looking quite brutalist, not too far from Eastern European style, despite being built with heavy American influence.
+
+This is the place where the leadership of South Vietnam and Americans have stayed in. Dropping two bombs on it at the end of Vietnam War was the last straw, and the president of South Vietnam has evacuated at once.
+
+You can see the lavish rooms where foreign ambassadors would have been invited to; quarters, and the bunker, with the war room and a whole lot of equipment. I do like how communists haven't actually destroyed the whole thing and preserved it. A little treat for an architecture nerd. There's also an old French building that has survived the revolution, for a comparison of the colonial French style versus American colonial.
+
+Generally worth seeing.
+
+## War museum
+
+
+
+// harrowing
 
 ## Museum of Art
 
 // mention the kids bothering me with questions
+
+## Daytrip to Mekong Delta
+
+SHIT DO NOT WASTE MONEY
+
+## Getting out
+
+// insane queue to passport control, grab bike - cheapest - leaves you a bit far from the intl departures
