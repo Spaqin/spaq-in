@@ -374,6 +374,8 @@ _Don't get your souvenirs in Hanoi, Saigon will be cheaper!_
 
 From a Saigon native met in Ninh Binh. Not true.
 
+![Saigon](../images/2024vietnam/saigon/saigon.jpg)
+
 ## Getting there
 
 There were two options I considered: the train, and the plane. The train takes 36 hours, is more expensive than the plane, but it seemed like great fun.
