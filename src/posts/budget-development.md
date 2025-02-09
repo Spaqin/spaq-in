@@ -94,7 +94,11 @@ Not too far from the jug you can probably find some **funnels**. Super cheap. Ag
 
 To store your chemicals, don't buy into the bullshit about harmonica bottles, the ones that fold. Yeah, better to not have air in your bottle, keep your chemicals fresh. So, here's a hack, in that same supermarket go to the drinks section. Grab a 1.25 or 1.5L **PET bottle** of your favorite carbonated (or not) beverage. I liked to get different bottle designs so they would be harder to mix up in the hectic development process. Then you can enjoy the drink and have something practical out of it.
 
-For hanging film I use binder clips and a hanger. Can't go simpler than that.
+For hanging film I use binder clips and a clothes hanger. Clothespins also work. Can't go simpler than that.
+
+You may be tempted to get a film extractor or a canister opener. Well, if you don't care about keeping them, 135 cassettes can be opened easily in the dark with bare fingers shoved into the light trap. Yeah it requires a bit of force. If you still want to extract the leader, you can use the wet film method, detailed tutorials for which you can find online.
+
+Similarly, in a pinch, you can get away without scissors - by loading the film with leader included, and by pulling out the film from the internal spool with a bit of force. But I'd recommend using them anyway. Just check out the stationery section of the supermarket while you're there if you don't have them yet.
 
 Thermometer you may not find in the store for that cheap - I used a 1 USD thermometer from Aliexpress that had a digital screen and a probe on a cable. It really works. 
 
