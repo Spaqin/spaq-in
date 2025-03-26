@@ -115,6 +115,28 @@ But you know, for a company loving their legacy, the lack of understanding what 
 
 Has to be fixed with a third party option. Again. Get the Chinese option. Mine was 35 CNY. I wish I got something grippier than wood but it's not too bad.
 
+# Prehistoric focus stacking
+
+I cannot believe it, but film-simulation-oriented, completely unserious Fujifilm has focus stacking implemented so much better. Let's see how it goes on Fuji:
+
+1. Get into focus stacking menu.
+2. Choose focus points A and B, with magnification, to cover your entire subject.
+3. Camera will automatically calculate the DoF coverage and how many photos it needs from A to B. And takes them. You can use a remote shutter, even, to minimize shaking.
+
+Easy. Sensible. How is it on the Zf?
+
+1. In normal shooting mode, enable AF, single shot only (no self timer).
+2. Find the spot closest to camera. Oh remember it's AF, no MF allowed, so don't refocus by accident after reaching your point.
+3. Get into focus stacking menu.
+4. Choose focus step (how much the camera changes the focus), and picture count.
+5. Start shooting immediately after pressing start in the menu, without any preview.
+
+So... what? No preview, and you have no idea where the focus will end. And you're touching the camera in the process and possibly could bring some shake. Wow, great for macro. Not even real macro, but closeups. Will the chosen focus step be enough? You'll find out after you edit. Focus step is just a number, it doesn't tell you a single thing about how far it will change, aperture be damned.
+
+# No magnification with DoF preview
+
+And if you wanted by any chance to verify how deep the DoF is with a smaller aperture, to ensure all the little details are covered especially for macro, you just cannot. Magnify, and press DoF preview? You get kicked out. DoF preview and magnify? DoF preview turns off. So I guess you have to take the picture first and then chimp. Just why? Scratching my head.
+
 # And you know what?
 
 Most of these things could be fixed with software. But they won't. That's not in vogue. That won't make money. Open sourcing, so at least someone could fix it for you? Nah that's for losers and would hit the bottom line. Only says that in hardware all cameras are the same and the secret sauce is in buggy ass software with retarded design decisions. Oh sorry, at least Canon is special for forcing you to buy their overpriced red ring lenses that don't even cover full frame.
