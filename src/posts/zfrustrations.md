@@ -53,7 +53,7 @@ So these days I use the Zf with 105/2.8 for film scanning. And it's a simple thi
 
 So every time I scan I take 10 seconds to switch to base ISO and to RAW. I may forget about the RAW thing actually and then I get annoyed I get two images in CaptureOne while tethering, before I go into the menus again. And then I forget to switch back from RAW to RAW+JPEG for normal shooting so I get annoyed again.
 
-# Absolutely retarded ISO dial
+# (Almost) Absolutely retarded ISO dial
 
 ![retarded iso dial](../images/zfrustrations/iso.jpg)
 
@@ -72,6 +72,16 @@ Nope, Nikon knows better than you - your chosen value is the MINIMUM. You set it
 And there is no way to change that behavior. Read online that "it's consistent with other Nikons-" well I DON'T CARE. It just DOES NOT MAKE SENSE at all. Have they never used a camera before?
 
 So that dial is permanently on C for me. It's more effort to use the dial than it is to change the ISO with command wheels. How convenient. Waste of fucking space that could be used idk for custom profile wheel.
+
+## Firmware 2.00 addendum
+
+Finally _some_ improvement has been made, even though it's unclear as always in the menus. You can now have C set to auto, and the numerical values to set ISO. Here's what you have to do:
+
+In C ISO mode, go into the photo settings, and ISO - enable Auto with your preferred settings.
+
+Then switch the ISO dial into a numerical value, and go into the same menu, and disable Auto. It's not documented anywhere, but it will only apply to the numerical values, leaving C in auto. Finally.
+
+Funny thing - you can set the maximum ISO to 200 (or some other value) on the numerical scale. If the ISO dial is set to 100-160, then it will go up to 200 (you choose the minimum ISO as before), but over that, it will stick to the dialed in value. Seems like there could be a niche use for that, but I wouldn't count on it.
 
 # No cabled shutter release options
 
