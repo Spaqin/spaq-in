@@ -16,9 +16,11 @@ I'm a sucker for free cameras. Obviously. But I'm also a bit of a contrarian hip
 
 But when I got the 30 in my hands... with the additional grip, that is, but without a lens - well, I was intrigued. Figured the legend must have come from something, and despite not being a flagship, it felt good. I mean, free camera in great state, with the remote to boot. Worst case, I'll flip it, make an easy profit, right? The rubbers are a bit sticky, but a quick clean with isopropyl alcohol alleviated that.
 
-One problem though - I suppose from the age, the door latch has broke off. I could not close the door anymore. Getting a legit part seemed impossible, but it's a common enough issue that some smart guy designed a 3d printable version. My good coworker has printed few for me, and in an hour I replaced it. So if I'm selling it, I can say it's been repaired recently too, right? That's a good point.
+One problem though - I suppose from the age, the door latch has broke off. I could not close the door anymore. Getting a legit part seemed impossible, but it's a common enough issue that some smart guy designed a 3d printable version. My good coworker has printed few for me, and in an hour I replaced it.
 
-I ventured online, and found a 50mm f1.8 USM II for 250HKD, in box with papers. Not a huge investment in the slightest, surely I could flip the lens itself for more than I bought it for.
+I also have few of these spare door latches for sale if you're interested in fixing your camera. Contact me for details.
+
+I ventured online, and found a 50mm f1.8 USM II for 250HKD, in box with papers. Not a huge investment in the slightest, surely I could flip the lens itself for more than I bought it for. (I ended up breaking it and selling the dead remains for 50, before getting the superior STM version)
 
 The reality was dawning on me. If you could see the horror on my face, when I had the realization that if I don't control myself, I may actually become a Canon shooter. Step by step, I was getting closer...
 
@@ -120,6 +122,8 @@ I just don't like how it wastes frames at the beginning of the roll, insisting o
 I'll be keeping it. And I will become what I hate.
 
 A Canon shooter.
+
+_2025 edit:_ I sold the 70-300, 19-35 and the 50 1.8. I have no lenses anymore for the camera, it's waiting for the next owner. It's a good one, but I just found I'm not using it that much after getting the Hexar RF.
 
 ![Fish Emade Tworzywo](../images/eos30/fishemade_provia100.jpg)
 _It's gonna be looking deep into your soul... and judging you for the brand of camera you use. 50mm f1.8 USM II, Provia 100F_
