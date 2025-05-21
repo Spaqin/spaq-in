@@ -123,7 +123,7 @@ I'll be keeping it. And I will become what I hate.
 
 A Canon shooter.
 
-_2025 edit:_ I sold the 70-300, 19-35 and the 50 1.8. I have no lenses anymore for the camera, it's waiting for the next owner. It's a good one, but I just found I'm not using it that much after getting the Hexar RF.
+_2025 edit:_ I sold the 70-300, 19-35 and the 50 1.8, and finally at last, the camera itself. It's a good one, but I just found I'm not using it that much after getting the Hexar RF. I still have replacement door latches if anyone needs.
 
 ![Fish Emade Tworzywo](../images/eos30/fishemade_provia100.jpg)
 _It's gonna be looking deep into your soul... and judging you for the brand of camera you use. 50mm f1.8 USM II, Provia 100F_

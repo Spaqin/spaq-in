@@ -110,6 +110,8 @@ Same with Start 66, actually. The Cooke triplet does its job, albeit it does app
 
 Everyone should have a TLR. Olympusflexes are generally rare and so I also get some flexing rights. If you find a decent deal on one, don't think too much. It's not a Rollei or Yashica, but it stays under the radar and you may get a better camera for the price.
 
+On the other hand, later I got an Autocord as a potential replacement, to sell either of them. While it was a solid camera, well thought out, it wasn't as fun, so the Olympusflex stayed with me. Considering that's Rolleicord or even -flex level, it still wasn't that much of an improvement to replace it.
+
 I'd still love to get a Fujicaflex (it's just beautiful), and out of sheer curiosity, a Seagull 4A/B. The fun thing about the Seagulls is that you can find a lens upgrade kit - for 600 CNY you may get a Planar lens instead of a Cooke triplet.
 
 On the three point scale, I would give it a solid "Very good for its purpose". Not exceptional and there's barely any reason to choose the Olyflex over another TLR, except for its rarity and 2.8 bragging rights. It would be unlikely that I will get rid of it though; like I said, everyone needs a TLR.

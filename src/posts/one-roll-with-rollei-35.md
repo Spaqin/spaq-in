@@ -90,3 +90,5 @@ However, considering the size of the camera, and simplicity of the Tessar lens, 
 Certainly it was revolutionary for the time. These days I like it, but I wouldn't necessarily choose it over something more modern. However, it still has that charm, as a product of its time. Small prosumer travel cameras of the 90s came with wider lenses, and only recently it seems the 40mm is coming back - whether as Ricoh GR3X or the kit lens for Nikon Zf. And it does suit me better than 28mm.
 
 Despite its quirks and not working light meter, I would rate it as "Excellent beyond original intended purpose".
+
+_2025 edit:_ I change my mind. It's not that great. I know the image quality is good but I just can't cope with zone focusing everywhere. 1/30 and 1/60 speeds started behaving as 1s+ (rest was fine) and after disassembly I couldn't put it back together. Even before that I had to force myself to use it. Just doesn't make that much sense in modern world in my view.

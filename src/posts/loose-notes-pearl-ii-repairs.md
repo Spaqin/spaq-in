@@ -10,6 +10,8 @@ Rangefinder was not accurate, neither was the shutter. Bellows also required rep
 
 The one I got is a bit special - it has both the red window, and the film winding mechanism from Pearl III.
 
+_edit:_ don't read this garbage, see [this amazing repair guide instead](https://docs.google.com/document/d/1kag2NHxcP0Ke2lymI273vwquD89MvXdMerEnfT2ma6A/edit?tab=t.0).
+
 # Shutter
 
 Shutter/aperture is completely contained within the lens group. That's simple, but opening it up requires some real tight lens wrenches. You can just unscrew the front element with your hands and get to the shutter blades from there. Rear requires a lens wrench, but it's not completely inaccessible. Healthy dose of lighter fluid got it going. Yeah I know it's not good.
