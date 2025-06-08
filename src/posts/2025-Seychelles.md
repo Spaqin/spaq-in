@@ -508,7 +508,7 @@ But from the waterfall, you are on your own in coming back. You can either hike 
 
 The next morning the destination was clear - Anse Lazio. Not too far, at least on the map and generally good reviews.
 
-The bus takes you to a point where it can turn around, and about 15 minutes away from it, uphill at first. The atmosphere on the way feels much different than the beaches on Mahe, more... commercialized. There's paid parking, a small kiosk selling water for 50 SCR, and some fancy restaurants and resorts. On the beach itself, you can rent a beach bed for 350 SCR... or set up a blanket for free.
+The bus takes you to a point where it can turn around, and about 15 minutes away from it, uphill at first. The atmosphere on the way feels much different than the beaches on Mahé, more... commercialized. There's paid parking, a small kiosk selling water for 50 SCR, and some fancy restaurants and resorts. On the beach itself, you can rent a beach bed for 350 SCR... or set up a blanket for free.
 
 On the other hand, it is a good beach. Early in the morning there's no one and you can enjoy the soft sands and calm waves. It is quite peaceful; quite large as well, and there are some cool rocks to climb. Sit down and relax.
 
@@ -518,17 +518,17 @@ The hike isn't that demanding, but may be technically challenging at times. You'
 
 ### Buses
 
-Let me interject for a moment. The buses in Seychelles are _special_. Not in a unique way, these are Tata Starbuses mostly, so I assume they're also found in India, but they fulfill a specific purpose because of the nature of the islands.
+Let me interject for a moment. The buses in Seychelles are _special_. Not in a unique way, these are older Tata Starbuses mostly, so I assume they're also found in India, but they fulfill a specific purpose because of the nature of the islands.
 
 See, the roads are narrow and winding, a normal bus would be out of the question. In Hong Kong, for these cases you have minibuses like Toyota Coaster, but they cannot accomodate standing passengers. So the small Tatas it is.
 
 From outside they look well used, but still on the road without too many issues. Passing by one of them forces you to hold your nose, those old diesels can leave a big cloud of smoke.
 
-The interior of these is quite amazing. The driver sits on top of the engine, with a massive gear lever sticking out, reminding me of buses of the 70s like Ikarus 260 in some ways (I know the engine is in the back in these, but it resurfaced some childhood memories). The handles and seats however look like taken from 90s, chairs made of plastic to be vandal-proof. But the retrofits don't end there - the driver has a modern screen notifying of the route and a receipt/ticket dispenser, and next to him there's a bus card reader with a modern screen, and a camera for reading QR codes.
+The interior of these is quite amazing. The driver sits on top of the engine, with a massive gear lever sticking out, reminding me of buses of the 70s like Ikarus 260 in some ways (I know the engine is in the back in these, but it resurfaced some childhood memories). The handles and seats however look like taken from 90s, chairs made of plastic to be vandal-proof. But the modern touches don't end there - the driver has a modern screen notifying of the route and a receipt/ticket dispenser, and next to him there's a bus card reader with a modern screen, and a camera for reading QR codes.
 
 The seats are crowded and there's only a single narrow row to get to the seats in 2+2 configuration, explaining why you cannot take big luggage with you. There is just no space for it without blocking the way.
 
-They're loud, there's no AC, and that screen with stops is only for the driver. You're supposed to know where your stop is, and notify the driver with an even louder bell connected to a button nearby when you want to get off. It's the ideas of western pubtrans, but low tech and nonchalant, fitting the lazy island life. I dig it.
+They're loud, there's no AC, and that screen with stops is only for the driver. You're supposed to know where your stop is, and notify the driver with an even louder bell connected to a button nearby when you want to get off. It's the ideas of western public transport, but low tech and nonchalant, fitting the lazy island life. I dig it.
 
 So how do you make use of these beautiful history museums on wheels? Two apps are absolutely necessary. First one is an Open Street Map client like [OSMAnd](https://play.google.com/store/apps/details?id=net.osmand&hl=en) and [SPTC](https://play.google.com/store/apps/details?id=sg.emsystem.eM_USR_Android_SPTC&hl=en), the official app of the public transport company.
 
@@ -548,17 +548,17 @@ Anse Georgette is the other amazing beach on Praslin that people go to. It's far
 
 They're also located on the local airport approach and for DJI drones it's not possible to fly around, so I have no aerial footage. The beach is clean, the waves are quite strong, just like in Lazio, and while it's not much to see underwater, it is a nice beach to spend an afternoon at.
 
-### Diving near Curiouse Island and St Pierre Island
+### Diving near Curieuse Island and St. Pierre Island
 
-Being in a beautiful destination with clear water, I had to make use of my open water license I got last year and go scuba diving, even if just to rememember how to use the equipment and practice my buyoancy. On Mahe I couldn't go diving really as I was driving and I didn't want to leave my companion without a way to move around; but also I had to do it more than 24 hours before the flight back due to decompression sickness risk. I contacted two diving shops through WhatsApp near the hotel to ask for a quote. One didn't respond, obviously didn't want my money; the other was [Whitetip Divers](https://g.co/kgs/MPYupWo). I got quoted 135 EUR for two dives in the morning. Diving sites would be chosen in the morning, depending on the conditions and experience level of the participants.
+Being in a beautiful destination with clear water, I had to make use of my open water license I got last year and go scuba diving, even if just to remember how to use the equipment and practice my buoyancy. On Mahé I couldn't go diving really as I was driving and I didn't want to leave my companion without a way to move around; but also I had to do it more than 24 hours before the flight back due to decompression sickness risk. I contacted two diving shops through WhatsApp near the hotel to ask for a quote. One didn't respond, obviously didn't want my money; the other was [Whitetip Divers](https://g.co/kgs/MPYupWo). I got quoted 135 EUR for two dives in the morning. Diving sites would be chosen before the dive itself, depending on the conditions and experience level of the participants.
 
-I showed up at 9 in the morning as discussed and after filling the paperwork the dive master has decided - a coral garden near Curieuse, and then St Pierre island. Funnily enough we were considering a boat trip to these two places earlier, so we checked out two things in one go. We assigned the buddies, got the gear, climbed onto the small dive boat and headed not too far from the main island. It was my first time rolling into the water, and so we went down.
+I showed up at 9 in the morning as discussed and after filling the paperwork the divemaster has decided - a coral garden near Curieuse, and then St. Pierre Island. Funnily enough we were considering a boat trip to these two places earlier, so we checked out two things in one go. We assigned the buddies, got the gear, climbed onto the small dive boat and headed not too far from the main island. It was my first time rolling into the water, and so we went down.
 
 Took me a while to calm down and get the hang of underwater orientation. I attached the Insta360 ONE RS in a diving case to my BCD, so in addition to remembering the basics, I had to figure out the camera operations. No problem and soon I would enjoy the underwater world, while following the more experienced divers.
 
 How can I start this in any other way than "Philippines were better"? Nah of course it's still enjoyable, there's some coral here and there, but the first dive was rather uneventful, with the highlight being surrounded by yellow snappers. That's not a bad thing, the conditions were good and provided an easy reintroduction to diving for me.
 
-Near the tiny St Pierre Island though it was more interesting. A manta swam by, a sea turtle came around to say hi, and the dive guide showed us where the white tip sharks sleep. I also felt far more comfortable diving this time and enjoyed my time. I was quite nervous before, knowing the dangers of this activity and revising the hand signals even to make sure everything goes smoothly, but the previous training clicked back quickly. The ClearVu mask I got for this trip was also an excellent choice. I want to go diving again soon~ and I should get the Nikonos at some point...
+Near the tiny St. Pierre Island though it was more interesting. A manta swam by, a sea turtle came around to say hi, and the dive guide showed us where the white-tip reef sharks sleep. I also felt far more comfortable diving this time and enjoyed my time. I was quite nervous before, knowing the dangers of this activity and revising the hand signals even to make sure everything goes smoothly, but the previous training clicked back quickly. The ClearVu mask I got for this trip was also an excellent choice. I want to go diving again soon~ and I should get the Nikonos at some point...
 
 ### Cote d'Or
 
@@ -598,7 +598,7 @@ To get there from Praslin, you have two choices of ferry companies, Cat Coco and
 
 Just remember, there is no 7am ferry on the weekends, if you see a schedule with that, it's outdated. And that's the option we went with, to come before the crowds.
 
-The last ferry back is before sunset unfortunately, after 17. 
+The last ferry back is at 17:00, which is before sunset. This means you won't be able to enjoy the sunset on the island unless you stay overnight.
 
 Getting up in the morning is a challenge, and another challenge came with the fact that one of the buses advertised in the app didn't show up; a single anomaly. It would've left at 6:30 from Cote d'Or, but the first one would leave actually at 6:50. That's cutting it real close, and while the bus driver was sure we would make it, we were not. Thankfully one of the locals overheard us and took us by car before the bus started. We made it easily thanks to them. They really are nice people.
 
@@ -618,7 +618,7 @@ First destination of course is the most famous and supposedly most beautiful bea
 
 Once you arrive close enough to the beaches, you're supposed to leave your bicycle at the parking lot. There are some amenities near the point of interest, and by that I mean some souvenir shops. They're really trying to milk the place. But like I said earlier, the beach itself is untouched. Pristine. And there are few great spots nearby, just not as well known; so much so that I wasn't sure which one was supposed to be The One without crowds to guide us. We saw an employee preparing a wedding ceremony in one corner; it's a stunning place for such an event I'm almost jealous.
 
-The water is crystal clear. Half transparent fishes are swimming around, and the waves are very small, the water is calm. Far in the background you can see the rougher sea that somehow stops few hundred meters from the shore, as if protected by a force field. In the background you can see Praslin, and a silhouette of Mahe. Massive boulders on your sides and behind you give that grandoise feeling that really makes it feel like a slice of paradise.
+The water is crystal clear. Transparent fishes are swimming around, and the water is calm with very gentle waves. Far in the background you can see the rougher sea that somehow stops few hundred meters from the shore, as if the beach is protected by a force field. In the background you can see Praslin, and a silhouette of Mahé. Massive boulders on your sides and behind you give that grandiose feeling that really makes it feel like a slice of paradise.
 
 Maybe you already have beach fatigue and don't appreciate it as much yet, but the title is deserved.
 
@@ -650,7 +650,7 @@ Back in Victoria, we found a taxi driver that would take us to the airport later
 
 A nap nearby, a drone flight, a visit to the bookstore near the Hindi temple... time passed by quickly and sooner or later we had to head to the airport.
 
-It's a tiny airport and there's not much of a queue for emmigration and security. They're equipped with an X-ray scanner, not the fancy CT stuff, but I still didn't want to get my Velvia 100F to get exposed. Can I get a handcheck, please?
+It's a tiny airport and there's not much of a queue for emigration and security. They're equipped with an X-ray scanner, not the fancy CT stuff, but I still didn't want to get my Velvia 100F to get exposed. Can I get a handcheck, please?
 
 _Nah man, it's gonna be fiiiine._
 
