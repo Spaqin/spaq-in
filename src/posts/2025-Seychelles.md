@@ -8,6 +8,47 @@ Ever heard a music album that transported you somewhere else, from the first not
 
 Seychelles are a somewhat popular destination for European honeymooners; mildly popular with Americans (they have Hawaii, don't need to travel half the world), and it's almost unknown around Asia. From afar they're known for their stunning sandy beaches, containing few considered top in the world, such as Anse Source d'Argent. It's also known for being an expensive holiday destination, which is kind of true, but more on that later. 
 
+- [What did I bring?](#what-did-i-bring)
+  - [What I should've brought?](#what-i-shouldve-brought)
+- [Tips before the trip](#tips-before-the-trip)
+  - [Entry requirements](#entry-requirements)
+  - [SIM card](#sim-card)
+  - [Insurance, hotels](#insurance-hotels)
+  - [Any extra information](#any-extra-information)
+- [Let the journey begin](#let-the-journey-begin)
+  - [Mahé](#mahé)
+    - [What's free and what's not?](#whats-free-and-whats-not)
+    - [Copolia Trail](#copolia-trail)
+    - [Anse Grande Trail](#anse-grande-trail)
+    - [Weather?!](#weather)
+    - [Morne Blanc Trail](#morne-blanc-trail)
+    - [First attempt at Sauzier Waterfall](#first-attempt-at-sauzier-waterfall)
+    - [Petite Anse & Anse Soleil](#petite-anse--anse-soleil)
+    - [What to eat?](#what-to-eat)
+    - [Beau Vallon and Top Soleil](#beau-vallon-and-top-soleil)
+    - [Anse Capucins Trail](#anse-capucins-trail)
+    - [Do you need cash?](#do-you-need-cash)
+    - [Mangrove Walk and Sauzier Waterfall](#mangrove-walk-and-sauzier-waterfall)
+    - [Victoria](#victoria)
+    - [Anse Royale](#anse-royale)
+    - [Fifa Beach Soccer Cup](#fifa-beach-soccer-cup)
+    - [Random beach in the north](#random-beach-in-the-north)
+  - [Praslin](#praslin)
+    - [Cat Coco Ferry and landing in Praslin](#cat-coco-ferry-and-landing-in-praslin)
+    - [Vallée de Mai](#vallée-de-mai)
+    - [Anse Lazio](#anse-lazio)
+    - [Buses](#buses)
+    - [Anse Georgette](#anse-georgette)
+    - [Diving near Curieuse Island and St. Pierre Island](#diving-near-curieuse-island-and-st-pierre-island)
+    - [Cote d'Or](#cote-dor)
+    - [Anse Takamaka](#anse-takamaka)
+  - [La Digue](#la-digue)
+    - [Getting around and renting a bicycle](#getting-around-and-renting-a-bicycle)
+    - [Anse Source d'Argent](#anse-source-dargent)
+    - [Three Beaches with Anse Cocos](#three-beaches-with-anse-cocos)
+  - [Coming back](#coming-back)
+- [Tropic Birds](#tropic-birds)
+
 Let's focus on the fun part first.
 
 # What did I bring?
@@ -624,11 +665,11 @@ Maybe you already have beach fatigue and don't appreciate it as much yet, but th
 
 At least at 8 in the morning. Around 10 it gets flooded with tourists, mostly Russians, and the magic is gone. My advice is to go early and enjoy the peace while you can.
 
-### Three Beaches with Anse Coco
+### Three Beaches with Anse Cocos
 
 In one day with a bike you don't have much other choice. It's not a long way to get to three beaches, albeit a hilly one, so I hope the gears in your bike work properly and the chain doesn't fall or break. You start at Grand Anse, where you leave your bike by a palm tree. The beach is quite rowdy, the seas rough with big waves and little to no shadow. It's also the most accessible, that's the best I can say. There's a restaurant nearby if you're hungry, but otherwise just start walking to the left, into the forest, hike for 10 minutes and reach Petite Anse. 
 
-There's again no shadow to shield you from the sun, so my recommendation is to just keep walking. The hike is a bit longer this time, but not challenging either. Once you arrive though you will see the best beach of the three. Starting from the sand, there's some shade here and there; some dried dead trees which you can exploit for some cool portrait photos; the sea is still rough with big waves, but more manageable than in the other beach. The sea is said to have 7 shades of blue that you can see and while it's a bit of an exaggeration, it is certainly the most interesting. At the far end there's also a little spot covered by rocks from all sides where you can swim peacefully, shielded from the waves... definitely one of the better spots. At least, it felt better than even Source d'Argent in some ways
+There's again no shadow to shield you from the sun, so my recommendation is to just keep walking towads Anse Cocos. The hike is a bit longer this time, but not challenging either. Once you arrive though you will see the best beach of the three. Starting from the sand, there's some shade here and there; some dried dead trees which you can exploit for some cool portrait photos; the sea is still rough with big waves, but more manageable than in the other beach. The sea is said to have 7 shades of blue that you can see and while it's a bit of an exaggeration, it is certainly the most interesting. At the far end there's also a little spot covered by rocks from all sides where you can swim peacefully, shielded from the waves... definitely one of the better spots. At least, it felt better than even Source d'Argent in some ways
 
 Rest up before you realize you need to go back...
 
@@ -668,7 +709,7 @@ It's a tiny airport with not much to do, so don't waste your time by coming earl
 
 Goodbye, Seychelles.
 
-## Tropic Birds
+# Tropic Birds
 
 That's the last song of the album, and one of my favorites. It's how the whole trip went, a chill beginning that picks up pace, with an amazing saxophone solo, and ending maaybe a little too quick, abruptly, with another chill chorus. Maybe a bit too short, but also not long enough to overstay its welcome.
 
