@@ -57,6 +57,25 @@ const BlogPost = props => {
         />
       </div>
       <div>
+        <hr>
+        Have you enjoyed the post or found it useful? Consider <a href="https://ko-fi.com/spaqin">throwing some coins over with Ko-Fi</a>.
+
+        If you like a photo from here enough that you'd like to have a print, feel free to contact me by <a href="mailto:3garfield@gmail.com">email</a>.
+
+        This page will never have ads, sponsors or any other annoyances; I believe in the Old Internet Spirit.
+        <hr>
+        <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+        <script>
+          kofiWidgetOverlay.draw('spaqin', {{
+            'type': 'floating-chat',
+            'floating-chat.donateButton.text': 'Support me',
+            'floating-chat.donateButton.background-color': '#794bc4',
+            'floating-chat.donateButton.text-color': '#fff'
+        }});
+      </script>
+      </div>
+
+      <div>
         <Disqus config={disqusConfig} />
       </div>
     </Layout>
