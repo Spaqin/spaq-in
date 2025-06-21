@@ -2,6 +2,7 @@ import React from "react"
 import { GatsbyImage } from "gatsby-plugin-image";
 import { graphql } from "gatsby"
 import { Disqus } from 'gatsby-plugin-disqus';
+import { Donate } from 'react-kofi-overlay'
 
 import Layout from "../components/layout"
 import * as postStyles from "./blogPost.module.scss"
@@ -57,22 +58,27 @@ const BlogPost = props => {
         />
       </div>
       <div>
-        <hr>
-        Have you enjoyed the post or found it useful? Consider <a href="https://ko-fi.com/spaqin">throwing some coins over with Ko-Fi</a>.
+        <hr/>
+        <p>
+        Have you enjoyed the post or found it useful? Consider throwing some currency using the button below or directly through <a href="https://ko-fi.com/spaqin">Ko-fi</a>.
+       </p> <p>
+        If you like a photo from here enough that you'd like to have a print of, feel free to contact me by <a href="mailto:3garfield@gmail.com">email</a>.
+        </p><p>
+        This page will never have ads, sponsors or any other annoyances; I believe in the Old Internet Spirit. It does mean though that it's all shot and written in my spare time which is limited at times.
+        </p>
 
-        If you like a photo from here enough that you'd like to have a print, feel free to contact me by <a href="mailto:3garfield@gmail.com">email</a>.
-
-        This page will never have ads, sponsors or any other annoyances; I believe in the Old Internet Spirit.
-        <hr>
-        <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-        <script>
-          kofiWidgetOverlay.draw('spaqin', {{
-            'type': 'floating-chat',
-            'floating-chat.donateButton.text': 'Support me',
-            'floating-chat.donateButton.background-color': '#794bc4',
-            'floating-chat.donateButton.text-color': '#fff'
-        }});
-      </script>
+      <Donate
+        username="spaqin"
+        classNames={{
+          donateBtn: 'myDonateButton',
+          profileLink: 'myProfileLink'
+        }}
+        styles={{
+          panel: { marginRight: '4em' }
+        }}
+      >
+        📷 Help Me Out ❤️
+      </Donate>
       </div>
 
       <div>
