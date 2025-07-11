@@ -1,7 +1,7 @@
 ---
-title: "Work title: OH TANGO SUERTE"
-date: "2025-05-xx"
-featured: "../images/seychelles/title.jpg"
+title: "Travelling to... Seychelles? Oh! Tango Suerte"
+date: "2025-07-11"
+featured: "../images/2025-Seychelles/ladigue/dargent-morning2.jpg"
 ---
 
 Ever heard a music album that transported you somewhere else, from the first note? That's not that rare. How about made you want to book a ticket somewhere else? I'd say two albums did it for me. Fishmans' music would mentally transport me to 90s Japan, but I cannot book a ticket to then. The second is Masayoshi Takanaka's **Seychelles**. From the first crisp guitar riff, I wanted to be teleported onto the beautiful beaches.
@@ -69,6 +69,8 @@ The workhorse. The 24-120 is awesome, the wide angle should compliment it in rar
 * Topcor 210mm f5.6
 * Nikkor-SW 75mm f4.5
 * 67mm CPL and ND1000
+
+![My large format setup for the trip](../images/2025-Seychelles/mahe/large-format.jpg)
 
 Yeah I went with large format. I had this idea of shooting beaches in panorama on Velvia 100F. Since I was already planning to rent a car and could bring big luggage, it seemed feasible.
 
@@ -173,6 +175,8 @@ After a long journey with stomach problems, in a rattling 787 to Ethiopia and a 
 
 Landing on the small island though quickly rejuvenated me. It was lightly raining on this tiny airport next to the sea, but the sky just a bit away was sunny and clear. The staff handed the passengers umbrellas, for about 20 meters that you needed to walk to the airport building, and urging us to hurry up as we were trying to take a photo of the beautiful view.
 
+![Airport](../images/2025-seychelles/mahe/airport.jpg) 
+
 Immigration goes without a hitch. No need to pass your authorization to anyone, goes quickly, you just get a beautiful stamp in the shape of Coco de Mer. Luggage can take an hour to arrive, though.
 
 The SIM card you ordered can be picked up outside of the customs, in the main hall of the airport. Now, the heat hits you in its fullest - if you're not prepared for it, it might be tough. 
@@ -181,9 +185,14 @@ You can choose either Airtel or Cable & Wireless. They both have comparable if n
 
 ## Mahé
 
+`youtube: https://youtu.be/uvc1xog2GS0`
+
 For Mahé, I decided to go with a rental car. First, I was just missing driving (and driving on a beautiful road by the sea was VERY appealing), secondly, with the rare buses, as cheap as they were, it would be a pain to traverse. 
 
 The rental car options are just to the left of the exits. I went with *Sunshine Cars*, as they gave me a cheapest option - a Suzuki S-Presso for **38 EUR/day**. Sure you can get extra insurance, but I went without, as my travel insurance would cover some of the excess. Other options in similar price range would include a Kia Picanto or Hyundai i10, showing superiority or East Asian car industry. Autotragic, 1.2 NA, 60HP with AC running the whole time... as long as it gets me places. A slow car fast is more fun anyway, right?
+
+![Suzuki S-Presso](../images/2025-Seychelles/mahe/spresso.jpg)
+_My (for a week) blue rocket._
 
 Beautiful blue color, interior reminding me of my first car, a '97 Fiesta, but with a tablet in the middle. 8400km on the odo, basically brand new. I still took a good view at the car, making note of any scratches on the bodywork. And soon I got into the car I realized it was my first time driving on the wrong side, and there was a massive traffic jam and a complicated crossing to go through. Getting to the hotel on almost no sleep was not a fun challenge, but I made it without much issue, besides messing up the blinkers and wipers stalk few times.
 
@@ -207,11 +216,26 @@ A winding road leads you up there - it was a bit of a fun challenge. There were 
 
 The path is well marked and cuts through the jungle with a lot of variety. You can meet local birds, lizards, tenrecs and at the very top, tropical pitcher plants. The view is stunning as well - of St Anne Marine Park, Victoria and Eden Island. Since it faces east, I'm sure it would great for sunrise. Some may say it's overrated, but it's alright IMO. Alternatively you can go to _Dans Gallas_ Trail for a similar view.
 
+![View from Copolia trail](../images/2025-Seychelles/mahe/copolia-pano.jpg)
+
+![Pitcher plants](../images/2025-Seychelles/mahe/flytraps.jpg)
+_First time seeing them in the wild!_
+
+![Jungle](../images/2025-Seychelles/mahe/jungle.jpg)
+
 ### Anse Grande Trail
 
 If you thought that Copolia isn't enough exercise for you, within the same day you can go for Anse Grande Trail. The parking spots are tough to find close to the trail, so you may start hiking earlier before reaching the ticket booth. The tickets for this trail cost 100 rupees per person.
 
 It's a trail along the sea that ends in a beach; not that difficult as there's not much of ups and downs. It's also quite civilized, but decent shoes may come useful if it's a bit wet. There's a lovely cave on the way with rocks that look like faces to rest, but don't waste too much time - just jump into the sea when you reach the end, that's the best reward.
+
+![Face rock](../images/2025-Seychelles/mahe/face.jpg)
+
+![Anse Major](../images/2025-Seychelles/mahe/anse-major.jpg)
+_Moments before the rain._
+
+![Crab](../images/2025-Seychelles/mahe/crab.jpg)
+_Crabs don't mind the change in the weather though._
 
 The beach itself I'd rate as "so-so", but it's a welcome reward. If you don't feel like coming back, there are boats that come from time to time and can bring you back for 100 or 150 rupees. Consider that option if it starts to rain, cause otherwise you'll be soaking wet, trying to get back without slipping... and you will learn that while the Wandrd Prvke is quite weather resilient, it is not waterproof during a tropical storm. Which brings me to the next point...
 
@@ -231,7 +255,13 @@ Heavy rain hasn't caught us since then, thankfully. There's not much to do in th
 
 This trail starts quite close to Copolia, and this one's completely free. Just park your car at the edge of the road and get prepared for 650 meters up without much of a flat break, using nature's stairs. And before you go, look up - see if there's any clouds on the mountains, you'll probably end up there.
 
+![Jungle](../images/2025-Seychelles/mahe/jungle-2.jpg)
+_The jungle can be a bit intimidating at times._
+
 It's exhausting and I decided to carry the large format with me for the beautiful view of the west side. It is stunning, although not as wide as the top of Copolia. I wanted to take two 6x12 pictures, but only had the time for one before the clouds took over. I'd still say it's worth the effort.
+
+![Morne Blanc](../images/2025-Seychelles/612/top.jpg)
+_Absolutely stunning._
 
 ### First attempt at Sauzier Waterfall
 
@@ -250,6 +280,8 @@ _I can also take you to the waterfall afterwards-_
 Oh really? We just came back from there... oh there's a way to avoid it, you need a guide and you want 150 rupees each?
 
 I'll keep it in mind. On a second thought, snorkeling...? Feeding fish? That's it, for 50 euro? I can do it myself...
+
+![Isle Therese](../images/2025-Seychelles/mahe/therese.jpg)
 
 ### Petite Anse & Anse Soleil
 
@@ -285,19 +317,30 @@ _Have you enjoyed the beach? Was that your first time?_
 
 A security guard kindly asked on the way out. These guys are definitely paid well.
 
+![View of Petite Anse from above](../images/2025-Seychelles/mahe/fourseasons.jpg)
+_I didn't carry my camera or drone there - this was taken from the other beach. Just trust me it's great._ 
+
 ### Anse Soleil
 
 Walk back to the Four Season's entrance and go the other way. This is certainly dirtier, more local, but no big deal. It's a bit of a steep hill too. You walk through a restaurant, if you'd like to stop for a bite or a drink. This beach is smaller and doesn't give that much of a total paradise feel, but it's still nice. I decided to bring the drone and large format with me, fly around, and see the sunset.
 
 Should I say it's skippable, in comparison? Yes, for certain. It's more approachable though.
 
+![Coconuts at Anse Soleil](../images/2025-Seychelles/612/coconuts.jpg)
+
 And so I got down to taking pictures, setting it up in the sand. It was the first time and I already got annoyed.
 
 I realized I have something in common with young Anakin Skywalker.
 
+![Sunset at Anse Soleil](../images/2025-Seychelles/612/soleil.jpg)
+
 I hate sand. It's rough and coarse, and it gets everywhere. I blow it off the lenses and it ends up on the backpack, in the backpack, on other items.
 
 But the sunset was nice. I should've gotten ND1000 for 77mm as well, but I managed to get some floaty sunset pics by holding the 67mm in front and zooming in a little bit.
+
+![Directly into the sun](../images/2025-Seychelles/mahe/sunset.jpg)
+
+![Nearby island](../images/2025-Seychelles/mahe/sunsetrock.jpg)
 
 ### What to eat?
 
@@ -321,7 +364,11 @@ _\*waves a finger to go around some buildings\*_
 
 Fair enough. There were some people partying, but I didn't see the bar or grill. There was some infrastructure on the side, and it could be interesting... I decided to grab the large format. The guy is now painting an oven outside, with a spray gun connected to a compressor. Not wanting to get sprayed, I wait until he's done. I nod, he nods back. On the way back, with the camera and tripod in hands, we nod to each other again. Beautiful inter-cultural moment without a language.
 
+![Top Soleil beach](../images/2025-Seychelles/612/topsoleil.jpg)
+
 We stayed there until it got dark, and stars (and mosquitoes) came out. How many stars you see is a reminder that you're on an island that's not well developed, and a three and a half hour flight away from the continent, which isn't developed either. It's a great place for astrophotography... or for normal people, to remember that we're just a speck of dust in the whole universe.
+
+![Astro attempt](../images/2025-Seychelles/mahe/stars.jpg)
 
 ### Anse Capucins Trail
 
@@ -334,6 +381,8 @@ Not too far from that we see a lanky, old white man. That wouldn't be particular
 The path is not well marked and it seems like no one really goes there all that often. But the beach at the end is supposed to be beautiful, so we continue onwards, avoiding massive spiders (remember they're not venomous!) and getting scratched by the flora. We reach the first beach on the way, Anse Petite Marie-Louise. There's a low hanging coconut palm; while I'm not really into it, I receive pressure to try to get the coconuts down.
 
 Let me just tell you, coconuts don't easily fall down from the tree. You can try to poke them, shake the leaves nearby, but they won't budge at all. You just gotta pick up one yourself, or cut it off the tree, if you can climb it, if you really want a coconut.
+
+![View from the beach](../images/2025-Seychelles/mahe/capuscin.jpg)
 
 The beach isn't very special, it's quite rocky. You can get on one of the rocks and see a bit more of the eastern side of the island. The nice part is that there was not a single soul besides us. The weather was a bit dark and seemed it could rain any minute, but it hasn't. The currents seemed quite strong with some waves, but despite that, in distance I could see a single person snorkeling, quite far from the shore, closer to the next beach.
 
@@ -350,6 +399,8 @@ We enjoyed some coconuts together. The meaty ones taste well with a toffee candy
 There's a trail that goes on top of the nearby mountain; they assumed we were headed there and said we shouldn't really attempt it at this time of the day - it takes a long time and it's very poorly marked, you can get lost easily. Instead we can just go back a little bit and enjoy the sea, some shallow water to sit in, a hammock, a place to rest up. The weather is getting better and we're fine with not reaching the next beach. From the drone it doesn't look much different anyway. Sure, let's go.
 
 I couldn't see the person snorkeling in the sea anymore. Hope they're fine.
+
+![Rocks at the beach](../images/2025-Seychelles/mahe/capuscinsabove.jpg)
 
 We received some recommendations for places to visit - although most of the biggest hits we've already seen, or been planning. The Sri Lankan showed us the cinnamon trees - turns out they're everywhere, mostly due to the French occupation - and the leaves and bark smell amazing. We were given some very sour fruit, and learned that the orange coconut is the king coconut, probably the best.
 
@@ -393,6 +444,9 @@ _It's about five meters deep._
 
 He lays down some rules - you can swim in it, or jump into it even; but it's quite small, so only one person at a time. To demonstrate the safety, he climbs onto a rock above the pool, takes one step and lands cleanly, feet first.
 
+![rockpool](../images/2025-Seychelles/mahe/rockpool.jpg)
+_I didn't bother taking the photos when I was there, so again this is flying from the beach nearby. Note the pentagram. Feel free to zoom in to see the pool._
+
 Still not sure if he will ask for money or not, we quietly leave and make our way back to the beach near the parking - Anse Takamaka.
 
 Takamaka is a tree that grows mostly in the southern part of Mahé. It's quite sturdy and is used for furniture. It's also the name of the local rum, marketed towards tourists. There's even a distillery that you can visit, but I haven't had the time, unfortunately.
@@ -401,7 +455,11 @@ It's also one of the districts in Mahé, and I assume that's where the name came
 
 The beach is nice. There are some big tortoises in a nearby pen, poor animals. On the beach I went snorkeling for a bit - to see many, many sea urchins, ready to stab you. I didn't bring my water shoes, but they would be useful here... I had to be careful. And since I'm here, I took the large format with me.
 
+![Takamaka on 612](../images/2025-Seychelles/612/takamaka.jpg)
+
 Stayed there until sunset. It's a long way back, and so I drive on the western side of the island, on the narrow road next to the sea. The sky is in deep red, and the road is unlit, only with car lights hinting the way. Too bad I was driving; this image is now only burned in my head.
+
+![Takamaka at sunset](../images/2025-Seychelles/mahe/takamaka-sunset.jpg)
 
 We stopped at a bus stop a bit later, to enjoy the sunset; three Seychellois were sitting nearby, chatting, drinking SeyBrew. Island life.
 
@@ -431,6 +489,20 @@ And if you find a local on the way and would like to reciprocate somehow being s
 
 That's about it. Sure, you can spend it wherever a card is accepted, so if you take out too much, no worries. I took out 1500 SCR for two weeks, and that was almost perfectly enough - I was left with 5 rupees that I forgot in my wallet.
 
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/mahe/eden1.jpg" alt="Eden Island"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/mahe/eden2.jpg" alt="Eden Island"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/mahe/eden3.jpg" alt="Eden Island"/>
+     </div>
+</div>
+
+_Let me interject for a moment with Eden Island. The place where cash... will not be enough._
+
 ### Mangrove Walk and Sauzier Waterfall
 
 Remember what I mentioned about Google Maps? Being a better guide than other sources? I did want to see a waterfall after all and while looking at some places around the previous waterfall, I noticed a mangrove boardwalk. In the reviews there were mentions that there is a way to the waterfall without having to pay anyone. So we decided to go back there and try again.
@@ -438,6 +510,9 @@ Remember what I mentioned about Google Maps? Being a better guide than other sou
 The boardwalk starts in the middle of a bridge, so you park the car nearby. Well, not being sure where it's safe, it was a bit of a walk away, but not too bad.
 
 The boardwalk between mangroves isn't very long, but it's lovely. Look down and you'll see a lot of different types of crabs - big, small, with one big claw. They live there in the mud and seem to be quite happy. But be careful as it's not well maintained and some boards were rotting and falling.
+
+![meow](../images/2025-Seychelles/mahe/cat.jpg)
+_Seychellois cats have the fluffiest tails! Here's a fella I met at the end of the mangrove._
 
 It ends abruptly with a forest path, and a bit of a hike. I wouldn't say it's straightforward, but it's also not that complicated, if you keep your eyes peeled. On the way we stumbled upon another local that just would take us to the waterfall. I was a bit less sceptical this time, so we decided to follow. A bit of a weird fellow, with tattoos, 32 years old.
 
@@ -454,6 +529,8 @@ Fair assessment. I didn't bring my FPV drones with me unfortunately to make a st
 _I'll show you the way, then leave you alone for some private time._
 
 We arrived. I wouldn't say it's that the waterfall was really impressive, but it also hasn't rained in few days. I was glad I didn't carry the large format with me then, at least.
+
+![Sauzier Waterfall](../images/2025-Seychelles/mahe/waterfall.jpg)
 
 Guide has decided to go around the waterfall on rather slippery rocks and wash his hair in the pond. Seems it could be deep, and I didn't want to damage myself, so we just stayed at the edge.
 
@@ -477,7 +554,9 @@ Ah, yeah, now it's all coming together. Unfortunately I only had cash in the car
 
 One of the smallest capitals in the world. Is that title on its own worth visiting?
 
-We decided to give it a go anyway, send some postcards. It's famous for its tiny clock that marks a roundabout. There's a fruit and fish market with souvenir shops nearby as well. 
+We decided to give it a go anyway, send some postcards. It's famous for its tiny clock that marks a roundabout. There's a fruit and fish market with souvenir shops nearby as well.
+
+![Small Ben](../images/2025-Seychelles/mahe/small-ben.jpg)
 
 Parking is a bit of an ordeal; there's one near the Hindi temple and market, but it's quite full. There's another one a bit further away, where you can easily find a place. Then you're supposed to buy a parking ticket, but there are no machines; you need to ask around and find a shop that sells these. And they're very old school - thick pieces of paper, where you're supposed to mark the day and the hour you started parking, and they're valid only for an hour. Each is 10 rupees. 
 
@@ -485,11 +564,22 @@ An hour is enough to get postcards and send them, but not much more, so you may 
 
 There's a museum that's supposedly recommended, but the tickets were 150 rupees per person and it seemed like a bit too much of a stretch. On the other side, there's the post office - a lovely building from the 50s with an appropriately antiquated interior; but they do accept credit cards. There's also a souvenir shop attached to it, and it's one of the better ones if you ask me - not just the usual Chinese crap you find everywhere else.
 
-The veggie/fish market ain't nothing special except for some birds walking around, hoping to get a bite. A Chinese centre that has nothing to do with China. Some smaller boutiques.
+The veggie/fish market ain't nothing special except for some birds walking around, hoping to get a bite. A Chinese centre that has nothing to do with China. Some smaller boutiques. And a view of the city from above.
+
+![Fishy](../images/2025-Seychelles/mahe/fishy.jpg)
 
 And you don't even notice when your hour is gone and you have to go back.
 
 A bit on the outskirts you will find the hypermarket - a big warehouse repurposed into a mall, that reminded me of the early 2000s malls in Poland; few smaller shops and the shopping hall. The choices are better than in a smaller shop, but they don't have everything either, and prices aren't much better. Except for Lebanese snacks, for less than 2 rupees each for a bag. Whoa. Haven't had such cheap junk food in a long time.
+
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
+          <img src="../images/2025-Seychelles/mahe/victoria-above-1.jpg" width="50%"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/mahe/victoria-above-2.jpg" width="50%"/>
+     </div>
+</div>
 
 ### Anse Royale
 
@@ -497,7 +587,13 @@ When you are done so soon, what else can you do? Go to a beach, a royal one at t
 
 I also took out the large format for a picture of this stunning view. First time someone actually stopped while I was counting out the exposure, and stopped their partner in the way as well, lovely!
 
+![6x12 Anse Royale](../images/2025-Seychelles/612/anseroyale.jpg)
+_Film version of the beach_
+
 There is only one problem with this beach - it faces east, meaning it's no good for sunset. Still having some time, on Google Maps we found a giant beach rock, 19 minute drive south. That wasn't too crowded and had a nice view of the endless sea. Sit down for a bit and relax, before the sun goes down and you already have to leave.
+
+![Anse Royale](../images/2025-Seychelles/mahe/anse-royale.jpg)
+_And digital._
 
 ### Fifa Beach Soccer Cup
 
@@ -505,17 +601,41 @@ Now that's a coincidence. After landing, there were advertisements for a beach s
 
 The event was very professionally done, despite cheap tickets, and quite entertaining to watch.
 
+![Beach Soccer Cup](../images/2025-Seychelles/mahe/fifa.jpg)
+
 ### Random beach in the north
 
 Somewhere in between, driving slowly one morning we stumbled upon a beautiful view, beach with tall rocks, framed by palm trees. Stopped nearby, had to walk a little and go down.
 
+![A peaceful place](../images/2025-Seychelles/612/peaceful.jpg)
+
+![Bus stop sunset](../images/2025-Seychelles/mahe/peaceful-bus-stop.jpg)
+_We stopped near the most peaceful bus stop in the world, probably._
+
 On the last day we returned there, deployed a towel and laid down. Found a coconut and smashed it open; drank the juice, and we noticed skinks, lizards that you can find anywhere on the islands, gathering. These little fellas love coconut and will fight for it. One was brave enough to eat from my hand, even.
 
+![Skinks](../images/2025-Seychelles/mahe/skink.jpg)
+
 The best part about this slice of paradise is that there was almost no one. And the lesson is that you may discover a place that escaped other guides; and maybe not as perfect as the others, but far more peaceful.
+
+![Rock surrounded by water](../images/2025-Seychelles/612/rocklong.jpg)
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/mahe/random-north-view.jpg" alt="View of the beach"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/mahe/random-north.jpg" alt="Another picture of the rocks"/>
+     </div>
+</div>
+
+![funky patterns on this one](../images/2025-Seychelles/612/haircut.jpg)
 
 This was the time to say goodbye to Mahé, and take the Coco Ferry to Praslin.
 
 ## Praslin
+
+`youtube: https://youtu.be/lfb4tJQJ65s`
 
 ### Cat Coco Ferry and landing in Praslin
 
@@ -531,9 +651,25 @@ So the driver took us to our accomodation near Cote d'Or and a new adventure has
 
 Coco de Mer is the pride of Seychelles. It's a coconut, but not just any coconut - it's the biggest, heaviest coconut in the world, and it only grows in Praslin (and nearby islands). The female seed looks like the shape of a beautiful woman; the male palm fruit looks like a dick. It takes years to grow, but the window for pollination is very short, just 36 hours. Needless to say, it's a picky plant, and eating it is illegal.
 
+![very tall palm](../images/2025-Seychelles/praslin/valee-palmn.jpg)
+
 But despite the rarity, you can still see it in the wild, in Vallée de Mai. This not so big national park is the home for Coco de Mer, Black Parrot and many other local species, and it's open for visitors, with a walking trail around the whole area. And getting there is quite easy even if you don't have a car, most buses will take you there - more on them later.
 
 Entrance fee isn't low, 450 SCR per person, and it would be great if you also took a tour guide to point out interesting facts and animals you may meet on the way. At very least you'll find geckos, if you're lucky a chameleon, or the Black Parrot itself. While you cannot taste it, you can hold the seed of the coconut - and trust me when I say it's really heavy.
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/praslin/valee-green-gecko.jpg" alt="Green gecko"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/praslin/valee-black-gecko.jpg" alt="Black gecko"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/praslin/valee-chameleon.jpg" alt="Chameleon"/>
+     </div>
+</div>
+
+_The green gecko is on the male Coco de Mer._
 
 The guide you can find near the entrance, and if you share the experience with a bigger group, it will cost 150-200 SCR per person, adding costs to already not cheap tickets. But trust me, it's worth it. Get some interesting facts in and learn how to differentiate different palm trees - some are for eating, some are for roofing, some just provide food to the parrots. Or that a nearby waterfall provides drinking water for the whole island, and you can drink it from tap without treating, but on La Digue it's dug up from the ground and it's better to drink bottled.
 
@@ -543,7 +679,20 @@ The ticket is in part so expensive, because half of the profits go to maintenanc
 
 Once you get out of the park, you can take a bus to somewhere else, or... walk to the waterfall I mentioned earlier. It's quite inacessible and requires some dexterity, not mentioning a rather busy, narrow road on the way without a sidewalk, but it's actually quite nice. And you will see warnings that you cannot wash yourself in there, as it's a supply of drinking water, which means if you do reach it, you can fill up your water bottles :^)
 
+
+
 But from the waterfall, you are on your own in coming back. You can either hike back up to the park entrance, or walk further down towards Grand Anse. That beach while big, kind of sucks and is full of stingrays, but plentiful with coconuts and crabs.
+
+![Grand Anse](../images/2025-Seychelles/praslin/grand-anse.jpg)
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/praslin/grand-anse-stingray.jpg" alt="Stingray"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/praslin/crab.jpg" alt="crab rave with a single crab"/>
+     </div>
+</div>
 
 ### Anse Lazio
 
@@ -553,7 +702,36 @@ The bus takes you to a point where it can turn around, and about 15 minutes away
 
 On the other hand, it is a good beach. Early in the morning there's no one and you can enjoy the soft sands and calm waves. It is quite peaceful; quite large as well, and there are some cool rocks to climb. Sit down and relax.
 
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/praslin/lazio-left.jpg" alt="Anse Lazio from above high up looking right"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/praslin/lazio-right.jpg" alt="Anse Lazio from above looking towards left"/>
+     </div>
+</div>
+<br>
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/praslin/lazio-1.jpg" alt="rocks on the right side"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/praslin/lazio-2.jpg" alt="view from there"/>
+     </div>
+</div>
+<br>
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/praslin/lazio-4.jpg" alt="Lazio from the left side"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/praslin/lazio-3.jpg" alt="stunning view behind the trees"/>
+     </div>
+</div>
+
 And when you're done relaxing, you can go to the other good beach on Praslin - Anse Georgette. You can either go back to the bus stop and go around the island, or if you're a bit adventurous, hike through.
+
+![Anse Lazio from the hike](../images/2025-Seychelles/praslin/lazio-afar.jpg)
 
 The hike isn't that demanding, but may be technically challenging at times. You're rewarded with some sweet views on the way though! Beware though as Google Maps will not show you the way, but it's roughly there on Open Street Maps or Komoot. Besides that the trail, while not marked that well, is pretty straightforward and popular enough to meet some people on the way.
 
@@ -565,11 +743,25 @@ See, the roads are narrow and winding, a normal bus would be out of the question
 
 From outside they look well used, but still on the road without too many issues. Passing by one of them forces you to hold your nose, those old diesels can leave a big cloud of smoke.
 
+![Mahé bus depot](../images/2025-Seychelles/mahe/busdepot.jpg)
+_Bus depot from above in Mahé._
+
 The interior of these is quite amazing. The driver sits on top of the engine, with a massive gear lever sticking out, reminding me of buses of the 70s like Ikarus 260 in some ways (I know the engine is in the back in these, but it resurfaced some childhood memories). The handles and seats however look like taken from 90s, chairs made of plastic to be vandal-proof. But the modern touches don't end there - the driver has a modern screen notifying of the route and a receipt/ticket dispenser, and next to him there's a bus card reader with a modern screen, and a camera for reading QR codes.
 
 The seats are crowded and there's only a single narrow row to get to the seats in 2+2 configuration, explaining why you cannot take big luggage with you. There is just no space for it without blocking the way.
 
 They're loud, there's no AC, and that screen with stops is only for the driver. You're supposed to know where your stop is, and notify the driver with an even louder bell connected to a button nearby when you want to get off. It's the ideas of western public transport, but low tech and nonchalant, fitting the lazy island life. I dig it.
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/praslin/bus-inside.jpg" alt="Bus interior"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/praslin/bus-outside.jpg" alt="Bus outside"/>
+     </div>
+</div>
+
+![Bus from behind](../images/2025-Seychelles/praslin/bus-back.jpg)
 
 So how do you make use of these beautiful history museums on wheels? Two apps are absolutely necessary. First one is an Open Street Map client like [OSMAnd](https://play.google.com/store/apps/details?id=net.osmand&hl=en) and [SPTC](https://play.google.com/store/apps/details?id=sg.emsystem.eM_USR_Android_SPTC&hl=en), the official app of the public transport company.
 
@@ -589,6 +781,27 @@ Anse Georgette is the other amazing beach on Praslin that people go to. It's far
 
 They're also located on the local airport approach and for DJI drones it's not possible to fly around, so I have no aerial footage. The beach is clean, the waves are quite strong, just like in Lazio, and while it's not much to see underwater, it is a nice beach to spend an afternoon at.
 
+![Anse Georgette from the hike](../images/2025-Seychelles/praslin/georgette-above.jpg)
+_You cannot fly at the beach; this was taken during the hike. You can spot the beach behind the golf courses, near the yacht._
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/praslin/georgette-1.jpg" alt="Anse Georgette"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/praslin/georgette-2.jpg" alt="Anse Georgette"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/praslin/georgette-3.jpg" alt="Anse Georgette"/>
+     </div>
+</div>
+
+_It's even better in real life._
+
+![Plane](../images/2025-Seychelles/praslin/plane.jpg)
+_It blows my mind there are very frequent (sometimes 20 min headway) propeller planes going between Mahé and Praslin. Probably one of the shortest commercial flights in the world._
+
+
 ### Diving near Curieuse Island and St. Pierre Island
 
 Being in a beautiful destination with clear water, I had to make use of my open water license I got last year and go scuba diving, even if just to remember how to use the equipment and practice my buoyancy. On Mahé I couldn't go diving really as I was driving and I didn't want to leave my companion without a way to move around; but also I had to do it more than 24 hours before the flight back due to decompression sickness risk. I contacted two diving shops through WhatsApp near the hotel to ask for a quote. One didn't respond, obviously didn't want my money; the other was [Whitetip Divers](https://g.co/kgs/MPYupWo). I got quoted 135 EUR for two dives in the morning. Diving sites would be chosen before the dive itself, depending on the conditions and experience level of the participants.
@@ -605,7 +818,18 @@ Near the tiny St. Pierre Island though it was more interesting. A manta swam by,
 
 Once we got back on the land, we headed onto the very long beach nearby, Cote d'Or. The beach we haven't had the time or opportunity to really check out during the daytime before.
 
+![Cote d'Or](../images/2025-Seychelles/praslin/cotedor.jpg)
+
 It's not as clean or swimmable really as the others I have mentioned, there are some boats attached here and there. It's also facing north, and sunset is not visible, but the sunrise is. There's some activity, small sellers and beach shops, and there are people advertising their boat excursions. They have better prices than the big tourist agencies like Creole, so if you want to visit Curieuse, you can head out there, ask around, get some WhatsApp numbers.
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/praslin/cote-sunset-left.jpg" alt="Cote d'Or at sunset"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/praslin/cote-sunset-right.jpg" alt="Cote d'Or at sunset"/>
+     </div>
+</div>
 
 That's one point though, WhatsApp is the standard of communication here. Someone will know a taxi driver, then you'll get a number to text. Or arrange a trip. Or a business that's on the maps but has no presence otherwise will reply on WA. Or if you need anything from your hotel. If you don't use this app yet, you should install it before you come.
 
@@ -627,11 +851,30 @@ Yeah these people are weird, but Poles would also be like that.
 
 And that's quite true, they're friendly. Most won't start a conversation out of the blue like this positively slightly crazy uncle, but in the morning you will hear some _mornings_ and _bonjours_. Oh what a stark contrast to Hong Kong...
 
+![Sunset with a godzilla cloud](../images/2025-Seychelles/praslin/godzilla-sunset-cloud.jpg)
+_Even kaijus are fluffy here._
+
 ### Anse Takamaka
 
 On Anse Georgette we saw a woman with a Raffles bag. I had no idea and was educated that it's a very fancy hotel. Looking at the map it turns out that they have a public/private beach as well. If you decide to go there, it's not very big, it's very narrow even, but offers some nice views and lovely rocks. Just if you decide to go there, take the bus to the stop on the north side of the beach, that will save you a walk and a hike.
 
+![Anse Takamaka](../images/2025-Seychelles/praslin/takamaka.jpg)
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/praslin/takamaka-above.jpg" alt="Raffles Takamaka"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/praslin/smoon-above.jpg" alt="Smoon Island"/>
+     </div>
+</div>
+
+![Smoon Island](../images/2025-Seychelles/praslin/smoon.jpg)
+_Why is it called "Smoon Island"? Only wrong answers._
+
 ## La Digue
+
+`youtube: https://youtu.be/5ZwEEeYr9mU`
 
 Last full day in Seychelles... and the last chance to visit La Digue.
 
@@ -653,13 +896,48 @@ Check the bike well before you go, they might be in a bad state. You don't get a
 
 Generally I would just call the whole business a scam or coercion, but you really have no choice in this place, so go along with it.
 
+![A church on La Digue](../images/2025-Seychelles/ladigue/church.jpg)
+_A lovely little church we passed by on the way._
+
 ### Anse Source d'Argent
 
 First destination of course is the most famous and supposedly most beautiful beach in the world. It's a short bike ride to a farm, plantation, that owns the territory around, including that beach and few others nearby. This is the first time you really have to pay to access the beach, and it's 150 SCR per person. You get a strap, not unlike one for a music event, then you're free to wander around the premises. On the way to the beach you will find a vanilla plantation, some old turtles and other things that no one really cares about.
 
+![A view from above](../images/2025-Seychelles/ladigue/dargent-above.jpg)
+
+![A view from the side](../images/2025-Seychelles/ladigue/dargent-rocks.jpg)
+
 Once you arrive close enough to the beaches, you're supposed to leave your bicycle at the parking lot. There are some amenities near the point of interest, and by that I mean some souvenir shops. They're really trying to milk the place. But like I said earlier, the beach itself is untouched. Pristine. And there are few great spots nearby, just not as well known; so much so that I wasn't sure which one was supposed to be The One without crowds to guide us. We saw an employee preparing a wedding ceremony in one corner; it's a stunning place for such an event I'm almost jealous.
 
 The water is crystal clear. Transparent fishes are swimming around, and the water is calm with very gentle waves. Far in the background you can see the rougher sea that somehow stops few hundred meters from the shore, as if the beach is protected by a force field. In the background you can see Praslin, and a silhouette of Mahé. Massive boulders on your sides and behind you give that grandiose feeling that really makes it feel like a slice of paradise.
+
+![Anse Source d'Argent panorama](../images/2025-Seychelles/ladigue/dargent-morning.jpg)
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/ladigue/fish.jpg" alt="Fish at Anse Source d'Argent"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/ladigue/dargent-clear.jpg" alt="Anse Source d'Argent"/>
+     </div>
+</div>
+
+<br>
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/ladigue/dargent-wide.jpg" alt="Anse Source d'Argent in the morning"/>
+     </div>
+         <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/ladigue/dargent-water.jpg" alt="Water at Anse Source d'Argent"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/ladigue/dargent-morning2.jpg" alt="Anse Source d'Argent in the morning"/>
+     </div>
+
+</div>
+
+![Anse Source d'Argent panorama](../images/2025-Seychelles/ladigue/dargent-crop.jpg)
 
 Maybe you already have beach fatigue and don't appreciate it as much yet, but the title is deserved.
 
@@ -669,7 +947,34 @@ At least at 8 in the morning. Around 10 it gets flooded with tourists, mostly Ru
 
 In one day with a bike you don't have much other choice. It's not a long way to get to three beaches, albeit a hilly one, so I hope the gears in your bike work properly and the chain doesn't fall or break. You start at Grand Anse, where you leave your bike by a palm tree. The beach is quite rowdy, the seas rough with big waves and little to no shadow. It's also the most accessible, that's the best I can say. There's a restaurant nearby if you're hungry, but otherwise just start walking to the left, into the forest, hike for 10 minutes and reach Petite Anse. 
 
-There's again no shadow to shield you from the sun, so my recommendation is to just keep walking towads Anse Cocos. The hike is a bit longer this time, but not challenging either. Once you arrive though you will see the best beach of the three. Starting from the sand, there's some shade here and there; some dried dead trees which you can exploit for some cool portrait photos; the sea is still rough with big waves, but more manageable than in the other beach. The sea is said to have 7 shades of blue that you can see and while it's a bit of an exaggeration, it is certainly the most interesting. At the far end there's also a little spot covered by rocks from all sides where you can swim peacefully, shielded from the waves... definitely one of the better spots. At least, it felt better than even Source d'Argent in some ways
+![Three beaches from above](../images/2025-Seychelles/ladigue/three-beaches.jpg)
+_That was really high._
+
+There's again no shadow to shield you from the sun, so my recommendation is to just keep walking towads Anse Cocos. The hike is a bit longer this time, but not challenging either. Once you arrive though you will see the best beach of the three. Starting from the sand, there's some shade here and there; some dried dead trees which you can exploit for some cool portrait photos; the sea is still rough with big waves, but more manageable than in the other beach. The sea is said to have 7 shades of blue that you can see and while it's a bit of an exaggeration, it is certainly the most interesting. At the far end there's also a little spot covered by rocks from all sides where you can swim peacefully, shielded from the waves... definitely one of the better spots. At least, it felt better than even Source d'Argent in some ways.
+
+![Another dead tree](../images/2025-Seychelles/ladigue/coco-tree.jpg)
+
+![Anse Cocos Panorama](../images/2025-Seychelles/ladigue/coco-pano.jpg)
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/ladigue/cocos-beach.jpg" alt="Anse Cocos beach"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/ladigue/coco-tree-2.jpg" alt="Anse Cocos Dead Trees"/>
+     </div>
+</div>
+
+<br>
+
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="../images/2025-Seychelles/ladigue/cocos-pool.jpg" alt="Anse Cocos pool"/>
+     </div>
+    <div style="flex:1;padding-left:10px;">
+          <img src="../images/2025-Seychelles/ladigue/cocos-pool-above.jpg" alt="Anse Cocos pool"/>
+     </div>
+</div>
 
 Rest up before you realize you need to go back...
 
