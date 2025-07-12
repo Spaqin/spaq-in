@@ -11,7 +11,7 @@ exports.onCreateNode = ({ node, actions }) => {
     }
 }
 
-exports.createPages = async ({ graphql, actions }) => {
+exports.createPages = async ({ graphql, actions, reporter }) => {
     const { createPage } = actions
     const response = await graphql(`
       query {
@@ -26,6 +26,11 @@ exports.createPages = async ({ graphql, actions }) => {
         }
       }
     `)
+    if (response.errors) {
+      reporter.panicOnBuild('Error while running GraphQL query.')
+      return
+    }
+
     response.data.allMarkdownRemark.edges.forEach(edge => {
       createPage({
         path: `/blog/${edge.node.fields.slug}`,
