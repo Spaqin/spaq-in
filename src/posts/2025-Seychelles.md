@@ -187,6 +187,8 @@ You can choose either Airtel or Cable & Wireless. They both have comparable if n
 
 `youtube: https://youtu.be/uvc1xog2GS0`
 
+_It probably says "video unavailable". That's because of the blight of humanity called copyright. Click to open it in YouTube in a separate tab._
+
 For Mahé, I decided to go with a rental car. First, I was just missing driving (and driving on a beautiful road by the sea was VERY appealing), secondly, with the rare buses, as cheap as they were, it would be a pain to traverse. 
 
 The rental car options are just to the left of the exits. I went with *Sunshine Cars*, as they gave me a cheapest option - a Suzuki S-Presso for **38 EUR/day**. Sure you can get extra insurance, but I went without, as my travel insurance would cover some of the excess. Other options in similar price range would include a Kia Picanto or Hyundai i10, showing superiority or East Asian car industry. Autotragic, 1.2 NA, 60HP with AC running the whole time... as long as it gets me places. A slow car fast is more fun anyway, right?
@@ -637,6 +639,8 @@ This was the time to say goodbye to Mahé, and take the Coco Ferry to Praslin.
 
 `youtube: https://youtu.be/lfb4tJQJ65s`
 
+_You know the drill - click to open it in YouTube in a separate tab. The second video actually went much better IMO once I got the hang of Premiere._
+
 ### Cat Coco Ferry and landing in Praslin
 
 Let me tell you this much - unlike many other aspects of the Seychelles, the Cat Coco is very punctual.
@@ -875,6 +879,8 @@ _Why is it called "Smoon Island"? Only wrong answers._
 ## La Digue
 
 `youtube: https://youtu.be/5ZwEEeYr9mU`
+
+_Same deal - click to open it in YouTube in a separate tab. Not much footage but it certainly feels heavenly..._
 
 Last full day in Seychelles... and the last chance to visit La Digue.
 
