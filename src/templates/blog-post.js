@@ -2,6 +2,7 @@ import React from "react"
 import { GatsbyImage } from "gatsby-plugin-image";
 import { graphql } from "gatsby"
 import { Donate } from 'react-kofi-overlay'
+import IssoComments from "../components/IssoComments"
 
 import Layout from "../components/layout"
 import * as postStyles from "./blogPost.module.scss"
@@ -23,6 +24,9 @@ export const query = graphql`query ($slug: String!) {
     timeToRead
     excerpt
     html
+    fields {
+      slug
+    }
   }
   sitePage {
     path
@@ -75,8 +79,9 @@ const BlogPost = props => {
       </Donate>
       </div>
 
-      <div>
-          <p>There used to be a comment section here but Disqus has added quite disgusting ads there (if you don't use an adblocker). As this is not a commercial project and no one was really commenting, it will probably not come back. For discussions you can send me an email instead.</p>
+      <div className={postStyles.comments}>
+        <hr/>
+        <IssoComments slug={props.data.markdownRemark.fields.slug} />
       </div>
     </Layout>
   );
