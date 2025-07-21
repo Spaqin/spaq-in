@@ -1,7 +1,6 @@
 import React from "react"
 import { GatsbyImage } from "gatsby-plugin-image";
 import { graphql } from "gatsby"
-import { Disqus } from 'gatsby-plugin-disqus';
 import { Donate } from 'react-kofi-overlay'
 
 import Layout from "../components/layout"
@@ -32,11 +31,6 @@ export const query = graphql`query ($slug: String!) {
 `
 
 const BlogPost = props => {
-  const disqusConfig = {
-      identifier: props.pageContext.slug,
-      title: props.data.markdownRemark.frontmatter.title,
-      url: 'https://spaq.in' + props.path, 
-  }
   return (
     <Layout>
       <div className={postStyles.content}>
@@ -82,7 +76,7 @@ const BlogPost = props => {
       </div>
 
       <div>
-        <Disqus config={disqusConfig} />
+          <p>There used to be a comment section here but Disqus has added quite disgusting ads there (if you don't use an adblocker). As this is not a commercial project and no one was really commenting, it will probably not come back. For discussions you can send me an email instead.</p>
       </div>
     </Layout>
   );
