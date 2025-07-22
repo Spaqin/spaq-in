@@ -31,10 +31,10 @@
       margin-bottom: 1rem;
     }
 
-    .isso-postbox {
+    :global(.isso-postbox) {
       margin-bottom: 1rem;
       
-      textarea, input {
+      :global(textarea), :global(input) {
         display: block;
         width: 100%;
         padding: 0.5rem;
@@ -46,7 +46,7 @@
         font-size: 1rem;
       }
 
-      .isso-submit {
+      :global(.isso-submit) {
         width: auto;
         background-color: #222;
         color: white;
@@ -60,7 +60,7 @@
       }
     }
 
-    .isso-comment {
+    :global(.isso-comment) {
       margin-top: 1.5rem;
       padding-top: 1.5rem;
       border-top: 1px solid #eee;
@@ -71,17 +71,17 @@
         border-top: none;
       }
 
-      .isso-header {
+      :global(.isso-header) {
         color: #555;
         font-size: 0.9rem;
         margin-bottom: 0.5rem;
-        .isso-author {
+        :global(.isso-author) {
           font-weight: bold;
           color: #222;
         }
       }
 
-      .isso-text {
+      :global(.isso-text) {
         p {
           margin-top: 0;
         }
