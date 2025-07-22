@@ -21,10 +21,6 @@ const IssoComments = ({ slug }) => {
     // This tells the script where your Isso server is running.
     script.dataset.isso = issoServerUrl;
 
-    // Optional: configure language, avatar display, etc.
-    // script.dataset.issoLang = 'en';
-    // script.dataset.issoAvatar = 'false';
-
     document.body.appendChild(script);
 
     // Optional: A cleanup function to remove the script when the component unmounts.
