@@ -24,9 +24,6 @@ export const query = graphql`query ($slug: String!) {
     timeToRead
     excerpt
     html
-    fields {
-      slug
-    }
   }
   sitePage {
     path
@@ -34,25 +31,26 @@ export const query = graphql`query ($slug: String!) {
 }
 `
 
-const BlogPost = props => {
+const BlogPost = ({ data, pageContext }) => {
+  const post = data.markdownRemark;
   return (
     <Layout>
       <div className={postStyles.content}>
-        <h1>{props.data.markdownRemark.frontmatter.title}</h1>
+        <h1>{post.frontmatter.title}</h1>
         <span className={postStyles.meta}>
-            Posted on {props.data.markdownRemark.frontmatter.date}{" "}
-            <span> / </span> {props.data.markdownRemark.timeToRead} min read
+            Posted on {post.frontmatter.date}{" "}
+            <span> / </span> {post.timeToRead} min read
         </span>
         {
-            props.data.markdownRemark.frontmatter.featured && (
+            post.frontmatter.featured && (
                 <GatsbyImage
-                  image={props.data.markdownRemark.frontmatter.featured.childImageSharp.gatsbyImageData}
+                  image={post.frontmatter.featured.childImageSharp.gatsbyImageData}
                   className={postStyles.featured}
-                  alt={props.data.markdownRemark.frontmatter.title} />
+                  alt={post.frontmatter.title} />
             )
         }
         <div 
-          dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
+          dangerouslySetInnerHTML={{ __html: post.html }}
         />
       </div>
       <div>
@@ -81,7 +79,7 @@ const BlogPost = props => {
 
       <div className={postStyles.comments}>
         <hr/>
-        <IssoComments slug={props.data.markdownRemark.fields.slug} />
+        <IssoComments slug={pageContext.slug} />
       </div>
     </Layout>
   );
@@ -89,17 +87,14 @@ const BlogPost = props => {
 
 export default BlogPost
 
-export const Head = ({
-  data: {
-    markdownRemark: {
-      frontmatter,
-      excerpt
-    }
-  }
-}) => { return <Metadata 
-                  title={frontmatter.title + " | spaq.in"} 
-                  description={excerpt}
-                  imageUrl={"https://spaq.in/" + frontmatter.featured.childImageSharp.gatsbyImageData.images.fallback.src}
-                  imageAlt={frontmatter.title}
-                /> 
-      }
+export const Head = ({ data }) => {
+  const { frontmatter, excerpt } = data.markdownRemark;
+  const imageUrl = `https://spaq.in${frontmatter.featured.childImageSharp.gatsbyImageData.images.fallback.src}`;
+
+  return <Metadata 
+            title={`${frontmatter.title} | spaq.in`} 
+            description={excerpt}
+            imageUrl={imageUrl}
+            imageAlt={frontmatter.title}
+          /> 
+}
