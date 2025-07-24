@@ -33,7 +33,6 @@
     "gatsby-source-filesystem": "^4.20.0",
     "gatsby-transformer-remark": "^5.20.0",
     "gatsby-transformer-sharp": "^4.20.0",
-    "node-sass": "^7.0.1",
     "postcss": "^8.4.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -41,7 +40,8 @@
   },
   "devDependencies": {
     "gatsby-plugin-netlify": "^5.1.1",
-    "prettier": "2.7.1"
+    "prettier": "2.7.1",
+    "sass": "^1.89.2"
   },
   "repository": {
     "type": "git",
