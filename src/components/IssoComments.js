@@ -1,16 +1,11 @@
 import React, { useEffect } from 'react';
 
-const IssoComments = ({ slug }) => {
+const IssoComments = ({ slug, title }) => {
   // Define the server URL in one place for easy updates.
   const issoServerUrl = 'https://cdn.spaq.in:17135/';
 
   useEffect(() => {
     // Check if the script is already on the page to avoid adding it again
-    // when navigating between posts.
-    if (document.getElementById('isso-script')) {
-      return;
-    }
-
     const script = document.createElement('script');
     script.id = 'isso-script';
 
@@ -28,9 +23,9 @@ const IssoComments = ({ slug }) => {
     return () => {
       document.getElementById('isso-script')?.remove();
     };
-  }, []); // The empty dependency array ensures this effect runs only once.
+  }, [slug]); // Rerun this effect when the slug changes to load new comments.
 
-  return <section id="isso-thread" data-isso-id={slug}></section>;
+  return <section id="isso-thread" data-isso-id={slug} data-isso-title={title}></section>;
 };
 
 export default IssoComments;

@@ -79,7 +79,7 @@ const BlogPost = ({ data, pageContext }) => {
 
       <div className={postStyles.comments}>
         <hr/>
-        <IssoComments slug={pageContext.slug} />
+        <IssoComments slug={pageContext.slug} title={post.frontmatter.title} />
       </div>
     </Layout>
   );
