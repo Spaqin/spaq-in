@@ -20,8 +20,7 @@ The other day I passed by HKCamera, the same shop that sold me the Canon P which
           <img src="../images/widelux/modelfvi.jpg"/>
      </div>
 </div>
-
-
+<br>
 <div style="display:flex">
      <div style="flex:1;">
           <img src="../images/widelux/back.jpg"/>
