@@ -114,15 +114,8 @@ module.exports = {
             },
           },
           "gatsby-remark-autolink-headers",
-          "gatsby-remark-image-attributes"
         ],
       },
     },
-    {
-      resolve: `gatsby-plugin-disqus`,
-      options: {
-          shortname: `spaqin`
-      }
-    }
   ],
 }
