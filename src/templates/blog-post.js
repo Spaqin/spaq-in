@@ -11,6 +11,11 @@ import Metadata from "../components/metadata"
 
 
 export const query = graphql`query ($slug: String!) {
+  site {
+    siteMetadata {
+      siteUrl
+    }
+  }
   markdownRemark(fields: {slug: {eq: $slug}}) {
     frontmatter {
       title
@@ -24,9 +29,6 @@ export const query = graphql`query ($slug: String!) {
     timeToRead
     excerpt
     html
-  }
-  sitePage {
-    path
   }
 }
 `
@@ -87,14 +89,18 @@ const BlogPost = ({ data, pageContext }) => {
 
 export default BlogPost
 
-export const Head = ({ data }) => {
+export const Head = ({ data, location }) => {
   const { frontmatter, excerpt } = data.markdownRemark;
-  const imageUrl = `https://spaq.in${frontmatter.featured.childImageSharp.gatsbyImageData.images.fallback.src}`;
+  const { siteUrl } = data.site.siteMetadata;
+
+  const imageUrl = `${siteUrl}${frontmatter.featured.childImageSharp.gatsbyImageData.images.fallback.src}`;
 
   return <Metadata 
             title={`${frontmatter.title} | spaq.in`} 
             description={excerpt}
             imageUrl={imageUrl}
             imageAlt={frontmatter.title}
+            pathname={location.pathname}
+            ogType="article"
           /> 
 }

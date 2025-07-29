@@ -2,7 +2,7 @@ import React from "react"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-const Metadata = ({ title, description, imageUrl, imageAlt }) => {
+const Metadata = ({ title, description, imageUrl, imageAlt, pathname, ogType }) => {
   const data = useStaticQuery(
     graphql`
       query {
@@ -10,6 +10,7 @@ const Metadata = ({ title, description, imageUrl, imageAlt }) => {
           siteMetadata {
             title
             description
+            siteUrl
           }
         }
       }
@@ -17,8 +18,10 @@ const Metadata = ({ title, description, imageUrl, imageAlt }) => {
   )
   const metaTitle = title || data.site.siteMetadata.title
   const metaDescription = description || data.site.siteMetadata.description
-  const defaultImageUrl = "https://spaq.in/static/header-image-cc29ffc6b934abaf63d07968b37979dc.jpg"
+  const { siteUrl } = data.site.siteMetadata
+  const defaultImageUrl = `${siteUrl}/static/header-image-cc29ffc6b934abaf63d07968b37979dc.jpg`
   const ogImageUrl = imageUrl || defaultImageUrl;
+  const canonicalUrl = pathname ? `${siteUrl}${pathname}` : null;
   return (
     <Helmet
       title={metaTitle}
@@ -37,7 +40,7 @@ const Metadata = ({ title, description, imageUrl, imageAlt }) => {
         },
         {
           property: `og:type`,
-          content: `website`,
+          content: ogType || `website`,
         },
         {
           property: "og:image",
@@ -47,7 +50,7 @@ const Metadata = ({ title, description, imageUrl, imageAlt }) => {
           property: "twitter:image:alt",
           content: imageAlt || "spaq.in",
         },
-      ]}
+      ].concat(canonicalUrl ? [{ property: `og:url`, content: canonicalUrl }] : [])}
     />
   )
 }

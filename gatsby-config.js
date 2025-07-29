@@ -9,6 +9,7 @@ module.exports = {
     title: "spaq.in",
     description: "professional programmer, amateur photographer, or the other way around",
     author: "Spaqin",
+    siteUrl: 'https://spaq.in',
     flatNavItems: [
       {
         name: "Home",
