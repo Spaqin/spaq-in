@@ -2,6 +2,7 @@
 title: "Agat 18(K) English manual"
 date: "2024-03-22"
 featured: "../images/agat18k.png"
+tags: ["Reference", "Manual", "Agat 18K"]
 ---
 
 Press Read More to get to the links. 

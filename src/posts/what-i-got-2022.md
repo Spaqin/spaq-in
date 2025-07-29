@@ -2,6 +2,7 @@
 title: "What I got in 2022 - an overview"
 date: "2023-01-06"
 featured: "../images/2022loot/canonp.jpg"
+tags: ["Gear", "Review", "Year in Review"]
 ---
 
 Wow, last year was gassy. As if I had a bean soup for a week straight. Despite me writing about the void, I still was hungry for more - more experiences, more gear. Sometimes the gear found me and fed more desires, sometimes it was cheap or interesting enough to come to me.

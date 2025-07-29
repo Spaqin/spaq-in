@@ -2,6 +2,7 @@
 title: "One year without C41... and Harman Phoenix review"
 date: "2024-07-29"
 featured: "../images/harmanphoenix/main.jpg"
+tags: ["Film Photography", "Review", "Harman Phoenix", "Color Film", "C41"]
 ---
 
 "C-41 is digital with extra steps". If you look hard enough, you'll probably see me somewhere saying that. To prove my point, I decided that in 2023 I will not buy any color negative film. How did it go?

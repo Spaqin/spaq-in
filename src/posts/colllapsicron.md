@@ -2,6 +2,7 @@
 title: "Focus On The Negative: LLL 'Summicron' 8 element collapsible"
 date: "2024-03-25"
 featured: "../images/colllapsicron/onhexarrf.jpg"
+tags: ["Lens Review", "Film Photography", "Leica M", "Light Lens Lab", "Rangefinder", "Gear"]
 ---
 
 The lens that started out Light Lens Lab. Rare 8 element Summicron. Remade by the Chinese. I'm not a huge fan of 35mm, but I decided to give it a try - both Canon P and Hexar RF have the appropriate framelines, and reviews looked good. The lens itself looked bit quirky, and it was available in LTM, so I gave it a try. And these weird red dot people on the internet were constantly talking about EIGHT elements. Two more than typical double gauss... two more better?

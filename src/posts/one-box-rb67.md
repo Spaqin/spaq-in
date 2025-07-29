@@ -2,6 +2,7 @@
 title: "One box of Instax square with... Mamiya RB67"
 date: "2024-09-08"
 featured: "../images/instax/arbee.jpg"
+tags: ["Instant Photography", "Mamiya RB67", "Medium Format", "Gear", "Instax"]
 ---
 
 This is not a review of the RB67. This article is about the joys of instant photography, and exploring potential outlets of your own art.

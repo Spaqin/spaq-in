@@ -2,6 +2,7 @@
 title: "One roll with... Kodak Tri-X disposable"
 date: "2022-09-26"
 featured: "../images/trixdisposable/front.JPG"
+tags: ["Camera Review", "Film Photography", "Kodak", "Disposable Camera", "Street Photography"]
 ---
 
 Reduce, reuse, recycle. All of that in a capitalist society, where you're constantly bombarded with advertisements; where companies with massive marketing budgets try to nudge your perception to consume product and get excited for new product. While also trying to convince that the company is commited to ecology, everything is recyclable, and besides, you should bear the responsibility for the planet.

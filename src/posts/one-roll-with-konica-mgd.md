@@ -2,6 +2,7 @@
 title: "One roll with... Konica MG/D"
 date: "2023-12-12"
 featured: "../images/mgd/hikin.jpg"
+tags: ["Camera Review", "Film Photography", "Konica", "MGD", "Point and Shoot"]
 ---
 
 Run. Point. Shoot. Live. Then complain about Portra 400 prices. That's how an average film point and shooter thinks his life looks like, and probably it's not that far off - they usually have more of a social life than me.

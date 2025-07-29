@@ -2,6 +2,7 @@
 title: "One roll with... Minolta Repo"
 date: "2023-12-09"
 featured: "../images/repo/front.jpg"
+tags: ["Camera Review", "Film Photography", "Minolta", "Half-frame", "DIY Repair"]
 ---
 
 When I first heard of half frame cameras, I thought they're a great idea. 72 pictures! Can save so much on film! And the cameras are usually smaller, too!

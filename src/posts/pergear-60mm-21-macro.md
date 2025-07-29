@@ -2,6 +2,7 @@
 title: "Pergear 60mm f2.8 2:1 macro lens - review"
 date: "2021-09-03"
 featured: "../images/pergear.jpg"
+tags: ["Lens Review", "Gear", "Pergear", "Macro Photography", "Film Scanning"]
 ---
 
 A Chinese manufacturer releases a new, cheap lens. Their optics have been getting better and better recently, but you're still skeptical. Mostly because there are usually no reviews, no comparisons. If it's a fresh offering, it's even worse. So, what do you do? You can wait for someone to do a writeup, or you can blindly purchase it, hoping that it's gonna be good.

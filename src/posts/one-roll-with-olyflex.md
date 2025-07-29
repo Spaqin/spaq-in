@@ -2,6 +2,7 @@
 title: "One roll with... Olympus Flex 2.8A"
 date: "2024-09-23"
 featured: "../images/olyflex/front.jpg"
+tags: ["Camera Review", "Film Photography", "Olympus", "Olympusflex", "TLR", "Medium Format"]
 ---
 
 Or when you learn that Rolleiflex was not the only TLR with a f2.8 lens.

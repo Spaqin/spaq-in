@@ -2,6 +2,7 @@
 title: "One roll with... Canon EOS 30"
 date: "2022-09-28"
 featured: "../images/eos30/front.jpg"
+tags: ["Camera Review", "Film Photography", "Canon", "SLR", "Autofocus"]
 ---
 
 I mentioned something about the opportunities. Through an incredible stroke of bad and good luck, you may meet good people; and the good people may want to gift you a dry box, to storage your equipment in an unforgivingly humid climate. And that dry box, while used, may come with plethora of other equipment... including a mint Canon EOS 30.

@@ -2,6 +2,7 @@
 title: "Traveling to Phillippines"
 date: "2024-05-01"
 featured: "../images/2024phillippines/title.jpg"
+tags: ["Travel", "Photography", "Philippines", "Gear", "Drone", "Trip Report"]
 ---
 
 At the end of March I have gone on a small trip to Palawan, Phillippines - a place of beautiful water, beaches, landscapes. Although it was not a photography focused trip - these are different than family or friend outings - I tried to pack whatever I could in.

@@ -2,6 +2,7 @@
 title: "Dealing with expired slide"
 date: "2021-04-09"
 featured: "../images/expiredslide.jpg"
+tags: ["Guide", "Film Photography", "Slide Film", "Expired Film", "DIY"]
 ---
 
 We all know how to deal with expired color and black and white negative already. Overexpose one stop per d- I mean, bracket, test, especially if you're not sure of storage conditions, but overexposing in general won't hurt.

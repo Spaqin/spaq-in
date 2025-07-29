@@ -2,6 +2,7 @@
 title: "Salt with black and white film...?"
 date: "2024-02-25"
 featured: "../images/bwsalt/title.jpg"
+tags: ["Film Photography", "Film Development", "DIY", "Experiment"]
 ---
 
 I saw a post on Facebook a while ago claiming that adding 30g/1L of salt to BW developer would help with contrast and base fog. I looked a bit deeper into it and found [various](https://www.photo.net/forums/topic/398567-common-salt-developer/) [claims](https://www.photrio.com/forum/threads/mixin-salt-ito-developer.157088/). Well, it's cheap, and I do have a whole lot of Ilford Surveillance P4 film that could benefit from higher clarity at lower speed.

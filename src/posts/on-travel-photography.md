@@ -2,6 +2,7 @@
 title: "On travel photography"
 date: "2025-04-27"
 featured: "../images/travelphotography/taipei101.jpg"
+tags: ["Photography", "Travel", "Philosophy", "Gear", "Inspiration"]
 ---
 
 We can all agree that traveling can be a breath of fresh air and well-needed a break of trying hard to find new places to shoot locally. How often do we groan about getting bored of our surroundings? Needing to take a break? Go somewhere else and your problems will be solved!

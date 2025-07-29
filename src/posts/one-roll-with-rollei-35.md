@@ -2,6 +2,7 @@
 title: "One roll with... Rollei 35"
 date: "2024-09-23"
 featured: "../images/rollei35/front.jpg"
+tags: ["Camera Review", "Film Photography", "Rollei", "Rollei 35", "Compact Camera"]
 ---
 
 There's a bit of a drama recently, with the newly released Rollei 35AF; the original one came into spotlight again. It never really left it though - as the smallest full frame camera with manual controls and a decent lens. And I remembered I have one too, but I ended up leaving it in Poland. I picked it up after three years, and while the light meter didn't magically fix itself, I still shot a roll of 400D. 

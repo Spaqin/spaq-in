@@ -2,6 +2,7 @@
 title: "One roll with... Minolta 505si"
 date: "2022-06-05"
 featured: "../images/minolta505/side.jpg"
+tags: ["Camera Review", "Film Photography", "Minolta", "SLR", "Autofocus"]
 ---
 
 I had an opportunity. Multiple opportunities, actually, and sometimes you just have to act on them, remembering about the risks. I've been using mostly manual, or with limtied automation, film cameras - and I could play around with a lightweight, plastic autofocus SLR. Would that change my view? Would I suddenly decide to sell all my previous gear? Is it even designed in a proper way?

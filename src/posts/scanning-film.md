@@ -2,6 +2,7 @@
 title: "Another guide to scanning film"
 date: "2023-01-06"
 featured: "../images/scanningfilm/setup.jpg"
+tags: ["Guide", "Film Photography", "Film Scanning", "DIY"]
 ---
 
 Nobody asked, but I'll say it anyway. And everyone has their own method, too, and frankly no method can be considered straight up bad\*, as long as it produces results you're happy with.

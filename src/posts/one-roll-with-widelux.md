@@ -2,6 +2,7 @@
 title: "One roll with... Widelux FVI"
 date: "2025-07-26"
 featured: "../images/widelux/front.jpg"
+tags: ["Camera Review", "Film Photography", "Widelux", "Panoramic", "Gear"]
 ---
 
 A panoramic adventure awaits all hobby photographers at some point. It takes different forms. I've been through a few as well; but I never had a proper panoramic-only camera before. I held the X-Pan in my hands back in 2019 yes, but that's about it. Recently I found an affinity towards vertical panoramas, and realized I do need a special tool for that. Well, I could manage with the 612 back, but the desires can be stronger.

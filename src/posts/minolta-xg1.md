@@ -2,6 +2,7 @@
 title: "Minolta XG-1: A budget option that gets you 99% the way there"
 date: "2021-06-14"
 featured: "../images/minoltagang.jpg"
+tags: ["Camera Review", "Film Photography", "Minolta", "SLR"]
 ---
 
 

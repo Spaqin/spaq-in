@@ -2,6 +2,7 @@
 title: "One roll with... Agfa Optima 1535"
 date: "2024-06-18"
 featured: "../images/agfaoptima1535/front.jpg"
+tags: ["Camera Review", "Film Photography", "Agfa", "Optima 1535", "Rangefinder"]
 ---
 
 Rangefinder. Red dot. Made in Germany. I present to you... the Agfa Optima 1535. The odd one out, and fairly rare camera, the advanced sister of Optima 1035. Let's find out how does it shoot and actually feel.

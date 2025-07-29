@@ -2,6 +2,7 @@
 title: "Loose notes from Konica Pearl II repair"
 date: "2025-02-24"
 featured: "../images/kpi/pearl.jpg"
+tags: ["DIY", "Camera Repair", "Konica", "Medium Format"]
 ---
 
 I finally got a folder. Konica Pearl II, or going by initials to the horror of all office workers, KPI(I).
@@ -91,4 +92,3 @@ Of course. The lens seems to be sharp, but in the first roll I didn't even fix t
 ![mr2](../images/kpi/pics/mr2.jpg)
 
 ![shop](../images/kpi/pics/shop.jpg)
-

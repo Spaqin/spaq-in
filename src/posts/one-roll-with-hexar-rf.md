@@ -2,6 +2,7 @@
 title: "One roll with... Konica Hexar RF"
 date: "2024-01-06"
 featured: "../images/hexarrf/front.jpg"
+tags: ["Camera Review", "Film Photography", "Konica", "Hexar", "Rangefinder", "Gear"]
 ---
 
 BRO. GET A RANGEFINDER. BRO. 

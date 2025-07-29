@@ -2,6 +2,7 @@
 title: "Loose notes from Fuji GS645S repair"
 date: "2023-04-22"
 featured: "../images/gs645s/done.jpg"
+tags: ["DIY", "Camera Repair", "Fujifilm", "Medium Format", "Gear"]
 ---
 
 As much as you say you care about your equipment, accidents may still happen. So yeah, I dropped my beloved GS645S, from about half a meter onto gravel. Great travel camera, but really fragile. Does not help that I was a scatterbrain that forgot to attach the PD strap.

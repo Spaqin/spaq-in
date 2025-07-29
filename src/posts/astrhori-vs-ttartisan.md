@@ -2,6 +2,7 @@
 title: "Focus on the negative: AstrHori vs TTArtisan light meters"
 date: "2023-07-15"
 featured: "../images/lightmeters/title.jpg"
+tags: ["Gear", "Review", "Comparison", "Film Photography", "Light Meter"]
 ---
 
 As fun as fully manual cameras can be, and Sunny 16 as true as it can be (although it's more like Overcast 4 in Poland), a small and light meter of the light can be really useful. For larger cameras such as Bronica S2A, Mamiya RB67 or anything large format, carrying a handheld Sverdlovsk 4 is no big deal - it's also reasonably precise, ensuring that every (expensive) exposure comes out well. But for the likes of Canon P a hot shoe meter makes more sense.

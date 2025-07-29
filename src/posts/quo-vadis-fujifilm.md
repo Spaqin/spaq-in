@@ -2,6 +2,7 @@
 title: "Quo vadis, Fujifilm? One month with Nikon Zf"
 date: "2024-10-26"
 featured: "../images/fujicucked/big_black_lens.jpg"
+tags: ["Camera Review", "Fujifilm", "Nikon", "Gear", "Comparison", "Zf"]
 ---
 
 I went to North America again. To escape work, to escape myself, my circumstances. Well, for work-related reasons first and foremost, but I wouldn't have agreed if that was everything it was to it.

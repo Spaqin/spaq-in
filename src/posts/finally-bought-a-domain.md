@@ -2,6 +2,7 @@
 title: "Finally bought a domain!"
 date: "2021-01-23"
 featured: "../images/first-post.jpg"
+tags: ["Meta", "Web Development"]
 ---
 This is it.
 

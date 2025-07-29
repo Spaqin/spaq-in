@@ -2,6 +2,7 @@
 title: "Black and white developer recipes"
 date: "2021-04-15"
 featured: "../images/devrecipes.jpg"
+tags: ["Film Photography", "Film Development", "DIY", "Reference"]
 ---
 
 The infromation is slowly disappearing from the net. The other day I realized I cannot find the recipe for D-76d I've been using! So there's not much choice but to gather it myself and publish it, before it disappears again. The recipes here are gathered from different places, and I don't want to double the information you can find on [DigitalTruth](https://www.digitaltruth.com/data.php?doc=filmdevsabc). If you have any that are missing and could be rare, or if you have any remarks, feel free to [contact](/contact) me to update this page.

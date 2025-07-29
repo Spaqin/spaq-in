@@ -2,6 +2,7 @@
 title: "Focus On The Negative: Light Lens Lab Elcan 50mm f/2 LTM"
 date: "2023-04-22"
 featured: "../images/elelelcan/finger.jpg"
+tags: ["Lens Review", "Film Photography", "Leica M", "Rangefinder", "Gear"]
 ---
 
 From China with love, without any snark. And a little middle finger towards the red dot, too.

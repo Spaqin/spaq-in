@@ -2,6 +2,7 @@
 title: "Travelling to... Seychelles? Oh! Tango Suerte"
 date: "2025-07-11"
 featured: "../images/2025-Seychelles/ladigue/dargent-morning2.jpg"
+tags: ["Travel", "Seychelles", "Photography", "Gear", "Trip Report"]
 ---
 
 Ever heard a music album that transported you somewhere else, from the first note? That's not that rare. How about made you want to book a ticket somewhere else? I'd say two albums did it for me. Fishmans' music would mentally transport me to 90s Japan, but I cannot book a ticket to then. The second is Masayoshi Takanaka's **Seychelles**. From the first crisp guitar riff, I wanted to be teleported onto the beautiful beaches.

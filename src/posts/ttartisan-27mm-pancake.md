@@ -2,6 +2,7 @@
 title: "TTArtisan 27mm f2.8 Fuji X pancake review"
 date: "2022-11-05"
 featured: "../images/tta27/onxpro.jpg"
+tags: ["Lens Review", "Fujifilm", "TTArtisan", "27mm", "Gear"]
 ---
 
 I'm cheap. I'll get it out of the way first. I'm not loyal to anyone, except for low taxes, low prices. TTArtisan did a quick release - preview on one day, release the next - a 27mm pancake that could be easily mistaken with the Fuji one. A knockoff, you may think. I was interested, having received an X-Pro1 a while back, this could be a nice alternative to a rather expensive, even on second hand market, official Fuji lens. I thought to myself - if it's less than 200USD, I'll get it - worst case I'll sell it. The announced price - 160USD was definitely below that, so I was getting ready... but a quick look on Taobao revealed an even nicer surprise.

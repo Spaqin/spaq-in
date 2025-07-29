@@ -19,7 +19,9 @@ export const query = graphql`query ($slug: String!) {
   markdownRemark(fields: {slug: {eq: $slug}}) {
     frontmatter {
       title
-      date(formatString: "DD MMMM, YYYY")
+      displayDate: date(formatString: "DD MMMM, YYYY")
+      isoDate: date(formatString: "YYYY-MM-DD")
+      tags
       featured {
         childImageSharp {
           gatsbyImageData(width: 900, layout: CONSTRAINED)
@@ -40,7 +42,7 @@ const BlogPost = ({ data, pageContext }) => {
       <div className={postStyles.content}>
         <h1>{post.frontmatter.title}</h1>
         <span className={postStyles.meta}>
-            Posted on {post.frontmatter.date}{" "}
+            Posted on {post.frontmatter.displayDate}{" "}
             <span> / </span> {post.timeToRead} min read
         </span>
         {
@@ -102,5 +104,7 @@ export const Head = ({ data, location }) => {
             imageAlt={frontmatter.title}
             pathname={location.pathname}
             ogType="article"
+            tags={frontmatter.tags}
+            date={frontmatter.isoDate}
           /> 
 }

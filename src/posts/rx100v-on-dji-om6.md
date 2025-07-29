@@ -2,6 +2,7 @@
 title: "Can you make a bracket for RX100V for DJI Osmo Mobile 6?"
 date: "2024-02-22"
 featured: "../images/rx100vom6/title.jpg"
+tags: ["DIY", "Gear", "Sony RX100V", "DJI Osmo Mobile", "Gimbal", "Videography"]
 ---
 
 Osmo Mobile 6 is a light gimbal dedicated mainly for cellphones. And I got one for free. But you know what? I don't like my phone that much - a cheapo Xiaomi Mi9T makes decent pics, but it's not as good as this other lightweight camera I have - the Sony RX100V. Looking on the net, I'm seeing some 3D printed contraptions... well, I don't need it to be looking the other way, I won't be vlogging but I would probably set it only for timelapses. Besides, manual mentions quite strictly that it can support up to 290g.
@@ -85,5 +86,3 @@ Undeterred though I gave the motors a bit of a break, and set it up again. This 
 `youtube: https://youtu.be/rLCi6ozlm9o`
 
 Was it worth it for these results? Probably not. Was it a learning experience? For sure. On the other hand, the potential is still there - for special times, or with longer focal length, which phones cannot provide.
-
-

@@ -2,6 +2,7 @@
 title: "A delayed gweilo's perspective: Nostalgia Fair in Victoria Park, early June"
 date: "2023-06-13"
 featured: "../images/202364/fancycars.jpg"
+tags: ["Hong Kong", "Events", "Social Commentary", "Politics"]
 ---
 
 A bright, sunny Sunday. A welcome change of pace after a rainy week. Yes, it is hot and humid, and without sunscreen it may be dangerous to go outside, but I like this weather more than the cold. It would be a waste to spend the day indoors, to be honest. And running air conditioning gets expensive fast, too. 

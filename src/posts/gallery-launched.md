@@ -2,6 +2,7 @@
 title: "Gallery launched"
 date: "2021-02-14"
 featured: "../images/gallery_code_screenshot.png"
+tags: ["Meta", "Web Development", "Gatsby"]
 ---
 
 This was a pain.

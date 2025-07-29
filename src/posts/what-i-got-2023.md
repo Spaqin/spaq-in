@@ -2,6 +2,7 @@
 title: "What I got in 2023"
 date: "2024-01-07"
 featured: "../images/2023loot/front.jpg"
+tags: ["Gear", "Review", "Year in Review"]
 ---
 
 Like in the last year, I have decided to catalogue what I got in the last year. And there has been... Maybe less than I thought it would be, but still. But in a predictable way - 2022 was all over the place, this year is about finding range and few gadgets here and there - and it all fits on one picture this time! Let's have a look...

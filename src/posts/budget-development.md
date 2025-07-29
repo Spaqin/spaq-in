@@ -2,6 +2,7 @@
 title: "Developing film on a budget"
 date: "2025-02-08"
 featured: "../images/budgetdev/title.jpg"
+tags: ["Guide", "Film Photography", "Film Development", "DIY"]
 ---
 
 First of all: you don't need a darkroom. And also first of all: you don't need a "kit". 

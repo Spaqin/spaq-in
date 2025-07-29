@@ -2,6 +2,7 @@
 title: "The Void"
 date: "2021-03-11"
 featured: "../images/thevoid.png"
+tags: ["Philosophy", "Photography", "Gear"]
 ---
 
 During my first steps in photography, it seemed to me like the gear used was super important. Lenses, bodies. I mean, I had a Zenit ET for my first few rolls, so that was valid in a way. Not that I could afford much (or frankly, I decided not to spend too much), really, so I went with cheap, albeit effective options.

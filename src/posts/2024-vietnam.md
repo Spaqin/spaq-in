@@ -2,6 +2,7 @@
 title: "Traveling to Vietnam"
 date: "2025-01-15"
 featured: "../images/2024vietnam/hanoi/streetseller.jpg"
+tags: ["Travel", "Vietnam", "Photography", "Gear", "Trip Report"]
 ---
 
 Still having some annual leave left, I decided to go for a weeklong trip to Vietnam. That's one destination I've heard great things about - the food, the views; HK can be stifling too, so it was a break I really was looking forward to. Let's see what I have learned from this trip.

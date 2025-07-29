@@ -2,6 +2,7 @@
 title: "A delayed gweilo's perspective: Cheung Chau Bun Festival"
 date: "2023-06-05"
 featured: "../images/cheungchau/main.jpg"
+tags: ["Hong Kong", "Travel", "Events", "Social Commentary"]
 ---
 
 After three years of Kung Flu reign, Cheung Chau Bun Festival has returned onto the regular schedule. I haven't had the opportunity to see it myself yet, but having heard of it before - and given the fact that there's nothing else really happening in this city - I was very keen on attending. Especially since the date coincides with Buddha's Birthday, which this year came out to be Friday, 26th of May. 

@@ -2,6 +2,7 @@
 title: "My frustrations with Nikon Zf"
 date: "2025-02-23"
 featured: "../images/zfrustrations/title.jpg"
+tags: ["Camera Review", "Nikon", "Zf"]
 ---
 
 Since corporations get bigger and bigger, technical support gets abstracted away. Or offloaded. Or just doesn't exist anymore and it's a miracle if you can find one email address that should've been removed years ago to contact someone with your issue. Or if you'd like to give some feedback? The only feedback the company will listen to is the sound of money getting out of your wallet.
