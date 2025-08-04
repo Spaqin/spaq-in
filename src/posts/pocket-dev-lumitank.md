@@ -4,7 +4,7 @@ date: "2025-08-03"
 featured: "../images/lumitank/front.jpg"
 ---
 
-I've been searching aimlessly on TaoBao (to my own detriment). Generally I'm not too bad about not buying useless stuff, but I found an interesting ad.
+I've been searching aimlessly on TaoBao (to my own detriment). Generally I'm not too bad about not buying useless stuff, but unfortunately, I got nerdsniped by this.
 
 I've seen the "devtanks" where you're supposed to dump the film in and just dunk it in chemicals - I don't believe this could ever work properly, so I skipped it. But this one takes the film out and spools it. I am aware of Rodinax or LabBox, but these are much larger; this just takes... 77mL?
 
@@ -116,7 +116,7 @@ Well, let's start with pros and cons.
 Pros:
 
 + Small.
-+ Actuall works!
++ Actuall works.
 + Takes very little chemicals.
 + Can be loaded in daylight.
 + <100mL used means you can develop film on a plane.
@@ -131,7 +131,7 @@ Cons:
 - Doesn't work well with homespooled film.
 - Not sure about longevity.
  
-I would not recommend it as your only development tank, but it would work in a pinch, if you're careful. I was kinda hoping it would be completely broken/useless so I could throw it out, but now it's just gonna gather dust probably with very limited use cases. I could save money on the developer, but I also often shoot handrolled film.
+I would not recommend it (thus no link to the product) as your only development tank, but it could work in a pinch, if you're careful. I was kinda hoping it would be completely broken/useless so I could throw it out, but now it's just gonna gather dust probably with very limited use cases. I could save money on the developer (and possibly accept subpar results at times), but I also often shoot handrolled film.
 
 <div style="display:flex">
      <div style="flex:1;">
