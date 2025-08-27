@@ -104,8 +104,10 @@ module.exports = {
             options: {
               maxWidth: 900,
               linkImagesToOriginal: true,
+              ignoreFileExtensions: [`gif`],
             },
           },
+          `gatsby-remark-copy-linked-files`,
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
