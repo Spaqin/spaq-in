@@ -106,7 +106,6 @@ module.exports = {
               linkImagesToOriginal: true,
             },
           },
-          "gatsby-remark-gifs",
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
