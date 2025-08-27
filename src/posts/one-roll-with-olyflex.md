@@ -1,9 +1,11 @@
 ---
 title: "One roll with... Olympus Flex 2.8A"
-date: "2024-09-23"
+date: "2025-08-27"
 featured: "../images/olyflex/front.jpg"
 tags: ["Camera Review", "Film Photography", "Olympus", "Olympusflex", "TLR", "Medium Format"]
 ---
+
+Originally written on 2024-09-23.
 
 Or when you learn that Rolleiflex was not the only TLR with a f2.8 lens.
 
@@ -116,3 +118,13 @@ On the other hand, later I got an Autocord as a potential replacement, to sell e
 I'd still love to get a Fujicaflex (it's just beautiful), and out of sheer curiosity, a Seagull 4A/B. The fun thing about the Seagulls is that you can find a lens upgrade kit - for 600 CNY you may get a Planar lens instead of a Cooke triplet.
 
 On the three point scale, I would give it a solid "Very good for its purpose". Not exceptional and there's barely any reason to choose the Olyflex over another TLR, except for its rarity and 2.8 bragging rights. It would be unlikely that I will get rid of it though; like I said, everyone needs a TLR.
+
+# August 2025 update
+
+I sold the Minolta Autocord and kept the Olyflex. It went through minor repairs, replaced part of the leatherette, and most importantly, I replaced the focusing screen. The dimensions are 52x62x1.5mm. You can get a bright fresnel screen for 88CNY on Taobao, for Seagull 4A/B, and it fits perfectly; replacement takes 10 minutes with four screws and two springs. It's a bit grainier and made of plastic, but it doesn't really matter; the difference is massive!
+
+![Before](../images/olyflex/before.jpg)
+
+![After](../images/olyflex/after.jpg)
+
+Would definitely recommend that upgrade. Keep the old screen though, just in case :)
