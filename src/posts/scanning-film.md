@@ -187,3 +187,23 @@ Maybe get a Laowa macro lens instead of the 7artisans. There's no automatic film
 The TIFFs from G2P tend to be big, but I can also remove them after editing - it's unlikely I'll be going back to the images and adjusting them again. Worst case, I can rescan them later.
 
 Either way, if you'd like me to scan your film, feel free to contact me.
+
+# The real future as of 2025
+
+The main setup hasn't changed, mostly. Especially for 120 and 4x5. One caveat is that the included light doesn't satisfy me with regards to CRI, so I put the film holder on top of the Viltrox L116T that I got way back; I probably should get a sheet of acrylic (or two with some very long screws) to fully accomodate it.
+
+The scanning hardware also changed - I have the Nikon Zf with the absolutely stunning Nikkor 105mm macro lens. Sharpness or focusing are no problems anymore. Laowa is not the king of macro anymore.
+
+In 35mm there was one small change - I got the JJC scanning adapter. The biggest pro is that I don't have to set up a tripod and calibrate everything, just put a light behind it, easy. But even that solution required some problem solving to fully realize.
+
+First of all, the included tubes are too short, or too long. You can adjust the length a little bit, but that little bit isn't enough; it would either bring the negative too close for 1:1, or it would be too far and have a massive border around it.
+
+I solved it by buying 52mm filter extensions rings. Imagine a UV filter but without glass; that's basically it.
+
+There's the second issue, and that's with the film holders. They were REALLY close to getting it perfect for amateur film photographer use. You get a set of two film holders - one for mounted slides, one for negative strips. I will ignore the former, never had to use it. The latter has two main issues.
+
+First, it's designed for strips, of 6 pictures. That means you cannot slide through the whole roll, fresh after development. Somewhere in my backlog was learning CAD enough to 3D print a replacement that could do that. I contacted the support and I got thumbs up for the idea, but it was never realized, even in the second version of the product.
+
+The second issue is that there are straight columns, supposedly separating shots. Five of them, in fact. Too bad that it assumes the spacing between frames. Obviously that's going to interfere with panoramic images, such as taken with Widelux or Xpan; but even with my normal mechanical cameras, the spacing is rarely even, or fitting perfectly between the lines. It took me way too long to realize that these prongs are not structure supporting, so swiftly removing them with flush cutters helped things out.
+
+So if I have a long 35mm roll, I'll bring out the full setup. If I have 35mm strips, I'll just whip out the JJC.
