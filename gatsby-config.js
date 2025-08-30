@@ -73,6 +73,8 @@ module.exports = {
   plugins: [
     'gatsby-plugin-netlify',
     `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     "gatsby-plugin-postcss",
     "gatsby-plugin-sass",
     {
@@ -82,9 +84,7 @@ module.exports = {
         path: `${__dirname}/src`,
       }
     },
-    "gatsby-transformer-sharp",
     "gatsby-plugin-react-helmet",
-    "gatsby-plugin-sharp",
     { 
       resolve: "gatsby-transformer-remark",
       options: {
@@ -104,7 +104,6 @@ module.exports = {
             options: {
               maxWidth: 900,
               linkImagesToOriginal: true,
-              ignoreFileExtensions: [`gif`],
             },
           },
           `gatsby-remark-copy-linked-files`,
