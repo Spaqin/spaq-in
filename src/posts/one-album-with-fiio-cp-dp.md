@@ -116,3 +116,18 @@ Sound coming out isn't crystal clear, frequency is missing in the bass a fair bi
 There's only one issue I have with this device. When the tape is done, it will not stop automatically. Fast Forward or Rewind will also not unclick when they're done; the player will drain the battery in that time. So it's not perfect for pure pocket-only usage, if your hands are busy or you just forget to stop.
 
 Would I recommend it? Again, if you have a tapedeck already, there's little use. But if it's crap or you're looking for a new one, you can't go wrong with FiiO CP-13. It's supposedly serviceable; speed is adjustable, although not easily reachable.
+
+
+# But why bother if literally everything is more convenient?
+
+Hard not to agree with this. FLACs on HDD can be higher quality than CD; streaming allows you to listen to anything ever made, physical media can get damaged or lose quality over time with tapes.
+
+It's either a delusion or something else at play, right? Someone born too late, weird hipster guy trying to live in the past because he can't cope with the modern times. Probably.
+
+To me there is a point of regaining control, bouncing back from "you will own nothing and you will be happy". Insurance from losing internet on a plane; insurance from streaming services adding extra ads, worsening quality or demanding payment. That's covered by digital copies on a hard drive, phone or Zune.
+
+The other part is avoiding distractions. I like the Chinese word for a "smartphone", "hand machine". They're not very smart, nor they are used as phones, but they're in your hands and they're machines. Playing music will get you bombarded with notifications, or the mere temptation to check on social media, and two hours later you'll wake up from doomscrolling. On a PC it's not much different; opening a browser the first thing after logging in seem extremely natural. While it's the exact opposite.
+
+Services which now create the centre of the internet are designed by professional overpaid committees to keep you engaged for as long as they can, with colors, animation, ragebait. And I just wanted to listen to Long Season while on mushrooms. Now that's dangerous. Or play some jazz while doing house chores, or reading a book. And I still see more value in listening to the whole album (or a crafted mixtape) rather than a random shuffle of a playlist.
+
+One more thing is that I really don't just buy any album, I am not hoarding; I get the ones I like the most. The rest can live digitally. If I want to listen to something, I know it will be good, I just need to pick a genre. It's still not my main way of listening to music, but it's the main way of actually experiencing it.
