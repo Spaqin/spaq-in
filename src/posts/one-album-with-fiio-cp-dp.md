@@ -1,11 +1,11 @@
 ---
-title: "One album with... FiiO DP-13 and CP-13"
+title: "One album with... FiiO DM-13 and CP-13"
 date: "2025-09-07"
 featured: "../images/cpdp/cpdp.jpg"
 tags: ["music", "fiio", "players", "cd", "cassette"]
 ---
 
-Vinyl records have had their resurgence in the last decade or so; but they're not the only popular media from the past. CDs are kind of getting back, and so do cassettes. FiiO decided to capitalize on the upcoming popularity with CP-13 and DP-13.
+Vinyl records have had their resurgence in the last decade or so; but they're not the only popular media from the past. CDs are kind of getting back, and so do cassettes. FiiO decided to capitalize on the upcoming popularity with CP-13 and DM-13.
 
 Well, I never really gave up on CDs. I've been buying indie albums and maybe some bigger ones I really liked for a while. They're great. Artwork isn't as big as an LP, but still it's there, with the booklet and all, and quality is impeccable (assuming you're a normal person, not an audiophile). The vinyl ritual can be fun, but they're a decent compromise between convenience, quality and still having an experience with the whole album.
 
@@ -15,7 +15,7 @@ Cassettes are a bit different. Their quality isn't as good, you have to swap sid
 
 I would support local bands and buy their discs for a while now. My modus operandi for CDs was putting them into an USB drive, ripping and listening on PC or mobile. Then they went back on the shelf, as an ornament or a conversation piece in case of few more interestingly published albums. I did what I wanted - support artists, get the music, but when the USB drive started to fail I was a bit in a pickle.
 
-I wanted a separate music player for a while to enjoy them, but I also wanted the rip functionality. That was something obvious to me, have an USB connector and let it connect to PC to access the data like a normal CD drive. And yet, there's no device that does it. FiiO DP-13 almost gets there, but more on that later.
+I wanted a separate music player for a while to enjoy them, but I also wanted the rip functionality. That was something obvious to me, have an USB connector and let it connect to PC to access the data like a normal CD drive. And yet, there's no device that does it. FiiO DM-13 almost gets there, but more on that later.
 
 For the cassette player, I just wanted to play them in half decent quality. I got PlayMe locally, that's quite similar to a Tomashi F-113 you can find reviews of online. On paper, it seems neat - USB-C port for power or 2xAA, playback, recording, tiny speaker built-in and a microphone as well, but you can connect another one.
 
@@ -25,7 +25,7 @@ Problem was, it was shit. Recording from an audio device went really bad, and pl
 
 FiiO knows how to do audio. I've been using their DACs for a long time now, they offered digital players and amplifiers. Seems only natural, then, but these two (plus their turntable that I will not be getting) are a different beast. You're no longer dealing with just a stream of bits that travels from another source. you're dealing with mechanisms, lasers, pulleys and gears. If the mechanical part fails, the audio output doesn't get to shine, so they need to get it right as well. And it still has to be attractive enough so potential customers won't get an older, used device instead.
 
-![DP front](../images/cpdp/dpfront.jpg)
+![DM front](../images/cpdp/dpfront.jpg)
 
 It has an attractive, premium look and feel, especially with the transparent top. The device feels solid in hand, buttons click nicely. Feature wise is where it really shines, on paper - a built-in battery, a modern charging port, 3.5mm and 4.4mm balanced ports, anti-shake, and the recording to USB functionality, in two ways. Bluetooth connection to speakers if you splurge for that extra.
 
@@ -35,11 +35,11 @@ The lack of experience showed. I got it quite early with firmware that was a bit
 
 It seems quite simple on a first glance. From the top, there are seven buttons, for track choice, volume, power, play and three lines for repeat options. On the front, a segmented LCD and the two headphone jacks. On the right side, a slider to pop open the cover. The back - two config sliders, line out, optical line out and two USB-C connectors. It is certainly packed to brim, but also elegant. Seems like the bare minimum, but some of the buttons are overloaded.
 
-Initially, you hold the power button for a moment to turn the device on. It introduces itself with ``HELLO FIIO DP-13``. If there's a disk in the tray, it will read the TOC and stop it, waiting for you to press play again. It's a little annoying. Previous firmware would immediately start playing, even from the moment it was stopped before. That's annoying in a different way; I think playing right after bootup from the beginning would be alright, but it's not really configurable.
+Initially, you hold the power button for a moment to turn the device on. It introduces itself with ``HELLO FIIO DM-13``. If there's a disk in the tray, it will read the TOC and stop it, waiting for you to press play again. It's a little annoying. Previous firmware would immediately start playing, even from the moment it was stopped before. That's annoying in a different way; I think playing right after bootup from the beginning would be alright, but it's not really configurable.
 
 If you hold the power button for a moment again when the device is on, it will go into output choice menu. Preamp out (front jacks), SPDIF, Bluetooth or USB. A single tap switches between these options. I found to be using this menu the most; not really intuitive at the beginning, but you get the hang of it.
 
-![dp back](../images/cpdp/dpback.jpg)
+![dm back](../images/cpdp/dpback.jpg)
 
 The sliders in the back are bit interesting. Desktop mode shuts off the internal battery. If you don't use the device in a portable manner, you can use it to save the battery. The other is ESP, anti-shake protection. Manual mentions the audio quality may go down if you use it; that's because audio is read ahead and compressed into RAM, so during a shake hard enough, the device will switch to the data from memory, to ensure unbroken playback.
 
@@ -47,7 +47,7 @@ Generally speaking though, beyond the annoyances I mentioned earlier, playing mu
 
 ## Listening experience
 
-I'll be frank, I don't have any equipment to check it properly like I could a lens or a camera. I can only say that the DP-13 has no problem driving Sennheiser HD6XX. Music sounds better than from a digital source, even if it's technically inferior. Could be placebo.
+I'll be frank, I don't have any equipment to check it properly like I could a lens or a camera. I can only say that the DM-13 has no problem driving Sennheiser HD6XX. Music sounds better than from a digital source, even if it's technically inferior. Could be placebo.
 
 I can't say anything bad about Bluetooth either, but I don't have any audiophile grade equipment for that either. I'm just glad to put on the headphones and enjoy the sound without any extra distractions from apps, notification, dopamine hits.
 
@@ -57,11 +57,11 @@ By no means there is any magic in CD playback. Good quality players can do that;
 
 Just get a dedicated player.
 
-![dp top](../images/cpdp/dptop.jpg)
+![dm top](../images/cpdp/dptop.jpg)
 
 ## Recording
 
-We need to go back a little bit, to the realm of technicalities. Here's the extra feature that really pulled me over to this particular device. DP-13 has two ways of recording, one of which is beyond useless. Let's check that one first.
+We need to go back a little bit, to the realm of technicalities. Here's the extra feature that really pulled me over to this particular device. DM-13 has two ways of recording, one of which is beyond useless. Let's check that one first.
 
 I mentioned that there are two USB-C ports in the back of the device; one is called "USB REC". If you connect it to a PC, it will show as a soundcard. But it's for recording only. It sends the digital data directly over. You can use Audacity or some other software to save it. It's very close to having some use, if it worked the other way - as a headphone amplifier and DAC. 
 
@@ -71,15 +71,15 @@ And there are few extra limitations. One was with old firmware it would stop rec
 
 Additionally, it may be for whatever reason incompatible with your USB stick. In that case, it will just keep blinking "Recording" forever.
 
-The other two things that probably cannot be fixed is that the recording goes at 1x speed. Ripping takes real time, a 70 minute CD will take 70 minutes to copy. Plan ahead, or leave it on when you leave your home I guess. That's because you cannot playback and record at the same time; the outputs will stay silent while the DP-13 is diligently copying the data onto the USB drive.
+The other two things that probably cannot be fixed is that the recording goes at 1x speed. Ripping takes real time, a 70 minute CD will take 70 minutes to copy. Plan ahead, or leave it on when you leave your home I guess. That's because you cannot playback and record at the same time; the outputs will stay silent while the DM-13 is diligently copying the data onto the USB drive.
 
 The last is Sony DRM; I have a Klaxons CD that surprisingly is infected with the rootkit, and it will play, but not record. I don't know where this limitation comes from, but it's there.
 
 So. When it works, it works, and I don't have to get another USB drive just to rip my albums. But goddamn it's annoying.
 
-![DP angle](../images/cpdp/dpangle.jpg)
+![DM angle](../images/cpdp/dpangle.jpg)
 
-## Would I recommend the DP-13?
+## Would I recommend the DM-13?
 
 Yes, if you don't have a dedicated player yet. Despite its shortcomings and things we have taken for granted, or obvious 20 years ago. I can tell FiiO is doing CD playback from scratch, and with behavior different between different vintage devices, it was probably not easy to come up with a somewhat familiar and consistent menu.
 
