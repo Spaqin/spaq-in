@@ -87,13 +87,19 @@ Portraits come out lovely with that slight swirl, especially if you leverage a l
 
 I checked the lens against Canon 50/1.8 LTM and Nikkor 24-120/4 for a modern comparison, at infinity:
 
+// insert pics
+
 There's a noticeable midzone dip (as suggested by MTF charts in the Chinese article), but the corners look surprisingly good. They never reach modern levels, but they're great from f5.6 onwards.
 
-Here's a portrait test, at 1.5m.
+Here's a portrait test, at 1.5m. First was taken with the postcard at the centre, the second - upper left mid zone, where you would usually put your subject's head for a portrait with rule-of-three.
 
-// todo: actual tests
+// insert pics
 
-Few reflection images here:
+The centre looks usable even at f2, but it can - and does - get better when stopped down. At f4, it's basically perfect.
+
+In the mid-corner, situation isn't as good; midzone dip must be showing. For coping, I will say it's a pleasant blur that will hide small skin blemishes, and in real life, especially on film, it doesn't matter that much. For real though, stopping it down to 2.8 improves the situation dramatically, and at 4 we get good sharpness.
+
+As for reflections, we do have a multicoated lens, but it's multicoating from the 50s. Expectations are low, but in reality it's not too bad; surprisingly, with the sun at the edge of the image there is a slight loss of contrast. You will get ghosting though if you have the sun directly in the picture.
 
 # What's the verdict?
 

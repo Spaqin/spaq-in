@@ -1,0 +1,116 @@
+---
+title: "One roll with... Bronica EC"
+date: "2025-11-xx"
+featured: "../images/bronicaec/front.jpg"
+tags: ["Camera Review", "Film Photography", "Bronica", "EC", "medium format", "Gear"]
+---
+
+Bronica S2(A) is a popular cheap choice for 6x6 SLR, for many good reasons - besides the price, the glass is great, it makes a great sound, and it's all mechanical. Ergonomically it's a big brick, but it seems very difficult to improve.
+
+I've had mine for four years and I've taken some stunning images with it (check out the HK section in the gallery!). But as you can see, this article is not about the S2A.
+
+The main point of cope - it's all mechanical, it must be (eventually) fixable! - is a red herring. Sure, if you have unlimited resources, time, CNC and/or 3D printing capabilities, and this is your last camera, then probably you can get it working. In the real world though, you usually don't, and when the local sifu refused to take my camera for a cleaning/retensioning of the shutter along with Widelux, I got worried. It was working still, but for how long? I certainly won't have the dedication to repair it myself...
+
+There are few ways to go from here:
+- Just get another body if it breaks,
+- Sooner Or Later, Hasselblad (TM),
+- Upgrade to EC/EC-TL, with an electronic shutter.
+
+With the dream of Topcor-S 50mm F2 coming closer to realization (ordering stuff from Japan), I had to make my move. 
+
+Hasselblad, for one, would be far lighter, and with absolutely stunning glass available, but that step would be very expensive. Not beyond my means, but I wouldn't go to the plebeian 500 series; rather the focal plane shutter-equipped 2000 series, with the ultimate goal of getting the 110mm f2. If I'm going that way, I'll go all the way.
+
+But I'm not ready for that yet. I decided to let go of the S2A rather cheaply (otherwise it's hard to get any customers!), but keep the splendind Nikkor 50mm 2.8 and Zenzanon 150mm 3.5 lenses, and get an upgrade.
+
+# Upgrade path; EC or EC-TL?
+
+I didn't know much before, the EC/EC-TL were kinda on the side, and main spotlight was taken by S and S2(A), with the S2A being supposedly the top.
+
+The lenses and helicoids are compatible between S and EC series, but that's where the compatibility ends. Prisms, backs, ground glass are different. I kept the left hand trigger, but even that's not fully compatible - there's no bottom trigger.
+
+On the other hand, I wanted to get rid of the prism, but no one was biting for years. I used it once, forcing myself in the process; otherwise it is just a big, heavy block that would take space in my backpack. The backs are a shame, but I can skip the 6x4.5 back this time; that also got little use, albeit a bit more than the prism. I liked the brightscreen I had installed in the S2A, but I'll manage with the default choice.
+
+Last thing to consider was - EC or EC-TL?
+
+The prices were similar; EC-TL slightly more expensive. The main difference is in-body TTL metering and aperture priority auto mode; EC does not have that. Otherwise, the TL seems to support intermediate shutter settings, and does not accept the leaf shutter Nikkor 105mm lens.
+
+There is a chimney with a meter for EC, if you want TTL metering, but I realized I don't need that capability; given the nature of the camera, for most shots I would meter with an external device regardless. So I found a nice example, seemingly tested, with the original box.
+
+# Specs
+
+* Film type: 120/220 (medium format)
+* Frame size: 6x6, 6x4.5 backs available, 35mm pano also available from China
+* Shutter: Focal plane, cloth
+* Shutter speeds: B+4s-1/1000s (no intermediate speeds)
+* Flash sync speed: 1/60s
+* Flash sync: PC socket on the side
+* Lens mount: Bronica S
+* Focusing type: SLR
+* Mirror Lock-up: Yes
+* Self-timer: No
+* Battery: 4LR44, required (only B mode works without a battery)
+* Weight: Still fucking heavy
+
+# Human-Engineering
+
+The Bronica EC was announced in April 1972. That's 7 years after the introduction of S2, and 13 since the first camera, the Bronica D. The system seemed mature and with plenty of users, and yet unlike many other systems of the era, Bronica decided not to make a new mount, but rather, make the best of what there is.
+
+> The Zenza Bronica EC is the result of human-engineering research for easier handling.
+
+That's the first sentence in the manual. I'm stunned; while it's still not an easy camera to use for beginners, it's been improved, in small but significant ways, making it more pleasant to use.
+
+The next camera, Bronica SQ, was introduced in 1980. That system is fully incompatible with the EC or other previous cameras; getting rid of the focal plane shutter, and replacing them with electronic leaf-shutter lenses, using composite materials and cutting the weight down even further. That system survived until Bronica became a part of Tamron.
+
+But let's go back to the EC.
+
+## Upgrades over S2A
+
+I didn't think S2A can be really upgraded, and yet it was. Of course, the shutter is now controlled electronically; in lieu of incredible mechanical complexity that may fail slowly over time, this should last a long time (until it breaks suddenly). However, as someone who has a Minolta XD7 and Hexar RF, and loving these dearly, I am not afraid of that.
+
+The obvious thing is the shutter speed selector, moved from left to right, with the speed clearly visible from the top, rather than printed on the side, at an angle. Film/shutter winder is still there, meaning you cradle the camera with your left hand and perform these operations with the right, rather than juggling between the two. I really like how the shutter setting is clearly visible, without flipping the camera on the side. There's one downgrade from S2A though - the shutter speeds are discrete now; you cannot set it in-between for intermediate speeds. Not that it's ever been a problem, or that I ever used it on my previous body.
+
+On the other side, you will find the PC flash socket, and the mirror lock-up lever. It's not clear on the body itself; there's a button you need to hold while you move a lever. I haven't had much issue with mirror slap in practice, even with my lightweight sub-1kg carbon fiber Chinese tripod, but it's a welcome addition.
+
+And it is indeed mirror lock-UP; not a misuse of a popular term. The mirror goes up now. In the original S series, it went down, uniquely; don't think there was another camera that did that; now it's (boring) normal. The original intention was to have lenses go deeper into the body for better optical performance. That had some issues though - for longer lenses, the image would vignette slightly as there was a bit of a missing mirror at the bottom. This has been alleviated, and the EC's mirror has two parts. Not that I will be using this camera with 400mm+, but it's there.
+
+The important caveat here is that it does seem like the Zenzanon 100mm f2.8 and Nikkor 105mm f3.5 (leaf shutter) _barely_ fit with addition of the lower mirror, and the helicoid must be fully extended before installing, otherwise you may hit and break the mirror. That's the closest Zenza got to lens incompatibility between the EC and older bodies.
+
+The shutter will now wind with an empty back. The backs also allow explicit multiple exposure; unlike S2A where you had to take the back off, and reload the shutter on its own. But normal usage hasn't changed - you can still load the first picture from zero, and then wind film with shutter together, and then roll the rest of the film when you're done with one lever.
+
+Backs themselves have also been upgraded. The lock on the backs to open is sturdier as well; I had knocked it by accident before on S2A, here you have to hold one button and press another. The smart (IMO) system where you press the dark slide to remove the back is still there, and so is the interlock - you can't shoot unless the dark slide is fully removed. And when you do remove it, now there's finally a space to put the dark slide (other than your pocket or your mouth), in the back of the back! And if you do need to roll the film without the body attached, there's a pull-out lever to help you out, improving ergonomics again. 
+
+Now, for the top part of the camera, there's the waist level finder. How can you improve on that? Once you slide the lock, it opens neatly, and loupe is available if you slide the lock again. I kind of liked the neat hack of tapping the lid against the walls to pop the loupe out in the S2A, but here it's impossible. The WLF will fold fully if you push the lid back down; no need to fiddle with the sides first like on S2A. I mean, it's a silly feature; I think most TLRs 20 years prior already did that, but damn it does feel nice. The ergonomics of closing the lid have won over the coolness of tapping for loupe.
+
+The ground glass is held in a frame. Designers definitely considered the most likely use case. That is, not to change the ground glass; that's not quick as it's held by metal tabs, but it's very easy to clean it. One lever and it pops up for easy cleaning, like a cat flipping over so you can pet its belly. Swipe it with a brush or microfiber, and pop it back in.
+
+Truly, humanly engineered, with ergonomics in mind. I can't believe I'm ecstatic about a product from early 1970s; but it feels like lost art. It's still a bit quirky, but the designers have done their best to improve the experience.
+
+# One roll
+
+## Image quality
+
+This hasn't changed one bit. Glass is the same. Shutter is the same, maybe more accurate.
+
+Most of these cameras come with Nikkor-P(C) 75mm f2.8. It's a standard lens that recedes deep into the body. Nikon has made great lenses pretty much the whole time (just don't ask what they've been doing in 43-86). It's not the fastest, but it's solid; in real life I probably couldn't tell the difference between that and the Hasselblad kit lens, Zeiss' 80mm f2.8.
+
+But that's a bit... normal. If you just wanted to shoot 75mm, you could get a TLR; maybe with a worse lens, but if you stop down, you'll get very close results.
+
+The other lenses I have are Nikkor-O(C) 50mm f2.8 and Zenzanon 150mm f3.5. The first has gotten some use and gave me nice images; the latter I've used far more, and not just for portraits. That's the lens I would shoot Hong Kong landscapes with, from a high point, focusing on the dense urbanization. Wide open for portraits, stopped down for fireworks.
+
+Thankfully there's no medium format camera to test these lenses with, and pixel peep the results. I would probably be devastated.
+
+## How did it turn out?
+
+Regardless, to test the camera, I put a roll of (expired) Ilford FP4+ into the back. The gears felt a bit like slipping or skipping before reaching the first shot, worrying me a little. Later though it was quite smooth; and after developing it turned out that there was no issue with frame spacing, overlapping or anything like that.
+
+Above I described all the ergonomic changes over S2A; and I enjoyed every one of them. I found myself still going for the side walls of the WLF when closing it; that's how familiar, but improved, it felt. Besides that, I was very happy to find that everything worked fine. Fast and slow shutter speeds, aperture, focus was on point as well. 
+
+# Conclusions
+
+I thought the S2A would be another forever camera that I would never sell (and not just because Hongkies will never look at anything that's not top of the line). I've used it a lot, albeit only in Hong Kong, due to how heavy it is, but in many different circumstances where it never really failed me. But the reality fact-checked me.
+
+Still, I'm quite happy with the next step. The EC is not a must upgrade for S2 owners - it does the same things, using the same lenses. But it's just so much nicer to use; if I knew, I would go directly over there, even though in that case I probably wouldn't be able to appreciate the extra effort from Zenza. I guess it all depends on your perspective on electronic vs mechanical cameras. 
+
+I don't mind some electronics, but in practice, when it comes to maintaining, it's a matter of complexity. A medium format, focal plane SLR with speeds up to 1/1000th of a second will be far more complex than a TLR with a leaf shutter, where there is basically nothing to break. Electronic control was the way to avoid hundreds of tiny gears and springs neatly tucked into the body (and to decrease manufacturing costs too, for sure). Capacitors seem to be the most common issue in such circuits, and these are still common and relatively simple to replace; unlike fully mechanical devices that may need parts that are no longer available.
+
+On the scale? It's hard for me to say. It's still relatively big and heavy compared to Hasselblad, so it's not a camera to be taken everywhere with you; but it also does what it can very well. The middle of the three-point scale, where it's a device that is adequate to its purpose seems fitting; it does not exceed, but it gets very close there, and in a pinch I wouldn't mind taking it for street photography. I occassionally will anyway, probably.
