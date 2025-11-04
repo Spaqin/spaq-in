@@ -11,7 +11,7 @@ const title = "Misc"
 const Misc = () => {
   const query = useStaticQuery(graphql`query MiscImages {
   allFile(
-    filter: {extension: {eq: "jpg"}, relativeDirectory: {glob: "gallery/hk"}}
+    filter: {extension: {eq: "jpg"}, relativeDirectory: {glob: "gallery/HongKong"}}
   ) {
     edges {
       node {
