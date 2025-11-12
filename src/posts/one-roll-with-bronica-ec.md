@@ -51,6 +51,22 @@ There is a chimney with a meter for EC, if you want TTL metering, but I realized
 * Battery: 4LR44, required (only B mode works without a battery)
 * Weight: Still fucking heavy
 
+# Medium format SLRs - what are they all about?
+
+It's easy for me to jump over directly towards comparisons with the Bronica S2A; or even Mamiya RB67. But for those readers who never had a medium format system SLR, it might be hard to imagine. The ergonomics are completely different from your typical 35mm camera, which you hold in front of your face.
+
+These cameras can be basically reduced to a cube with a lens in front, film back in the back. As they're usually equipped with a waist level finder, you cradle the camera in your hands, looking down on top; right hand's index finger ready to shoot with the shutter button located on the front, bottom left (when the camera facing us). Left hand would usually be the focusing one. Film winder on the right as well. The process is not difficult, but also not fast, but it shouldn't be if you're planning your shot meticulously. The exact details differ between the systems, and they're covered in their manuals, so I will not describe the operation in here.
+
+There are no ergonomic handles, and they're not really deigned to be carried all the time, especially at their weight. Tripods are their main spot, designed for studio, but it doesn't stop anyone from taking them out for street photography.
+
+The lightest camera in this category (at 6x6 or bigger, at least) would be the Hasselblad series, at roughly 1.5kg, with a standard lens and back. Bronica is significantly heavier, at 2kg; the RB67 at 3kg. Add a prism, and that's an extra kilogram as well. There are large format cameras that are lighter than them. They're also often very complex internally and difficult to repair.
+
+What they offer though, is impeccable image quality with dedicated lenses; more ambitious than 3 or 4-element constructions found in lighter TLRs. Their main use when they were first released was studio, portrait, weddings, advertising. They had to pull their weight on that front. The Bronicas in here have a focal plane shutter, allowing shooting at 1/1000 of a second, for super shallow depth of field; the Mamiyas and Hasselblad 500-series - a leaf shutter for flash sync at full 1/400-1/500s. Their modularity also includes removable backs - you could switch between film very quickly, for example between color and black-and-white; or preloading and then reloading - important given how twiddly 120 film can be, potentially saving the photographer in a time-sensitive situation like a wedding.
+
+They used to be the workhorses in studios. Professional cameras for professional photographers; now in hands of the amateur you or me.
+
+Bronica EC was not the first, nor the last in that category.
+
 # Human-Engineering
 
 The Bronica EC was announced in April 1972. That's 7 years after the introduction of S2, and 13 since the first camera, the Bronica D. The system seemed mature and with plenty of users, and yet unlike many other systems of the era, Bronica decided not to make a new mount, but rather, make the best of what there is.
@@ -59,9 +75,7 @@ The Bronica EC was announced in April 1972. That's 7 years after the introductio
 
 That's the first sentence in the manual. I'm stunned; while it's still not an easy camera to use for beginners, it's been improved, in small but significant ways, making it more pleasant to use.
 
-The next camera, Bronica SQ, was introduced in 1980. That system is fully incompatible with the EC or other previous cameras; getting rid of the focal plane shutter, and replacing them with electronic leaf-shutter lenses, using composite materials and cutting the weight down even further. That system survived until Bronica became a part of Tamron.
-
-But let's go back to the EC.
+In this case, it really is simple. A single focus ring, in front, shutter selector and film winder on the right; film backs releasable with a gentle push of the darkslide. The weight and shape make a device that is not what you would call ergonomic these days, and yet, your hands and fingers know where to go to perform the tasks they need to do. To fully appreciate the changes, I will have to compare it to the S2A after all; even if you haven't had one in hands before, the next section should still paint a good picture on how it really feels to use the EC.
 
 ## Upgrades over S2A
 
