@@ -75,7 +75,7 @@ Let's put it into practice. I put the lens on my Nikon Zf with Techart TMZ-02 au
 
 I was surprised how modern the image looks like, with quite high contrast, even wide open, but improving immediately at f2.8. Frankly, I get very usable images at f2 already, so I rarely feel the need to stop down, if the subject is near the centre.
 
-Corners are looking pretty good too. The only problem is vignetting at f2, that suddenly disappears at f2.8.
+Corners are looking pretty good too. The only problem is vignetting at f2, that gets much better already at f2.8.
 
 The lens is multicoated and it does a decent job, especially given the age (frankly, I've seen modern Chinese lenses do much worse). With sun right outside the frame you can get some ghosting, but the advice is... don't do that, unless you want the flare? I don't like using lens hoods, especially for small vintage lenses, so I will just accept it as-is.
 
@@ -100,6 +100,8 @@ The centre looks usable even at f2, but it can - and does - get better when stop
 In the mid-corner, situation isn't as good; midzone dip must be showing. For coping, I will say it's a pleasant blur that will hide small skin blemishes, and in real life, especially on film, it doesn't matter that much. For real though, stopping it down to 2.8 improves the situation dramatically, and at 4 we get good sharpness.
 
 As for reflections, we do have a multicoated lens, but it's multicoating from the 50s. Expectations are low, but in reality it's not too bad; surprisingly, with the sun at the edge of the image there is a slight loss of contrast. You will get ghosting though if you have the sun directly in the picture.
+
+There's a slight issue with focus shift. Stepping down to f4 moves the focus slightly behind the subject; it's not too far to completely lose focus so it won't matter that much in real life, but it's something to keep in mind when using the lens with a rangefinder.
 
 # What's the verdict?
 
