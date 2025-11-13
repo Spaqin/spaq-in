@@ -49,7 +49,7 @@ There is a chimney with a meter for EC, if you want TTL metering, but I realized
 * Mirror Lock-up: Yes
 * Self-timer: No
 * Battery: 4LR44, required (only B mode works without a battery)
-* Weight: Still fucking heavy
+* Weight: Still fucking heavy (2004g with lens, film back, waist level finder)
 
 # Medium format SLRs - what are they all about?
 
@@ -75,7 +75,21 @@ The Bronica EC was announced in April 1972. That's 7 years after the introductio
 
 That's the first sentence in the manual. I'm stunned; while it's still not an easy camera to use for beginners, it's been improved, in small but significant ways, making it more pleasant to use.
 
-In this case, it really is simple. A single focus ring, in front, shutter selector and film winder on the right; film backs releasable with a gentle push of the darkslide. The weight and shape make a device that is not what you would call ergonomic these days, and yet, your hands and fingers know where to go to perform the tasks they need to do. To fully appreciate the changes, I will have to compare it to the S2A after all; even if you haven't had one in hands before, the next section should still paint a good picture on how it really feels to use the EC.
+In this case, it really is simple. A single focus ring, in front, shutter selector and film winder on the right; film backs releasable with a gentle push of the darkslide. The weight and shape make a device that is not what you would call ergonomic these days, and yet, your hands and fingers know where to go to perform the tasks they need to do. 
+
+It's quite visible that Zenza was proud of this camera, and their brand. You will find "Zenza Bronica" mentions 7 times on this device, starting from the very obvious ones:
+* Lens cap,
+* In front, below the finder,
+To less visible, on the:
+* Film back,
+* Film back hinge underneath,
+* Dark slide,
+* Focusing helicoid,
+* Rear of the waist level finder.
+
+In case you ever forget.
+
+To fully appreciate the changes, I will have to compare it to the S2A after all; even if you haven't had one in hands before, the next section should still paint a good picture on how it really feels to use the EC.
 
 ## Upgrades over S2A
 
