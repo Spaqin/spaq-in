@@ -46,11 +46,11 @@ In late 1958, the f1.8 version has been designed, with a similar optical formula
 
 # Handling
 
-<div class="image-grid">
-    <div class="image-container">
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
         <img src="../images/topcor/product/aperture.jpg" alt="Topcor 5cm f/2 scale">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/product/on_camera.jpg" alt="Topcor 5cm f/2">
     </div>
 </div>
@@ -63,11 +63,11 @@ First impressions? It's heavy, and a bit bigger than I thought. LLLcan is more p
 
 The barrel is solid. Focusing is smooth and quick, thanks to the short throw mentioned earlier, and the focus tab. The focusing set mark is at an angle, towards the viewfinder, like Canon.
 
-<div class="image-grid">
-    <div class="image-container">
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
         <img src="../images/topcor/product/focus_scale.jpg" alt="Topcor 5cm f/2 focus scale">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/product/focus_tab.jpg" alt="Topcor 5cm f/2 focus tab">
     </div>
 </div>
@@ -86,11 +86,11 @@ In real life, no. With the exception of Tessar. Tessar sucks, despite whatever m
 
 What matters is if the image is sharp enough for your use case, if you like the outcome (see: [The Void](./the-void.md)). Arguing online about the look of the out-of-focus parts of the image should be left to the truly dedicated; real jobs are shot on zoom lenses that are almost infamous for terrible boke.
 
-<div class="image-grid">
-    <div class="image-container">
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
         <img src="../images/topcor/samples/balloons.jpg" alt="balloons">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/samples/canary.jpg" alt="canary">
     </div>
 </div>
@@ -102,14 +102,14 @@ So I will enjoy the weird thing about glass being shaped in specific ways and pu
 
 Let's put it into practice. I put the lens on my Nikon Zf with Techart TMZ-02 autofocus adapter. AF worked flawlessly (to the extent the adapter works, at least).
 
-<div class="image-grid">
-    <div class="image-container">
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
         <img src="../images/topcor/samples/boats.jpg" alt="balloons">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/samples/fish.jpg" alt="barge">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/samples/barrels.jpg" alt="barrels">
     </div>
 </div>
@@ -118,11 +118,11 @@ I was surprised how modern the image looks like, with quite high contrast, even 
 
 Corners are looking pretty good too. The only problem is vignetting at f2, that gets much better already at f2.8.
 
-<div class="image-grid">
-    <div class="image-container">
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
         <img src="../images/topcor/samples/barge.jpg" alt="fish">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/samples/fisherman.jpg" alt="fisherman">
     </div>
 </div>
@@ -133,14 +133,14 @@ Distortion is virtually non-existent.
 
 Portraits come out lovely with that slight swirl, especially if you leverage a leafy background. And besides some bragging rights and nerding out about lens design, that's the main reason to get this lens; you can get a better sharpness performance with cheaper, modern equipment, but the backgrounds will look... different.
 
-<div class="image-grid">
-    <div class="image-container">
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
         <img src="../images/topcor/samples/ship.jpg" alt="Tsim Sha Tsui">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/samples/traffic.jpg" alt="Shenzhen traffic">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/samples/kot.jpg" alt="kot">
     </div>
 </div>
@@ -152,27 +152,27 @@ I checked the lens against Canon 50/1.8 LTM and Nikkor 24-120/4 for a modern com
 
 ![View at infinity](../images/topcor/inf/view.jpg)
 
-<div class="image-grid">
-    <div class="image-container">
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
         <img src="../images/topcor/inf/center.jpg" alt="Infinity center crop">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/inf/mid.jpg" alt="Infinity mid crop">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/inf/corner.jpg" alt="Infinity corner crop">
     </div>
 </div>
 
 There's a noticeable midzone dip (as suggested by MTF charts in the Chinese article), but the corners look surprisingly good. They never reach modern levels, but they're great from f5.6 onwards.
 
-Here's a portrait test, at 1.5m. First was taken with the postcard at the centre, the second - upper left mid zone, where you would usually put your subject's head for a portrait with rule-of-three.
+Here's a portrait test, at 1.5m. First was taken with the postcard at the centre, the second - upper left mid zone, where you would usually put your subject's head for a portrait with rule-of-three. I refocused on these shots.
 
-<div class="image-grid">
-    <div class="image-container">
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
         <img src="../images/topcor/closeup/center.jpg" alt="Closeup center">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/closeup/topleft.jpg" alt="Closeup top left">
     </div>
 </div>
@@ -183,20 +183,20 @@ In the mid-corner, situation isn't as good; midzone dip must be showing. For cop
 
 As for reflections, we do have a multicoated lens, but it's multicoating from the 50s. Expectations are low, but in reality it's not too bad; surprisingly, with the sun at the edge of the image there is a slight loss of contrast. You will get ghosting though if you have the sun directly in the picture.
 
-<div class="image-grid">
-    <div class="image-container">
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
         <img src="../images/topcor/coatings/pos1.jpg" alt="Sun position 1">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/coatings/pos2.jpg" alt="Sun position 2">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/coatings/pos3.jpg" alt="Sun position 3">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/coatings/pos4.jpg" alt="Sun position 4">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/coatings/pos5.jpg" al="Sun position 5">
     </div>
 </div>
@@ -205,11 +205,9 @@ As for reflections, we do have a multicoated lens, but it's multicoating from th
 
 There's a slight issue with focus shift. Stepping down to f4 moves the focus slightly behind the subject; it's not too far to completely lose focus so it won't matter that much in real life, but it's something to keep in mind when using the lens with a rangefinder.
 
-<div class="image-grid">
-    <div class="image-container">
-        <img src="../images/topcor/focusshift/center.jpg" alt="Focus shift">
-    </div>
-</div>
+![focus shift](../images/topcor/focusshift/center.jpg)
+
+_I focused on the tip of the plant. It's a little blurrier at f4._
 
 # What's the verdict?
 
@@ -217,11 +215,11 @@ In the three-point scale, this lens exceeds my expectations. I kind of expected 
 
 Now, to factor in the price and availability... don't get it unless you really want to, and check the state carefully before buying if you can. It is a piece of precision equipment that in the oldest version will reach 70 years soon. Some haze could kill the high contrast this lens offers, making it no different from other LTM offerings. And Japan is an unforgiving place for their storage, fungus growing too easily. They really should build a massive dehumidifier on top of Mt. Fuji to preserve all the forgotten photography equipment across whole Honshu.
 
-<div class="image-grid">
-    <div class="image-container">
+<div style="display:flex">
+     <div style="flex:1;padding-left;">
         <img src="../images/topcor/samples/bench.jpg" alt="bench">
     </div>
-    <div class="image-container">
+     <div style="flex:1;padding-left:10px;">
         <img src="../images/topcor/samples/palms.jpg" alt="palms">
     </div>
 </div>
