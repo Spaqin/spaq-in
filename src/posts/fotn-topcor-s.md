@@ -2,7 +2,7 @@
 title: "Focus On The Negative: Topcor-S 50mm f/2 LTM"
 date: "2025-11-24"
 featured: "../images/topcor/product/main.jpg"
-tags: ["Lens Review", "Film Photography", "Leica M", "Rangefinder", "Gear"]
+tags: ["Lens", "Review", "Film Photography", "Leica M", "Rangefinder", "Topcor-S", "50mm", "Gear"]
 ---
 
 Here's a unique piece from a forgotten company. Something I've heard briefly about - the only Biotar lens in LTM, and a favorite of some guys online. The Biotar thing you might've heard of before, as it's the formula of the most overpriced cheap lens in the world - the Helios 44, mostly known for the swirly boke effect.
@@ -94,7 +94,8 @@ What matters is if the image is sharp enough for your use case, if you like the 
         <img src="../images/topcor/samples/canary.jpg" alt="canary">
     </div>
 </div>
-_Yeah there's a little swirl in these._
+
+_Yeah there's a little 'Biotar' swirl in these._
 
 So I will enjoy the weird thing about glass being shaped in specific ways and put in specific places, in that little corner of the hobby. Not too much. Images come first.
 
