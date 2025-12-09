@@ -57,7 +57,7 @@ Since it's both clear and matte in one part, it is slightly more difficult to ac
 
 I mean, it's rather simple: take normal acrylic, mask off clear parts and sandblast the middle. It's just that it's a manual job. I ordered a bunch. The effect is not perfect but for me it's convincing enough and functional.
 
-~~If you wish a replacement as well (glass broken or missing), I can sell the ones I got. Contact me for details.~~ All five were sold. I could probably reach out to the seller and make another batch - however I do warn that the price is unclear and dependent on the quantity made.
+~~If you wish a replacement as well (glass broken or missing), I can sell the ones I got. Contact me for details.~~ All five were sold. If there is enough demand, I might reach out to the seller and make another batch - however, the price is obviously dependent on the quantity made. Contact me if you're interested.
 
 <div style="display:flex">
      <div style="flex:1;">
