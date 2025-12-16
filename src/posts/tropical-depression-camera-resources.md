@@ -1,7 +1,7 @@
 ---
 title: "Tropical Depression: Hong Kong Camera Resources"
-date: "2025-10-xx"
-featured: "../images/hkcam/title.jpg"
+date: "2025-12-17"
+featured: "../images/tdcamres/title.jpg"
 tags: ["Hong Kong", "camera", "film", "lab"]
 ---
 
@@ -27,6 +27,10 @@ For modern digital gear, that's also where I got myself pretty much everything; 
 
 Have a look around the three floors, and if you're looking for something specific, don't be afraid to ask, the sellers are usually quite friendly and not bad with English. You can sometimes haggle a little, and if you pay by card they'll usually add 3% extra fee.
 
+![Sim City entrance](../images/tdcamres/simcity.jpg)
+
+_Entrance to the mall_
+
 Google Maps link: https://maps.app.goo.gl/mnA3ioByPjPLAky87
 
 ### HKCamera
@@ -40,6 +44,10 @@ He also does in-house development of black and white and C-41, but only with sca
 Google Maps link: https://maps.app.goo.gl/XnPp7vFoNY81pQTC9
 
 ### Sunrise Photo
+
+![Sham Shui Po in pinhole](../images/tdcamres/ssppinhole.jpg)
+
+_Pinhole view of SSP_
 
 That's a bit of an oddball in Sham Shui Po. It carries normal lenses at decent price; some cheaper point and shoots. And they have a whole row of TLRs, probably the most exciting part of this. I got my Minolta 100mm f2.5 there and generally the seller is blunt, but honest. Prices were alright. Visit if you're in the area, but I wouldn't make a special trip just to there.
 
@@ -68,6 +76,10 @@ Google Maps link: https://maps.app.goo.gl/kSUhgc3M686wtysR8
 
 Located in Mong Kok, this tiny shop has a much more convenient location. In house they only do C-41 at a bit higher price than CFP. However, they make it up with 30 minute development time. You can easily go there, walk around Sim City, Pet Street or get some quick food, and go back to grab your negs. However if you do that, don't let them stay too long - I almost never get a receipt, so I rely on my gweilo face being unique enough so they know which negatives are mine.
 
+![Inside of Trueface](../images/tdcamres/trueface.jpg)
+
+_Inside of this tiny lab._
+
 You can pay with cash or PayMe only.
 
 Google Maps link: https://maps.app.goo.gl/yh1N474KexDRdNwU6
@@ -84,11 +96,19 @@ Google Maps: https://maps.app.goo.gl/xnoc36Ffp4SnAXi18
 
 ## CCD cameras
 
+![busy Sham Shui Po](../images/tdcamres/sspwide.jpg)
+
+_Sham Shui Po can be very busy._
+
 The misunderstanding of the photo taking is thankfully concentrated in Sham Shui Po area. Expect the places to be crowded at all times with mostly big6 customers.
 
 ### Sham Shui Po street market
 
+![hanging CCDs](../images/tdcamres/ccds.jpg)
+
 From Exit C, turn right. You'll find it easily. There's a proper shop also behind it. Smaller embassy of CCD is in one of the alleys as well. Generally if you walk around, you're bound to find something.
+
+![typical shop in SSP](../images/tdcamres/sspshop.jpg)
 
 ### New Computer Plaza
 
@@ -120,6 +140,10 @@ Link: https://www.dcfever.com
 
 How can I not mention it? That's the marketplace for mainland China; if you want to get a new Chinese lens, that's closest to the source. However that doesn't mean it's the cheapest - I found some lenses in Sim City for less than the Taobao price.
 
+It also applies to film - Chinastill (deremjetted Vision 3), Aeronega (Aerocolor) or Lucky 200 (review coming soon) and various black and white emulsions are usually cheaper than locally. That's my main source of film.
+
+Same goes for cheap accessories like CPL filters. Maybe not Marumi or other top Japanese brands, but I respect Zomei.
+
 ## Price.com.hk
 
 It's a price comparison site, and it does list the shops and whatnot, but it doesn't deal with sales directly. Contact the shops to ask if they really have the thing you want in stock - they usually don't.
@@ -133,6 +157,10 @@ What if your camera breaks? There are few local repairmen, but I only tried two 
 Located in Friend's House in Tsim Sha Tsui, it's a bunch of older guys who aren't particularly nice or are particularly great with English, but that's okay; they know their shit.
 
 They fixed my Hexar RF (twice) at a reasonable rate; not particularly cheap, but not outrageous either. They seem to work on both analog and digital cameras, but to what extent I cannot be sure.
+
+![Tsim Sha Tsui Clock Tower](../images/tdcamres/tst.jpg)
+
+_First pic taken with the Hexar RF they fixed._
 
 Google Maps link: https://maps.app.goo.gl/KFJ5zPdKKJtVuyoP6
 
