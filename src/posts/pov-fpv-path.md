@@ -2,7 +2,7 @@
 title: "POV: you become an FPV pilot - my path to flying FPV quads"
 date: "2026-01-xx"
 featured: "../images/fpv/title.jpg"
-tags: ["fpv", "gear", "drones"]
+tags: ["fpv", "gear", "drones", "quadcopters"]
 ---
 
 FPV drones were always there, on the fringe of cinema, or model aircraft; it seemed very DIY; some impressive videos would come out from time to time as well, but the details were murky. Parts lists? All these models don't tell me anything. The hobby became more popular in the recent years though, and I decided to take a closer look.
@@ -11,7 +11,7 @@ I've been using a drone for my photography and videos before, the DJI Mini 3 Pro
 
 Not going to lie, there was a certain allure from the Eastern Europe that pulled me in at the beginning. One way to be a little more useful to not become cannon fodder. The reality is that the pilots still need to be pretty close to the frontline anyway so it's not the best idea to increase survival; it won't help avoid artillery shelling.
 
-In this article I will show you my process, starting from early 2024, up to now. It's not a guide - for these, [Oscar Liang's website](https://oscarliang.com/) or [Joshua Barwell's videos](https://www.youtube.com/channel/UCX3eufnI7A2I7IkKHZn8KSQ) will serve much better; but they often go deep into topics which you may have no idea about. I do believe though that many beginners will go through similar path as me, and may be interested how to navigate them; and what would I want to know in a nutshell, if I went through it again?
+In this article I will show you my process of getting into FPV drones - or commonly, quadcopters (or quads), starting from early 2024, up to now. It's not a guide - for these, [Oscar Liang's website](https://oscarliang.com/) or [Joshua Barwell's videos](https://www.youtube.com/channel/UCX3eufnI7A2I7IkKHZn8KSQ) will serve much better; but they often go deep into topics which you may have no idea about. I do believe though that many beginners will go through similar path as me, and may be interested how to navigate them; and what would I want to know in a nutshell, if I went through it again?
 
 # Bare minimums
 
@@ -47,7 +47,7 @@ I didn't really believe when online commenters would say that a simulator is nec
 
 So for starters I pirated _TRYP_ and _LiftOff_. The first had nice graphics and free-roaming mode, but a pretty bad tutorial, the latter has a decent tutorial, but is more focused on racing. There are few other available, like Uncrashed and Velocidrone, but for the tutorial itself, I'd recommend LiftOff.
 
-It will teach you the basics. Some throttle control, how to fly forward and back, how to turn. These are not trivial things. Races are there to give you an objective - to teach you how to control the quad to get where you want. Practice that. A lot. Do remember that in real life drones will feel different, but you're only here to get basic muscle memory, rather than fine tuning your movements.
+It will teach you the basics. Some throttle control, how to fly forward and back, how to turn. These are not trivial things. Races are there to give you an objective - to teach you how to control the quad to get where you want. Practice that. A lot. Do remember that in real life quads will feel different, but you're only here to get basic muscle memory, rather than fine tuning your movements.
 
 I ended up getting legit versions of Velocidrone and LiftOff after all.
 
@@ -55,7 +55,7 @@ You'll find plenty of opinions that Velocidrone has most realistic physics, but 
 
 Anyway, the point is to practice. Races will push you to fly faster and faster, but in real life you'll also need to manouver slowly at times and land (that's the one trick that FPV pilots cannot do), so even if it's not very exciting on the screen, try to practice that as well.
 
-Mostly you will want to practice something that's called _acro_(batic) mode. In this mode, you control the attitude of the aircraft, and as you set it, it stays; for example, if you move the pitch forward and return, the drone will try to stay in that position. It's the most difficult part, but it also give you the most freedom. It may be tempting to start with what's called _angle_ mode, where the drone will automatically return to level position when the yaw/pitch/roll are centered, but despite initial ease, it will only make getting the muscle memory for acro harder.
+Mostly you will want to practice something that's called _acro_(batic) mode. In this mode, you control the attitude of the aircraft, and as you set it, it stays; for example, if you move the pitch forward and return, the quad will try to stay in that position. It's the most difficult part, but it also give you the most freedom. It may be tempting to start with what's called _angle_ mode, where the drone will automatically return to level position when the yaw/pitch/roll are centered, but despite initial ease, it will only make getting the muscle memory for acro harder.
 
 How much are we into the hobby now? Around 100USD. You still have the time to pull out, cut your losses if you don't like it. Take at least few weeks to practice, and if you're on a budget you can stay in this stage without further investment for a while. Otherwise, time to make your first real big decision with...
 
@@ -74,9 +74,9 @@ Currently on the market you will find:
 * DJI,
 * OpenIPC.
 
-The choice of the video system will determine which goggle options you will have, and the overall cost of the video transmitter/camera on the drone.
+The choice of the video system will determine which goggle options you will have, and the overall cost of the video transmitter/camera on the quad.
 
-The classic choice is _analog_. Truly open, with most choices available; it's just sending PAL or NTSC signal over 5.8GHz range. On drones, it's the lightest, and also the cheapest. When the signal breaks up, it usually goes from clear to some snow noise to a full [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash), making a visual reminder that you're about to be out of range and that you should return or get out of the obstruction. Image quality is obviously the shittiest as well and for any cinematic usage you should get a HD camera to be mounted in parallel.
+The classic choice is _analog_. Truly open, with most choices available; it's just sending PAL or NTSC signal over 5.8GHz range. On FPV drones, it's the lightest, and also the cheapest. When the signal breaks up, it usually goes from clear to some snow noise to a full [Snow Crash](https://en.wikipedia.org/wiki/Snow_Crash), making a visual reminder that you're about to be out of range and that you should return or get out of the obstruction. Image quality is obviously the shittiest as well and for any cinematic usage you should get a HD camera to be mounted in parallel.
 
 Next on the list is _HDZero_. This one, despite being fully digital, is often seen as "analog+". It's not recording tier of quality, but is a considerable improvement over analog in quality. The biggest pro in comparison to other systems is that it allows for 90 FPS, for far smoother video than NTSC's 60 FPS. And when HDZero starts breaking up, you can still see some digital dots of noise, not unlike analog, earning it its nickname.
 
@@ -86,7 +86,7 @@ _OpenIPC_ is more of a curiosity at the moment. It's open source software for IP
 
 ### Googling my goggles
 
-I went with analog, mostly on the price factor. For analog goggles, the overall opinion is that Eachine EV800D are the cheapest "worth having". The main selling point is diversity - they accept two antennas, and if one of them loses signal, the other will pick up the pace. That's important because losing your video signal is absolutely the worst case scenario - if the drone drops from the sky, you won't know where; may hit something or someone and you won't know. With two antennas you can specialize as well - have one that's omnidirectional for short to medium range, and one patch antenna looking in a specific direction for longer reach.
+I went with analog, mostly on the price factor. For analog goggles, the overall opinion is that Eachine EV800D are the cheapest "worth having". The main selling point is diversity - they accept two antennas, and if one of them loses signal, the other will pick up the pace. That's important because losing your video signal is absolutely the worst case scenario - if the quad drops from the sky, you won't know where; may hit something or someone and you won't know. With two antennas you can specialize as well - have one that's omnidirectional for short to medium range, and one patch antenna looking in a specific direction for longer reach.
 
 Another important feature in goggles is DVR - just constantly recording the footage. Things may happen quickly, too quickly to react, but if you're able to replay the video right before the crash, it may help you retrace the quad's path.
 
@@ -96,13 +96,13 @@ After a long search, I went with box goggles - Skyzone Cobra X V4 - for about 14
 
 So you may think now - with goggles that can be connected to a PC via HDMI, you can practice in a simulator even better! The reality is that _no, it does not make you for a better experience_. I would even say that I get nausea on a simulator with goggles even quicker. There's no point. I'd rather use them for watching a movie without a screen, looking like _Case_ from [Neuromancer](https://www.reddit.com/r/Cyberpunk/comments/63m5gh/neuromancer_cover_art_by_josan_gonzalez/).
 
-# First drone
+# First quad - a Tinywhoop
 
 Ah finally we're getting to the core of the matter, isn't what this hobby is all about, after all?
 
 Not necessarily. You're more likely to own one pair of goggles and multiple different drones, so maybe the hobby should be called FPV goggling?
 
-For starters, there are many, many choices on the market. You don't have to build your drone either, you can get something premade. There are still few things to consider, main one being...
+For starters, there are many, many choices on the market. You don't have to build your quad either, you can get something premade. There are still few things to consider, main one being...
 
 ## Quadcopter Types
 
@@ -114,7 +114,7 @@ Another factor here may be the battery type taken. Bigger and faster drones will
 
 ### Tinywhoops
 
-Tinywhoops are small drones, often fitting on top of your palm, with usually 35-45mm propellers, with plastic frames and prop guards. Very light - 16-45g depending on exact setup, video system. They're almost indestructible, can be flown indoors and outdoors (if it's not too windy) and they're a lot of fun. Since they're seen as toys and rather cute, they let you do some [guerilla whoopin'](https://www.youtube.com/watch?v=vE8gntoymkA); if someone really doesn't want you flying in a spot, they'll just tell you first rather than calling the cops or FAA.
+Tinywhoops are small quadcopters, often fitting on top of your palm, with usually 35-45mm propellers, with plastic frames and prop guards. Very light - 16-45g depending on exact setup, video system. They're almost indestructible, can be flown indoors and outdoors (if it's not too windy) and they're a lot of fun. Since they're seen as toys and rather cute, they let you do some [guerilla whoopin'](https://www.youtube.com/watch?v=vE8gntoymkA); if someone really doesn't want you flying in a spot, they'll just tell you first rather than calling the cops or FAA.
 
 Frame size is usually in the range of 65-85mm, and it refers to the distance between motors.
 
@@ -136,7 +136,7 @@ The number refers to prop size, rather than frame size. Usually on frames withou
 
 I've been using _usually_ very liberally here because... sky is the limit. There is a lot of _depends_ in this hobby, and yet the gear is usually flexible enough to perform in a role it wasn't designed for.
 
-If I were to summarize drone choice, think about:
+If I were to summarize quad choice, think about:
 
 1) What can you reasonably control without causing damage?
 2) How much space do you have? Is it okay to bring some attention, or would you prefer stealth?
@@ -230,10 +230,71 @@ Here is the part that gets tricky. I know availability and shipping time may be 
 
 Buy a whole new drone, so if one gets damaged, you have a spare to play with while the spare parts are on the way. Sometimes a new part comes and turns out it wasn't the culprit, so you end up with a pile of perfectly working parts. Especially if you upgrade some parts, then you have the old ones - not broken, but unusued; then after a while you can just get one more thing and assemble another drone from the spares.
 
-I think if there's one thing to have ready, it's the camera. It will take probably the most abuse. Or on a rough landing it will hit a rock and have an ugly scratch. Thankfully, analog cameras are not too expensive.
+Get some antennas and props for sure. For electronics, if there's one thing to have ready, it's the camera. It will take probably the most abuse, on a rough landing it may hit a rock that will leave an ugly scratch.
 
 # Batteries
 
+Oh my, we take batteries in our devices for granted so much. RC car, plane, copter batteries come without any protection, and often with multiple cells. Starting with the obvious - charging without a protection circuit may end with overcharging, and thus - a fire.
+
+If you discharge a battery too much, it will build up internal resistance and hold less charge, getting damaged.
+
+If you're dealing with multiple cells, these cells must be balanced - if one cell discharges below its threshold, it will get damaged at best, or may fail when used.
+
+If you crash, or even land a bit roughly, and the physical cell gets damaged, that may cause a cell not to hold charge at best, or a fire while charging at worst.
+
+If you keep a cell charged for too long, it will degrade and lose capacity. If you keep it at too low state of charge, it will degrade and lose capacity. These cells are happiest when at what's called "storage voltage", usually 3.8 to 3.85V. These batteries, when not in use, should be brought to that voltage for longevity. DJI batteries do that on their own (they have an integrated protection circuit and will detect not being used for a long time and discharge), but here - you have to do it manually.
+
+If you charge your battery too fast, it will degrade, and if it's way too fast, it may start a fire. Recommended maximum safe output is 1C; can be pushed to 1.5 or 2 even in a rush; but let's focus on 1C. That's an easy calculation - you take the cell capacity on the sticker, "remove" the hours from mA, and that's your charging current. For example, I have a 1500mAh 6S battery, I would charge it at 1.5A. A 600mAh whoop 1S, at 0.6A. It means that any cell, regardless of capacity, at 1C would be charged fully from zero in 1 hour. But that needs to be set manually.
+
+That's why you need a specialized charger that will be able to charge your battery with balance. In my case, I went with Hota T6 as I mentioned, which can serve up to 6S. I don't plan on getting any higher than that. Charger will detect the number of cells, but it won't detect the capacity, so you need to set the charging current manually.
+
+BetaFPV for Meteor75 included a 2 slot 1S charger, but that forces more current in than 1C, causing the batteries to fail prematurely; especially those with smaller capacities.
+
+While charging, you can also check on the cells' internal resistance. Hota T6 will tell you that after a bit. If it's too high, it is an indicator that the cell may fail soon.
+
+There's two types used in FPV drones: LiPo and LiHV. Lithium polymer batteries are standard, and have a maximum safe voltage of 4.2V per cell. High voltage lithium polymer batteries have a maximum safe voltage of 4.35V. The latter are used in 1S whoops all the time, but you can get them for other drones as well. They get you bit more battery life, or extra oomph at the start.
+
+But that's just charging. What else is there?
+
+Battery connectors: XT60 standard in 6S, XT30 in smaller, BT2.0 or PH2.0 for 1S small drones, etc.; that's easy though, just make sure they're compatible.
+
+There's plenty of discharging worries - also not obvious at the first glance. A fully charged battery will show you 4.35V on a multimeter, but when plugged into a drone, will show maybe a bit more than 4.2V - under load, voltage drops. That will further go down once you spin up the motors, especially at full throttle. Momentary drops of voltage are normal, and thus it's hard to gauge how much battery juice you have left. Some flight controllers can display the momentary power draw, or power used in mAh; that's helpful. Another thing could be a timer and just your own experience. The most important thing is to constantly keep an eye out for the battery voltage; usually at 3.3V with low load the cell is almost at the end and you should land - for a whoop, for bigger drones, 3.5V is a safer place to be. If your battery has less capacity than advertised, flying by time or total power draw will only cause you trouble.
+
+Remember also about battery sag - at lower end of the voltage range, motors will spin up slower, and may make some tricks that rely on a throttle punch fail.
+
+Batteries have also a characteristic that's called a "C rating", that means how much power can you pull out safely, without the cell failing or causing degradation. Quadcopter batteries often have 90-100C rating that usually covers most use-cases. For the first build (more on which later), I got a small, light, LiHV 1100mAh battery that only had 60C rating, meaning up to 66A safe draw; thankfully, at full throttle the drone would draw only 40-42A.
+
+So yes, another part of the hobby that takes considerable mental space is managing your batteries, pre-emptively charging the day before, not keeping them at full charge for too long, flying responsibly without putting too much stress on them, discharging to storage and monitoring their charge so they don't cause a fire.
+
+# Skill progression and the little things I picked up
+
+It's not just about flying skills, although these have improved over time. Making smooth movements, anticipating turns, rather than reacting in a robotic way just takes time and practice. However, your technique matters as well; I switched from holding the radio like a controller and using thumbs to keeping the thumb on top, but supporting from the front with the index finger - sometimes called "hybrid pinching". For Radiomaster Pocket I also got 3D-printed stick ends, called FeliSticks V3 - far more comfortable than the pointy-ended metal sticks included by the manufacturer.
+
+Slow, methodical flying is a skill, and landing where you want is something what you don't think about when flying in a simulator. And it's that skill that will help you the most with keeping your drone intact, or with minimum damage.
+
+With more confidence and less crashes I could take the whoops to the city and do some guerilla whooping - flying in the city environment where you could get into trouble, especially if you hit someone. Getting to the skill level of that and confidence is the hardest part when starting out, where you really need big, open, and forgiving spaces; where a crash doesn't mean a loss of the drone (e.g. no water, no mountains, limited trees), but also give you enough room to zoom around and have fun. Simulators are great for learning (and LiftOff is only getting better physics), but getting real-life confidence is crucial.
+
+Some VLOS experience also helps in case a camera or VTX fails after a crash. Or just for showing off, it's somewhat impressive to other pilots especially.
+
+There is also skill in antenna placement, and knowing roughly the shape of the output depending on the antenna. Too often I would complain about terrible range when I would be flying sideways to myself, where there is an RF blindspot on the RM Pocket; I should have rotated the antenna sideways. For VTX, you can get a patch antenna that will get the signal from a narrower angle in the front, meaning better gain in that particular direction, but being almost blind in any other place (that's why diversity is important!).
+
+Conformal coating may save you from a humid or wet environment. That's an extra layer of plastic that you can paint or spray onto the board (making sure you don't cover the barometer!) that should protect it in case it gets wet. There are guides about it online. That probably could have saved some stress when I first landed in water. It's also important in snowy environments.
+
+For radios with a screen, you can get a cool [telemetry](https://github.com/iNavFlight/OpenTX-Telemetry-Widget) script, and one for [finding your drone](https://github.com/iamsunilchahal/edgetx-lua-scripts-bw). Generally spend some time configuring your radio, according to some guides, or to your tastes. Dynamic power is the one thing I would enable first; another is configuring extra switches, or cutting them out to make for more efficient communication. How often are the packets sent is a tradeoff between responsiveness and range (lower packet rates will fly further).
+
+Same goes for Betaflight, the firmware on the drone. It has a lot of options, and new features are added from time to time; keep an eye out. GPS Rescue is one thing that adds an almost DJI-like return to home function if the link is lost. There's countless parameters to tune to your liking. Don't worry about them though, unless something is terribly wrong, your quad will keep flying.
+
+However I'd definitely recommend you to configure your OSD to have at least:
+* Link quality,
+* Link RSSI in dBm,
+* Link power if you're using dynamic power,
+* Battery voltage,
+* Timer,
+* For GPS: Latitude, longitude
+
+There are many things that can be displayed, but IMO these are essential to keep an eye out to not lose a connection and/or battery. That's especially true in environments you don't have much control over - you can probably skip most of the link quality stuff if you fly in an area you know, not going too far.
+
+Over time you'll also find what you're most interested in - freestyle, racing, ;long range cruising, mountain diving, and you'll adjust your settings and parts to match your tastes. I found that I don't have the talent/money/reflexes for freestyle, but I learned few tricks to make flights more fun. It's kind of like skateboarding, except for your fingers, not your whole body.
 
 # First build, and third drone
 
@@ -280,3 +341,25 @@ I gave it a full throttle punch to check if the ESC can take the full power draw
 Suddenly, I see the video signal failing. The snowy noise overtakes my screen. Something gave in, maybe the VTX antenna? I thought I know what I need to do - bring it down, closer. I switch to angle mode to ensure the drone is level to try to catch it, but by the time I take off my goggles it's already coming to the ground. I just hear a crashing noise, somewhere. I have no control link, and no video feed. I walk around the field, fairly clueless, when the controller catches a glimpse of the signal. Rocks are opaque to RF, so there is a connection, and some hope it's not stuck on a tree on the mountain.
 
 Reviewing the video footage, the feed came back for just few frames, telling me a little more about where it went. It seemed to be already below the face of the cliff. But how do you find it? I have a link, so the battery wasn't disconnected. I arm the drone and try to move it, listening for the whine of motors. Nothing. Walk to another spot, try again. That's how I did it with the whoop before. I was already somewhat devastated; a thousand HK dollars gone on the first flight! Already thinking of a new build... but I hear the motors whining.
+
+It was stuck on a tree in a barely accessible spot, with the battery ejected from the strap and hanging, with no damage. I got stupid lucky. That same day, besides a new camera, I also ordered a buzzer. These have to be somewhat special, not like the PC ones, they need external voltage and a signal to beep.
+
+## Getting the hang of it
+
+I flew it few more times and got way more confident than I ever did with the 5". So I got a Runcam Thumb to stick on top of it without being too heavy, for more cinematic views.
+
+Sure, not doing any flights in the city, but I took it up Kowloon Peak where it would be pretty windy; one stressful flight later I realized I don't have an SD card in my goggles so it would be very difficult to find it if I crashed without a DVR. Would've flown again if not for that!
+
+I also took it to Po Toi island, where without much interference I had a few fun runs. There's a realization somewhere that we're building machines that can fly very high, but it's actually most fun to hang close to the ground.
+
+I also installed a tiny GPS, for potential longer range ops and GPS rescue. The whole build has become incredibly messy, but it works and props are not cutting anything. And it still feels nice to fly. I upgraded the camera. And we just arrived to now.
+
+# What will the future hold?
+
+More flying. Of course I don't always have the time (or desire, or weather, or confidence) to do so. Biggest problem is probably traveling to places that have enough free space and no people that could ~~snitch~~ be bothered. Hopefully, with a personal transportation device that I'm working to get a license for, it will be less of an issue. Still, coming back to places I've been to is an acceptable compromise, to polish up the skills, or try new tricks.
+
+I even returned to simulator flying with LiftOff to practice tricks. I get dizzy with it very quickly so they're not long sessions, but I still get some stick time even if I can't be bothered to go out.
+
+Long term I would definitely want to switch to digital, but all systems have pros and cons; HDZero has no recording capabilities, Walksnail seems half dead and DJI's problem is that it's a massive corporation and I wouldn't want to support a monopoly; and a common disadvantage is of course price. Flying wise? I'm quite content with the quads I have, so if anything happens, it's after I crash or lose one.
+
+Has this article cleared anything up for you? If you're into FPV already, there's no new information here; but if you're new or curious, does it give a better idea of everything involved?
