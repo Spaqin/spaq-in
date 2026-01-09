@@ -304,7 +304,7 @@ I wanted a 3.5" prop-drone, powered by a 4-cell (4S) battery, preferably under 2
 
 I learned more or less what the required parts are, with some fixes on the Meteor and trying to tune the Manta, learning more things from guides and tutorials. I finally gathered up the courage to build my own.
 
-I went through the part list on HappyModel site, as reference. For the base, I found the Crux35 frame. 1404 3800kV iFlight Xing2 motors will be pulling the whole body up. Noted that the frame takes 25.5mm mounting holes and chose the ESC (electronic speed controller, the thing that gives power to the motors) and FC (flight controller) based on that and price - JHEMCU F405-based. For video transmitter, the choices were quite limited in the mounting size, but I found a Tiger II 600mW VTX that would fit. Antenna for that. Camera, cheapest Caddx Baby Ratel, 14mm mounting size. EP1 ELRS receiver (but they only had EP2 in stock, so I got that instead). Props, there seemed to be various pitch and shapes available; got a buch to try. And a whole bunch of extra screws and nuts.
+I went through the part list on HappyModel site, as reference. For the base, I found the Crux35 frame. **1404 3800kV iFlight Xing2** motors will be pulling the whole body up. Noted that the frame takes 25.5mm mounting holes and chose the ESC (electronic speed controller, the thing that gives power to the motors) and FC (flight controller) based on that and price - **JHEMCU F405-based**. For video transmitter, the choices were quite limited in the mounting size, but I found a **Tiger II 600mW VTX** that would fit. Antenna for that, something random, RHCP. Camera, cheapest **Caddx Baby Ratel**, 14mm mounting size. EP1 ELRS receiver (but they only had EP2 in stock, so I got that instead). Props, there seemed to be various pitch and shapes available; got a bunch to try. And a whole bunch of extra screws and nuts.
 
 There are plenty of tutorials on the builds - building standoffs, assembling frames, connections. I was quite confident with my soldering (to some extent) and started assembling. It can't be that hard, it's basically an adult version of LEGO, right?
 
@@ -352,7 +352,30 @@ Sure, not doing any flights in the city, but I took it up Kowloon Peak where it 
 
 I also took it to Po Toi island, where without much interference I had a few fun runs. There's a realization somewhere that we're building machines that can fly very high, but it's actually most fun to hang close to the ground.
 
-I also installed a tiny GPS, for potential longer range ops and GPS rescue. The whole build has become incredibly messy, but it works and props are not cutting anything. And it still feels nice to fly. I upgraded the camera. And we just arrived to now.
+I also installed a tiny GPS, for potential longer range ops and GPS rescue (but at this point it doesn't want to work). The whole build has become incredibly messy, but it works and props are not cutting anything. And it still feels nice to fly. I upgraded the camera. And we just arrived to now, where I'm planning to basically redo the whole build, disconnect, shorten cables, and make it cleaner.
+
+# Second build - a dental tool
+
+Sometime after finishing up the Crux-based quad, I was tempted by ATK65 carbon frames on Taobao. I had some spare BetaFPV motors and props, I would need to get an AIO (flight controller + ESC + VTX + ELRS), a canopy and a camera. The goal would be this time to make a drone that's lighter than my Meteor, and more of an efficient zipper. Hopefuilly below 20g dry.
+
+The total price wasn't too bad, and the parts would include:
+* 4x 0802 19500kV motors from BetaFPV (one burned out, replaced with Happymodel SE0802 19000kV)
+* Matrix 5in1 AIO (I clipped the motor cables to save some weight on the plastic; was cheaper than the Air AIO still)
+* Air-like canopy, 3D printed (official one was 20cny for one, unofficial - 20 for 5, a little heavier),
+* C03 camera,
+* 40mm biblade props (later upgraded to 45mm that *barely* fit and scrape the canopy sometimes).
+
+Plus 4 M2 10mm screws, with metal nuts to fasten to the frame and nylon for the AIO and canopy boards. I think it looks neat.
+
+I know that Air65 is just a bit below 18g, with a plastic frame; it felt doable, I surely can do something better than the manufacturer? Carbon is light, right?
+
+I got it down to 22.4g dry, with the props on. That's a massive difference. On the other hand, my Meteor is about 27g, but also has stronger motors. Things start to get blurry and it feels like I just made something that flies similarly. What was the point of this again?
+
+In the end, it is different enough. The lack of prop guards makes for a much more responsive quad that can withstand more wind, and creates less propwash. It's quieter as well. "Slower" motors make for longer play time, 5 minutes is easily achievable, and it's still quite responsive. For cruising along that I like to do? Flies even smoother.
+
+Of course, not without problems. Lack of prop guards also means that in crashes, dings, the props might get bent more easily and I do replace them way more often. Screws I had were too short and so one time the motor has detached mid-flight; I couldn't figure out the battery holder for too long (didn't realize there were supports I had to cut and it would fall off); once the prop has had enough abuse and also disengaged from the drone above some trees, but thankfully I found it easily.
+
+So for casual outings I'd just bring them both, have fun with one, try the other; if one breaks I still have a backup. Never enough quads.
 
 # What will the future hold?
 
@@ -360,6 +383,6 @@ More flying. Of course I don't always have the time (or desire, or weather, or c
 
 I even returned to simulator flying with LiftOff to practice tricks. I get dizzy with it very quickly so they're not long sessions, but I still get some stick time even if I can't be bothered to go out.
 
-Long term I would definitely want to switch to digital, but all systems have pros and cons; HDZero has no recording capabilities, Walksnail seems half dead and DJI's problem is that it's a massive corporation and I wouldn't want to support a monopoly; and a common disadvantage is of course price. Flying wise? I'm quite content with the quads I have, so if anything happens, it's after I crash or lose one.
+Long term I would definitely want to switch to digital, but all systems have pros and cons; HDZero has no recording capabilities, Walksnail seems half dead (but fairly priced on the Chinese market) and DJI's problem is that it's a massive corporation and I wouldn't want to support a monopoly; and a common disadvantage is of course price. Flying wise? I'm quite content with the quads I have, so if I change the systems, it's gonna be probably after I crash badly or lose one of the bigger quads.
 
-Has this article cleared anything up for you? If you're into FPV already, there's no new information here; but if you're new or curious, does it give a better idea of everything involved?
+Has this article cleared anything up for you? I tried to ease in some terms, but extra reading may be necessary. If you're into FPV already, there's no new information here; but if you're new or curious, does it give a better idea of everything involved?
