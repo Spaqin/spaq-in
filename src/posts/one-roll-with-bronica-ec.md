@@ -59,6 +59,7 @@ There is a chimney with a meter for EC, if you want TTL metering, but I realized
 * Self-timer: No
 * Battery: 4LR44, required (only B mode works without a battery)
 * Weight: Still fucking heavy (2003g with lens, film back, waist level finder)
+* Original price (1972): 128500 JPY (body only), 161700 JPY (w/ 75mm f2.8) 
 
 ![On scale](../images/bronicaec/product/scale.jpg)
 

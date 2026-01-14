@@ -43,6 +43,7 @@ The other day I passed by HKCamera, the same shop that sold me the Canon P which
 * Viewfinder: Optical, covers 90% (yeah right), or arrows on the lens
 * Filters: Special mounting system
 * Metering: No
+* Original price (1959): 74500 JPY
 
 
 <div style="display:flex">

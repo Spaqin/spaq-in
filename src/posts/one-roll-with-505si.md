@@ -35,6 +35,8 @@ Of course, before passing my gift, I had to test it out myself... inside I found
 
 I'm not gonna go over the specs. Released in 1998, at the end of film era, for a budget cam, on paper it's not too bad. Nothing crazy, got very fast shutter speeds, few autofocus points, etc. Do read the manual if you're more curious - it's a neat part of the package. I liked the increasing film counter - very small touch, very smart. 
 
+One thing of note may be the original price in 1999: 92000 JPY with 28-80mm f3.5-5.6, 67000 JPY for body only. Nowadays it's not impossible to find it for 1000-2000 JPY.
+
 First thing you notice when you get your hands on it is just how light it is! With the kit lens, around half a kilo? With the grip, it's easy to handle it onehanded. Put the strap around your arm, and hold it like a point and shoot, but with a comfortable (although fully plastic) grip. It gets slightly heavier with film and 2 CR2 batteries, but never unmanageable. Of course, take this with a grain of salt as it's said by a guy who would handhold a Mamiya RB67. Do make note of the batteries - CR2, not exactly easy to find. I understand why - size, weight are significant factors, but I kind of wish it would take AAs instead. Thankfully, it wasn't that hard to find them, and you can even find rechargeable ones to save you money over time. On top of that, the data back takes a CR2025 battery. I didn't use it as I put the film first, then remembered that I need to change it...
 
 Yes, outside is plasticky. The shutter is metal, though. Yes, it's light. But it doesn't feel bad. Plastics aren't creaking, buttons (besides MF/AF switch) press with a pleasant click. Nothing really to complain about yet!

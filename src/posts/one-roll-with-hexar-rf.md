@@ -30,6 +30,7 @@ Seems like it, true. I really cannot argue with that - hobbyists do tend to go f
 * Hot shoe: Yes, with additional pin for when the flash is ready - just like Minolta X series (post SRT, pre autofocus)
 * Automatic wind, rewind
 * Batteries: 2x CR2
+* Original price (1999): 168000 JPY (body only)
 
 There was a 'facelift' model with supposedly better rangefinder mechanism - recognized by a small plastic half-circle guard at the lens release button.
 

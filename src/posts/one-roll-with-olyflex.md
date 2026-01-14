@@ -7,7 +7,7 @@ tags: ["Camera Review", "Film Photography", "Olympus", "Olympusflex", "TLR", "Me
 
 Originally written on 2024-09-23.
 
-Or when you learn that Rolleiflex was not the only TLR with a f2.8 lens.
+Or when you learn that Rolleiflex was not the only TLR with an f2.8 lens.
 
 Most camera manufacturers that hung around long enough had a TLR in their lineup, even if we don't remember them for these quirky beasts; with notable exceptions being Canon and Nikon. And at the time it made sense - baby format was still in its infancy, and folders were slowly becoming passe. 
 

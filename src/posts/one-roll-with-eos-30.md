@@ -31,6 +31,8 @@ Although big and black, it's sleek. You put your hand around the grip, and it fe
 
 It's not a flagship camera, and yet it feels like one. Released in 2000, at the end of the film era, it's packed with features you didn't know you needed. It runs on two CR123A batteries - or with the vertical grip, on 4 AAs. It adds to the heft, but also to the convenience - CR123As aren't *that* easy to find and they're quite pricy. I'd rather load it up with 4 LADDAs from IKEA and recharge when necessary.
 
+The original price for this camera in 1999 was 93000 JPY for body only and 138000 JPY with 28-105mm f3.5-4.5 included. A considerable step up from the more budget Minolta Alpha Sweet (505si), also [reviewed here](one-roll-with-505si.md).
+
 But it never lets you forget you're shooting a CANON.
 CANON CANON CANON. Four times on the front. That's how you build brand awareness. By being annoying. At least the rear is clean of it.
 
