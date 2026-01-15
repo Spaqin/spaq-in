@@ -1,6 +1,6 @@
 ---
 title: "POV: you become an FPV pilot - my path to flying FPV quads"
-date: "2026-01-xx"
+date: "2026-01-15"
 featured: "../images/fpv/title.jpg"
 tags: ["fpv", "gear", "drones", "quadcopters"]
 ---
@@ -177,10 +177,12 @@ The time has come to fly outdoors more with a trip to Poland, and thus bought a 
 
 One thing I haven't mentioned so far is that landings at this time was either just ending the run after a crash, or crashing deliberately into grass near me. That works. Landing is one trick that FPV pilots can't do, right?
 
-<video controls autoplay loop muted style="width: 100%;">
+<video controls loop muted style="width: 100%;">
   <source src="/vids/fpv/perch.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
+
+_This trick is called "perching", where you land on top of a pole or something else._
 
 I also started to run into my first technical issues. Most often it would be the camera getting disconnected after a proper smack. Sometimes the video transmitter would glitch out, especially if it was left transmitting without flying for too long (they get hot!). Props would get mangled as well. 
 
@@ -190,10 +192,12 @@ There I found a place that's without any security ready to scream at you, that i
 
 It was all good until I was showing off and did a flip near the sea, didn't recover on time, hit a rock which bounced my Meteor75 into the sea.
 
-<video controls autoplay loop muted style="width: 100%;">
+<video controls loop muted style="width: 100%;">
   <source src="/vids/fpv/deathstarcrash.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
+
+_That's a different crash, but ended with the camera being disconnected. Not fun at all!_
 
 Thankfully, it was fine after two days of washing in isopropanol, except for the camera. It still flies to this day, after some more crashes and repairs - I had to fix the power cable as it was too tight and broke off, and I finally soldered the camera directly to the video transmitter, after ripping off the connector in a particular crash. Doesn't matter, it flies, and I have a lot of fun with it; it's also my most reliable drone. And you can still spot some salt or rust deposits on the main flight controller board.
 
@@ -302,16 +306,14 @@ Slow, methodical flying is a skill, and landing where you want is something what
 
 With more confidence and less crashes I could take the whoops to the city and do some guerilla whooping - flying in the city environment where you could get into trouble, especially if you hit someone.
 
-<video controls autoplay loop muted style="width: 100%;">
+<video controls loop muted style="width: 100%;">
   <source src="/vids/fpv/guerilla_city.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
-<video controls autoplay loop muted style="width: 100%;">
+<video controls loop muted style="width: 100%;">
   <source src="/vids/fpv/guerilla_playground.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
-
-`youtube: https://youtu.be/GBmYLS4Zczk`
 
 Getting to the skill level of that and confidence is the hardest part when starting out, where you really need big, open, and forgiving spaces; where a crash doesn't mean a loss of the drone (e.g. no water, no mountains, limited trees), but also give you enough room to zoom around and have fun. Simulators are great for learning (and LiftOff is only getting better physics), but getting real-life confidence is crucial.
 
@@ -328,6 +330,10 @@ Conformal coating may save you from a humid or wet environment. That's an extra 
 
 For radios with a screen, you can get a cool [telemetry](https://github.com/iNavFlight/OpenTX-Telemetry-Widget) script, and one for [finding your drone](https://github.com/iamsunilchahal/edgetx-lua-scripts-bw). Generally spend some time configuring your radio, according to some guides, or to your tastes. Dynamic power is the one thing I would enable first; another is configuring extra switches, or cutting them out to make for more efficient communication. How often are the packets sent is a tradeoff between responsiveness and range (lower packet rates will fly further).
 
+`youtube: https://youtu.be/GBmYLS4Zczk`
+
+_Fly further or penetrate through concrete better._
+
 Same goes for Betaflight, the firmware on the drone. It has a lot of options, and new features are added from time to time; keep an eye out. GPS Rescue is one thing that adds an almost DJI-like return to home function if the link is lost. There's countless parameters to tune to your liking. Don't worry about them though, unless something is terribly wrong, your quad will keep flying.
 
 However I'd definitely recommend you to configure your OSD to have at least:
@@ -342,10 +348,12 @@ There are many things that can be displayed, but IMO these are essential to keep
 
 Over time you'll also find what you're most interested in - freestyle, racing, long range cruising, mountain diving, and you'll adjust your settings and parts to match your tastes. I found that I don't have the talent/money/reflexes for freestyle, but I learned few tricks to make flights more fun. It's kind of like skateboarding, except for your fingers, not your whole body.
 
-<video controls autoplay loop muted style="width: 100%;">
+<video controls loop muted style="width: 100%;">
   <source src="/vids/fpv/doublepowerloop.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
+
+_And maybe you can do a power loop twice in a row! It could be much neater and tighter, but still - super happy with this trick._
 
 # First build, and third drone
 
@@ -402,7 +410,7 @@ I reinstalled new props and finally went into the air. It was rather windy, but 
 
 I gave it a full throttle punch to check if the ESC can take the full power draw. No problem, and the amperage displayed on the OSD was well below the maximum limit. I do a little flip as well, and do another throttle punch, above the hill.
 
-<video controls autoplay loop muted style="width: 100%;">
+<video controls loop muted style="width: 100%;">
   <source src="/vids/fpv/cruxmaidencrash.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
@@ -423,7 +431,7 @@ I flew it few more times and got way more confident than I ever did with the 5".
 
 Sure, not doing any flights in the city, but I took it up Kowloon Peak where it would be pretty windy; one stressful flight later I realized I don't have an SD card in my goggles so it would be very difficult to find it if I crashed without a DVR. Would've flown again if not for that!
 
-<video controls autoplay loop muted style="width: 100%;">
+<video controls loop muted style="width: 100%;">
   <source src="/vids/fpv/crux_kowloonpeak.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
@@ -459,14 +467,14 @@ In the end, it is different enough. The lack of prop guards makes for a much mor
 
 Of course, not without problems. Lack of prop guards also means that in crashes, dings, the props might get bent more easily and I do replace them way more often. Screws I had were too short and so one time the motor has detached mid-flight; I couldn't figure out the battery holder for too long (didn't realize there were supports I had to cut and it would fall off); once the prop has had enough abuse and also disengaged from the drone above some trees, but thankfully I found it easily.
 
-<video controls autoplay loop muted style="width: 100%;">
+<video controls loop muted style="width: 100%;">
   <source src="/vids/fpv/tufpikcrash.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 
 So for casual outings I'd just bring them both, have fun with one, try the other; if one breaks I still have a backup. Never enough quads.
 
-<video controls autoplay loop muted style="width: 100%;">
+<video controls loop muted style="width: 100%;">
   <source src="/vids/fpv/nightstall_tufpik.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
