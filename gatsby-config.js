@@ -99,6 +99,7 @@ module.exports = {
                 noIframeBorder: true
             },
           },
+          'gatsby-remark-embed-youtube',
           {
             resolve: "gatsby-remark-images",
             options: {
@@ -117,12 +118,6 @@ module.exports = {
           "gatsby-remark-image-attributes"
         ],
       },
-    },
-    {
-      resolve: `gatsby-plugin-disqus`,
-      options: {
-          shortname: `spaqin`
-      }
     }
   ],
 }
