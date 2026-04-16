@@ -45,7 +45,7 @@ How a relatively unknown Chinese factory can make half decent film basically on 
 
 Supposedly, they used to coat film for Kodak back in the 90s. That's... quite incredible to think of. No way that Kodak shared the recipe, right...? 
 
-Ilford used to make Ilfocolor, Orwo (as InovisCoat) coated film for Lomo. Adox had the frozen film they made themselves. The experience does not map with a quality product by itself.
+Ilford used to make Ilfocolor, Orwo (as InovisCoat) coated film for Lomo, Polaroid and other companies. Adox had the frozen film they made themselves. The experience does not map with a quality product by itself.
 
 Regardless, you can buy Lucky C200 for about 45CNY in either 135 or 120 format - without the development of course. That's the cheapest color film on the market, and it's pretty good. What an achievement. They were quite Lucky with timing the market as well, neatly fitting in the surprisingly empty niche of "good film for a good price".
 
