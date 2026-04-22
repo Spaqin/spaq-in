@@ -169,7 +169,7 @@ You can use your own bike for the exam as well - although you can't really drive
 
 ### Learner's limitations
 
-There are few caveats. Biggest one, in a big simplification, you can't go on the highways or take the tunnels. There are also other roads marked with no learner's allowed, but the logic there is a bit weird. I found an Excel sheet with the places listed, and I painstakingly confirmed it with Street View and made it into a [list on Google Maps](https://maps.app.goo.gl/xUKYShZsMzkNdxN6A), for Hong Kong Island only. It's non-exhaustive, and I skipped the obvious no highways/tunnels.
+There are few caveats, [as you can see officially here](https://www.td.gov.hk/filemanager/en/publication/conditions_imposed_with_issue_of_ldl_eng.pdf). Biggest one, in a big simplification, you can't go on the highways or take the tunnels. There are also other roads marked with no learner's allowed, but the logic there is a bit weird. I found an Excel sheet with the places listed, and I painstakingly confirmed it with Street View and made it into a [list on Google Maps](https://maps.app.goo.gl/xUKYShZsMzkNdxN6A), for Hong Kong Island only. It's non-exhaustive, and I skipped the obvious no highways/tunnels.
 
 On top of that, there's a time limitation - no night riding and no rush hours. The times forbidden are:
 * Every day: 23:30 to 6:00
@@ -181,6 +181,8 @@ Public holidays are treated as Sundays.
 There's also no passengers allowed, fair enough.
 
 It's fairly limiting if you commute to work of course; you either wait a bit longer (maybe grab a dinner?) or get to work earlier, if that's allowed. Of course assuming your home and work are in the same allowed area. On the other hand, if you don't display the plates, it could be a 450HKD fine if you get caught; similarly, another 450HKD if you get caught on a road not permitting learner drivers. If you get caught.
+
+Still, it's relatively common for learners who have the means to get a bike. Once I passed my part B I had a chat with a clerk at the school - where he asked me if I want to get the license myself, or through them. Young guy, quite invested into the scene - me frankly new, but eager to learn. Most of his friends going through the process had a bike ordered before the exam, ready to be picked up the moment they get their hands on the license. First bike? Well, I had a CB190R in mind, maybe a cafe racer later... but these are uncomfortable according to him. Something easy. How about the restrictions? Yeah they suck, but sometimes if you take off the L, and don't get caught, it'll be fine, but shh.
 
 ### Insurance
 
