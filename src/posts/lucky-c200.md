@@ -1,7 +1,7 @@
 ---
 title: "Lucky C200 review - the REDS are back - cheaper than ever!"
 date: "2026-04-24"
-featured: "../images/luckyc200/product/mino.jpg"
+featured: "../images/lucky200/product/mino.jpg"
 tags: ["Film", "Review", "Film Photography"]
 ---
 
