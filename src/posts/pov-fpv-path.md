@@ -479,6 +479,21 @@ So for casual outings I'd just bring them both, have fun with one, try the other
   Your browser does not support the video tag.
 </video>
 
+# Last but not least - Air 65 II Champion
+
+In early 2026 BetaFPV releaed an improved version of the Air series - ultralight tinywhoops. Faster, lighter, more durable, supposedly.
+
+With three versions, Freestyle, Racing and Champion, differing in motor strength (and battery life), with some extra weight savings on the Champion, I finally felt confident to fly the strongest version of the 65. Pair it up with the smallest, lightest, 280mAh batteries for minimum weight - loaded up Air65 II Champion is lighter than my Meteor without a battery, and go rip.
+
+<video controls loop muted style="width: 100%;">
+  <source src="/vids/fpv/air65iicrip.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
+I was not ready - it's twitchy, it's super responsive and probably the most fun quad I have in my collection now. And if you get it under your control, it's also extremely rewarding. I am not a fan of the typical tight indoor courses, but thankfully, this quad is also great fun outdoors. Power is never a problem here, only your skill dictates the ceiling.
+
+Problem starts with battery life - hard pulls end with the battery unable to keep up, less than 2 minutes. Lighter flying gets you 3, maybe 3.5 minutes. Get a few of these batteries. At the end of a session though you'll be exhilarated, even if you can't follow the lines you were imagining at first.
+
 # What will the future hold?
 
 More flying.
