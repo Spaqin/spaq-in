@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 
 const IssoComments = ({ slug, title }) => {
   // Define the server URL in one place for easy updates.
-  const issoServerUrl = 'https://cdn.spaq.in:17135/';
+  const issoServerUrl = 'https://cdn.spaq.in:20640/';
 
   useEffect(() => {
     // Check if the script is already on the page to avoid adding it again
@@ -10,7 +10,7 @@ const IssoComments = ({ slug, title }) => {
     script.id = 'isso-script';
 
     // This points to the Isso JavaScript file on your server.
-    // Note the custom port :17135 for HTTPS.
+    // Note the custom port :20640 for HTTPS.
     script.src = `${issoServerUrl}js/embed.min.js`;
 
     // This tells the script where your Isso server is running.
